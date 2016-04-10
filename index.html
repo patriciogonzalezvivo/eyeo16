@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang='en'>
+
+    <head>
+        <meta charset='utf-8'>
+
+        <title>Maps and Shaders</title>
+
+        <meta name='description' content='OpenVis 16 talk about: Enhancing your maps and visualizations with WebGL GLSL Shaders'>
+        <meta name='author' content='Patricio Gonzalez Vivo'>
+
+        <meta name='apple-mobile-web-app-capable' content='yes' />
+        <meta name='apple-mobile-web-app-status-bar-style' content='black-translucent' />
+
+        <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui'>
+
+        <!-- Fetch -->
+        <script type='text/javascript' src='src/fetch.js'></script>
+
+        <!-- GLSL Canvas -->
+        <script type='text/javascript' src='http://patriciogonzalezvivo.com/glslCanvas/build/GlslCanvas.min.js'></script>
+        <!-- GLSL Editor -->
+<!--         <link type='text/css' rel='stylesheet' href='http://patriciogonzalezvivo.com/glslEditor/build/css/main.css'>
+        <script type='application/javascript' src='http://patriciogonzalezvivo.com/glslEditor/build/js/glslEditor.js'></script>
+ -->
+
+        <!-- Reveal.js -->
+        <script src='src/reveal/lib/head.min.js'></script>
+        <script src='src/reveal/reveal.js'></script>
+        <link rel='stylesheet' href='css/reveal.css'>
+        <link rel='stylesheet' href='css/github.css'>
+
+        <!-- Code syntax highlighting -->
+        <link rel='stylesheet' href='css/style.css'>
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'css/reveal-pdf.css' : 'css/reveal-paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+    </head>
+
+    <body>
+        <div class='reveal'>
+            <div id='slides' class='slides' >
+
+                <section data-markdown='00-intro.md'
+                    data-separator='^\n---\n$' 
+                    data-separator-vertical='^\n--\n$'
+                    data-separator-notes='^Note:'
+                    data-element-attributes='{_\s*?([^}]+?)}'
+                    data-charset='utf-8'>
+                </section>
+
+                <section data-markdown='01-how_I_am.md'  
+                    data-separator='^\n---\n$' 
+                    data-separator-vertical='^\n--\n$'
+                    data-separator-notes='^Note:'  
+                    data-charset='utf-8'
+                    data-element-attributes='{_\s*?([^}]+?)}'
+                    style='width: 100%; height: 100%;'>
+                </section>
+
+                <section data-markdown='02-what_is_a_shader.md'  
+                    data-separator='^\n---\n$' 
+                    data-separator-vertical='^\n--\n$'
+                    data-separator-notes='^Note:'  
+                    data-charset='utf-8'
+                    data-element-attributes='{_\s*?([^}]+?)}'
+                    style='width: 100%; height: 100%;'>
+                </section>
+
+                <section data-markdown='03-shaders_in_maps.md'  
+                    data-separator='^\n---\n$' 
+                    data-separator-vertical='^\n--\n$'
+                    data-separator-notes='^Note:'  
+                    data-charset='utf-8'
+                    data-element-attributes='{_\s*?([^}]+?)}'
+                    style='width: 100%; height: 100%;'>
+                </section>
+
+                <section data-markdown='04-what_about_data.md'  
+                    data-separator='^\n---\n$' 
+                    data-separator-vertical='^\n--\n$'
+                    data-separator-notes='^Note:'  
+                    data-charset='utf-8'
+                    data-element-attributes='{_\s*?([^}]+?)}'
+                    style='width: 100%; height: 100%;'>
+                </section>
+
+            </div>
+        </div>
+        <script src="src/main.js"></script>
+        <script>
+            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+            ga("create", "UA-18824436-1", "patriciogonzalezvivo.com");
+            ga("send", "pageview");
+        </script>
+    </body>
+</html>

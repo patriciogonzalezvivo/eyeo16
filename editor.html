@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>GLSL Editor</title>
+		<link href="/favicon.gif" rel="shortcut icon"/>
+		<!-- GLSL Canvas -->
+		<script type="text/javascript" src="http://patriciogonzalezvivo.com/glslCanvas/build/GlslCanvas.min.js"></script>
+		<style>
+			body {
+				height: 100%;
+    			margin: 0;
+	  			background: #272822;
+			}
+
+			#glsl_editor {
+				height: 100%;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="glsl_editor"></div>
+	</body>
+
+	<link type="text/css" rel="stylesheet" href="http://patriciogonzalezvivo.com/glslEditor/build/glslEditor.css">
+    <script type="application/javascript" src="http://patriciogonzalezvivo.com/glslEditor/build/glslEditor.js"></script>
+    <script type="text/javascript">
+    	window.glslEditor = new GlslEditor('#glsl_editor', { 
+    		canvas_size: 500,
+            canvas_draggable: true,
+    		theme: 'monokai',
+    		multipleBuffers: true,
+            watchHash: true,
+            fileDrops: true,
+    		menu: true
+    	});
+    </script>
+</html>

@@ -1,0 +1,246 @@
+<!doctype html>
+<!--
+    Tangram: real-time WebGL rendering for OpenStreetMap
+    http://github.com/tangrams/tangram
+    http://mapzen.com
+-->
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <title>Tangram</title>
+        <style>
+            body {
+                margin: 0px;
+                border: 0px;
+                padding: 0px;
+                overflow: hidden;
+            }
+
+            #map {
+                position: absolute;
+                background: black;
+                height: 100%;
+                width: 100%;
+                margin: 0px;
+                padding: 0px;
+                z-index: 0;
+                background: rgba(0, 0, 0, 0);
+                z-index:0;
+            }
+
+            body {
+                margin: 0px;
+                border: 0px;
+                padding: 0px;
+            }
+
+            #map {
+                background: rgba(0, 0, 0, 0);
+                z-index:0;
+            }
+
+            
+            .leaflet-control-attribution {
+                font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+                font-weight: 200;
+                color: black;
+                background-color: rgba(0,0,0,0.5);
+                background: rgba(0,0,0,0.5);
+            }
+
+            .leaflet-control-attribution a {
+                font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+                font-weight: 200;
+                color: black;
+            }
+
+            .leaflet-control-attribution a:hover {
+                font-weight: 400;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <!-- 3rd party libraries -->
+        <!-- Fetch -->
+        <script type="text/javascript" src="src/fetch.js"></script>
+
+        <!-- Leaflet -->
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.css" />
+        <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.js"></script>
+
+        <!-- Leaflet URL hash -->
+        <script type="text/javascript" src="src/leaflet-hash.js"></script>
+
+        <!-- Tangram -->
+        <script type="text/javascript" src="https://mapzen.com/tangram/0.6/tangram.min.js"></script>
+        <!-- End of 3rd party libraries -->
+
+        <!-- Demo module -->
+        <script type="text/javascript">
+            var offset_target = [0, 0, 16];
+            var offset = [0,0];
+            var bMousePressed = false;
+            var waitFor = 100;
+            var timer = 1;
+            var animate = false;
+
+            // Init tangram
+            map = (function () {
+                'use strict';
+                
+                var map_start_location = [39.825, -98.170, 5];
+                var style_file = 'scene.yaml';
+                var info_file = '';
+
+                var hash = window.location.hash.slice(1).split('/');
+                if (hash.length == 3) {
+                    map_start_location = [hash[1], hash[2], hash[0]];
+                    // convert from strings
+                    map_start_location = map_start_location.map(Number);
+                }
+
+                var query = parseQuery(window.location.search.slice(1));                
+                if (query['style']) {
+                    var ext = query['style'].substr(query['style'].lastIndexOf('.') + 1);
+                    if (ext == "yaml" || ext == "yaml/") {
+                        style_file = `styles/` + query['style'];
+                        info_file = '';
+                        console.log('LOADING' + query['style'] + ' STYLE');
+                    } else {
+                        style_file = `styles/` + query['style']+'.yaml';
+                        info_file = `styles/` + query['style']+'.md';
+                        console.log('LOADING' + query['style'] + ' STYLE and INFO');
+                    }
+                }
+
+                animate = (query['animate'] && query['animate'] === 'true') || false;
+
+                // Create a Leaflet Map
+                var map = L.map('map',{
+                    trackResize: true,
+                    keyboard: false,
+                    dragging: (window.self !== window.top && L.Browser.touch) ? false : true,
+                    tap: (window.self !== window.top && L.Browser.touch) ? false : true,
+                });
+
+                // Create a Tangram Layer
+                var layer = Tangram.leafletLayer({
+                    scene: style_file,
+                    attribution: '<a href="https://twitter.com/patriciogv" target="_blank">@patriciogv</a> | <a href="https://mapzen.com/tangram" target="_blank">Tangram</a> | &copy; OSM contributors | <a href="https://mapzen.com/" target="_blank">Mapzen</a>'
+                });
+
+                window.layer = layer;
+                var scene = layer.scene;
+                window.scene = scene;
+
+                map.setView(map_start_location.slice(0, 2), map_start_location[2]);
+                var hash = new L.Hash(map);
+
+                // Resize map to window
+                function resizeMap() {
+                    document.getElementById('map').style.width = window.innerWidth + 'px';
+                    document.getElementById('map').style.height = window.innerHeight + 'px';
+                    map.invalidateSize(false);
+                }
+
+                window.addEventListener('resize', resizeMap);
+                window.addEventListener('load', function () {
+                    init();
+                });
+
+                return map;
+            }());
+
+            // ============================================= INIT
+            function init () {
+                // Scene initialized
+                layer.on('init', function() {  
+                    if (animate) {
+                        window.setInterval('update()', 100);
+                        document.addEventListener('mousemove', onMouseUpdate, false);
+                        map.on('mousedown', function () {
+                            bMousePressed = true;
+                            offset_target[0] = .5;
+                            offset_target[1] = 0;
+                            timer = waitFor;
+                        });
+
+                        map.on('mouseup', function () {
+                            bMousePressed = false;
+                            timer = waitFor;
+                        });
+                    }
+                    
+                });
+
+                // Add Tangram `layer` to Leaflet `map`
+                layer.addTo(map);
+            }
+
+            // ============================================= UPDATE
+            function update () {   // time in seconds since Jan. 01, 1970 UTC
+                var speed = .025;
+
+                if (bMousePressed) {
+                    speed = .1;
+                }
+
+                if (timer === 0) {
+                    var d = new Date();
+                    var t = d.getTime()/1000;
+                    offset_target[0] = Math.abs(Math.sin(t*0.025));
+                    offset_target[1] = Math.abs(Math.cos(t*0.025));
+                    offset_target[2] = 18+Math.sin(Math.PI*.25+t*0.02)*2.5;
+                } else if (!bMousePressed) {
+                    offset_target[2] = map.getZoom();
+                    timer--;
+                }
+
+                var target = [(1-offset_target[1]), offset_target[0]*Math.PI];
+
+                if (target[0] !== offset[0] || target[1] !== offset[1]) {
+                    offset[0] += (target[0] - offset[0])*speed;
+                    offset[1] += (target[1] - offset[1])*speed;
+                    for (var style in scene.styles) {
+                        if (scene.styles[style] &&
+                            scene.styles[style].shaders &&
+                            scene.styles[style].shaders.uniforms &&
+                            scene.styles[style].shaders.uniforms.u_offset) {
+                            scene.styles[style].shaders.uniforms.u_offset = offset;
+                        }
+                    }
+                }
+
+                map.setZoom( map.getZoom()+(offset_target[2]-map.getZoom())*speed*0.5 );
+            }
+
+            // ============================================= EVENT
+            function onMouseUpdate (e) {
+                if (!bMousePressed) {
+                    offset_target[0] = e.pageX/screen.width;
+                    offset_target[1] = e.pageY/screen.height;
+                }
+            }
+
+            // ============================================= Helpers
+            function parseQuery (qstr) {
+                var query = {};
+                var a = qstr.split('&');
+                for (var i in a) {
+                    var b = a[i].split('=');
+                    query[decodeURIComponent(b[0])] = decodeURIComponent(b[1]);
+                }
+                return query;
+            }
+        </script>
+        <!-- Adding a script block to post message to the parent container (think iframed demos) -->
+        <script type="text/javascript">
+          window.addEventListener("hashchange",function(){parent.postMessage(window.location.hash, "*")});
+        </script>
+    </body>
+</html>
