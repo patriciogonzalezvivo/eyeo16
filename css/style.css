@@ -99,8 +99,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img, .reveal video, .reveal iframe {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 90%;
+    max-height: 90%;
 }
 
 .reveal strong, .reveal b {
@@ -283,10 +283,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 .reveal section img {
   max-height: 1000px;
-  /*margin: 15px 0px;*/
-  /*background: rgba(255, 255, 255, 0.12);*/
-  /*border: 4px solid #222;*/
-  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */
+  margin: 15px 0px;
+/*  background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #222;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */
 }
 
 .reveal a img {
