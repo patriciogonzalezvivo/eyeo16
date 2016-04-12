@@ -2,7 +2,7 @@
 June 2011
 
 Note:
-2011 June 04, a Chilean Puyehue volcano makes eruptuion 
+2011 June 04, a vulcano named Puyehue makes eruptuion at the south of Chile.
 
 --
 
@@ -13,16 +13,26 @@ Note:
 ![](imgs/20110613.jpg)
 
 Note:
-The plume arrive to buenos aires caisng all types of unpredicted consecuences.
-I start working on an interactive peace about the ButterflyEffect at global scale. Esentially a simulation of an ecosystem on a sanbox.
+Theys after, plume travels all the way to Buenos Aires. In it path's, brings destruction, disruption and unpredictable consecuences to landscape and the living forms that habite it.
+
+Mean while, I was transitioning from my practice on clinical psichology & expressive art therapy to digital art.
+I was working on an interactive peace about the Butterfly Effect, produce by human interaction with the enviroment. Simulating an ecosystem on a sanbox, that invites people to intervine it but makeing visible how unpredictable and destructive this interventions could be.
 
 --
 
 ![](imgs/20110614.jpg)
 
+Note:
+This was my first prototype. Rapidly I run out resources by the amount of pixel by pixel operations I need to make. The solution was to teach my self shaders.
+
 --
 
 ![](imgs/20111010.png)
+
+Note:
+They provide the computational power to simulate different layers in modules and combine them in an efficient and state of the art way.
+On that there were not any system like that, neither enought information about shaders.
+Comming from clinical psichology, was a challenge to teach my self how to use them.
 
 --
 
@@ -31,18 +41,34 @@ I start working on an interactive peace about the ButterflyEffect at global scal
 
 [**Efecto Mariposa** (Butterfly effect)](http://patriciogonzalezvivo.com/2011/efectomariposa/)
 
+Note:
+I end up incorporating the volcanic ashes to it. Beside been a perfect mapping surface I found it simbolically intune with the work. Those ashes, that cause so much disruption, bring an extra intangible meaning to the peace.
+This works got a lot of recognition in Latin America. I was invited to File and other festivals to show it.
+I will, is not easy to transport volcanic ashes by plane.
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/20111210.png)
 
+Note:
+I decide to open source source the modules I use for the simulation into an openFrameworks addons. So other artist don't have to struggle to learn this technology. People love it! It become one of the popular once.
+
 --
 
 January 2012
 
+Note:
+On January 2012 I made a trip to visit NYC. I send a email to Zach. How at that same time was having troubles compiling my addon.
+
 --
 
 ![](imgs/20120103.jpg)
+
+Note:
+We meet and we talk mostly about life. He toldme he resently got merry and his life was changing in this new fascinatings ways.
+I told him, I was searching for a carrer change. I was wanting to close my private office and dedicate fulltime being an artist. He suggest applying to the Master on Design and Technology at Parsons The New School.
+I did that that same night.
 
 --
 
