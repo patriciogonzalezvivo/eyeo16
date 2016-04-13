@@ -36,10 +36,9 @@ Comming from clinical psichology, was a challenge to teach my self how to use th
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/efectomariposa.png)
 
-[**Efecto Mariposa** (Butterfly effect)](http://patriciogonzalezvivo.com/2011/efectomariposa/)
+**Efecto Mariposa** (Butterfly effect)
 
 Note:
 I end up incorporating the volcanic ashes to it. Beside been a perfect mapping surface I found it simbolically intune with the work. Those ashes, that cause so much disruption, bring an extra intangible meaning to the peace.
@@ -72,11 +71,96 @@ I did that that same night.
 
 --
 
-
+![](imgs/20120801.png)
 
 Note:
-Because is a low level language is very powerfull... but it was a very minimal API. 
-For example there is no random. So in order to make this patterns I use this functions...
+I tell my patients I had a second life as digital artist. And I came to NYC
+
+--
+
+![](imgs/20130623.jpg)
+
+Note:
+Also through Zack I met my Jen Lowe. My one. The ultimate life partner.
+
+--
+
+![](imgs/20130731.jpg)
+
+Note:
+One month later we move together
+
+--
+
+![](imgs/20140601.jpg)
+
+Note:
+We got marry
+
+--
+
+![](imgs/20150405.jpg)
+
+Note:
+We decide to jump in our most crazy adventure. Parenthood... the last fronteer
+9 months later Lucas came.
+
+--
+
+![](imgs/20150409.jpg)
+
+Note:
+I have no words for this one. Other parents will understand
+
+---
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/logo-mapzen.png)
+
+Note:
+Back to profesional life. Before Lucas born I got a job at Mapzen as a Graphic Engeneer.
+Comming from freelancing and the frenezy of all the changes of the couples of years..
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/book.png)
+
+Note:
+... I found my self with the need of a long time project. Something to bring back to the community of developers, art and design, that give me so much.
+I decide to start a book that helps artist to learn and use Shaders.
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/TBoS-00.png)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/TBoS-01.png)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/TBoS-02.png)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/TBoS-03.png)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+Reserarch / Write
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+Ecosystem of tools
+
+--
 
 ---
 
@@ -86,6 +170,8 @@ float pseudo_random = fract(sin(time) * 43758.5453123);
 ```
 
 Note:
+Is a low level language is very powerfull... but it was a very minimal API. 
+For example there is no random. So in order to make this patterns I use this functions...
 It's a pseudo random function constructed with the fractional part of a Sine function multiply by a big number.
 
 ---
