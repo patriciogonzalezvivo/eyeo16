@@ -1,4 +1,13 @@
 
+![](imgs/logo-gray.png)
+
+**Patricio Gonzalez Vivo**
+
+[patricio.io](http://patricio.io) | [@patriciogv](https://twitter.com/patriciogv)
+
+---
+
+<!-- .slide: data-background="#000000" -->
 June 2011
 
 Note:
@@ -6,10 +15,12 @@ Note:
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20110604.jpg)
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20110613.jpg)
 
 Note:
@@ -20,6 +31,7 @@ I was working on an interactive peace about the Butterfly Effect, produce by hum
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20110614.jpg)
 
 Note:
@@ -27,6 +39,7 @@ This was my first prototype. Rapidly I run out resources by the amount of pixel 
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20111010.png)
 
 Note:
@@ -36,6 +49,7 @@ Comming from clinical psichology, was a challenge to teach my self how to use th
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/efectomariposa.png)
 
 **Efecto Mariposa** (Butterfly effect)
@@ -47,7 +61,6 @@ I will, is not easy to transport volcanic ashes by plane.
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/20111210.png)
 
 Note:
@@ -55,6 +68,7 @@ I decide to open source source the modules I use for the simulation into an open
 
 --
 
+<!-- .slide: data-background="#000000" -->
 January 2012
 
 Note:
@@ -62,6 +76,7 @@ On January 2012 I made a trip to visit NYC. I send a email to Zach. How at that 
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20120103.jpg)
 
 Note:
@@ -71,6 +86,7 @@ I did that that same night.
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20120801.png)
 
 Note:
@@ -78,6 +94,7 @@ I tell my patients I had a second life as digital artist. And I came to NYC
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20130623.jpg)
 
 Note:
@@ -85,6 +102,7 @@ Also through Zack I met my Jen Lowe. My one. The ultimate life partner.
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20130731.jpg)
 
 Note:
@@ -92,6 +110,7 @@ One month later we move together
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20140601.jpg)
 
 Note:
@@ -99,6 +118,7 @@ We got marry
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20150405.jpg)
 
 Note:
@@ -107,6 +127,7 @@ We decide to jump in our most crazy adventure. Parenthood... the last fronteer
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20150409.jpg)
 
 Note:
@@ -114,65 +135,176 @@ I have no words for this one. Other parents will understand
 
 ---
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/logo-mapzen.png)
+<!-- .slide: data-background="#000000" -->
+August 2014
 
 Note:
 Back to profesional life. Before Lucas born I got a job at Mapzen as a Graphic Engeneer.
-Comming from freelancing and the frenezy of all the changes of the couples of years..
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/logo-mapzen.png)
+
+Note:
+Comming from freelancing and the frenezy of all the changes of the couples of years I found my self with the need of a long time project. 
+
+---
+
 ![](imgs/book.png)
 
 Note:
-... I found my self with the need of a long time project. Something to bring back to the community of developers, art and design, that give me so much.
+Something to bring back to the community of developers, art and design, that give me so much.
 I decide to start a book that helps artist to learn and use Shaders.
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-00.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-01.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-02.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-03.png)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-Reserarch / Write
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-Ecosystem of tools
-
---
 
 ---
 
-<!-- .slide: data-background="#FFFFFF" -->
+### Tools
+
+Note:
+Tools to assit my the creative aspect of my work
+
+--
+
+![](imgs/glslViewer.gif)
+
+glsl**Viewer**
+
+--
+
+```html
+<canvas class='glslCanvas' data-fragment-url='datastream.frag'></canvas>
+```
+
+<canvas class='sandbox' data-fragment-url='shaders/datastream.frag' width='1000px' height='150px' style='width: 90%; height: 40%; margin: 60px'></canvas>
+
+glsl**Canvas**
+
+--
+
+glsl**Editor**
+
+--
+
+![](imgs/glslEditor-01.gif)
+
+--
+
+![](imgs/glslEditor-00.gif)
+
+--
+
+glsl**Gallery**
+
+--
+
+![](imgs/glslGallery-01.gif)
+
+---
+
+### Collaborations
+
+--
+
+- my wife **Jen Lowe**, unconditional support and help editing.
+
+- **Scott Murray** inspiration and advice.
+
+- **Kenichi Yoneda** (Kynd) and **Sawako** Japanese translation
+
+- **Tong Li** and **Yi Zhang**, Chinese translation
+
+- **Jae Hyun Yoo**, Korean translation
+
+- **Nahuel Coppero** (Necsoft), Spanish translation
+
+--
+
+![](imgs/kyndinfo.jpg)
+
+**Kenichi Yoneda**
+
+@kyindinfo
+
+--
+
+![](imgs/karimnaaji.png)
+
+**Karim Naaji**
+
+@karimnaaji
+
+--
+
+![](imgs/saikofish.jpg)
+
+**Lou Huang**
+
+@saikofish
+
+--
+
+![](imgs/openframe.jpg)
+
+**[o]** openFrame.io
+
+--
+
+![](imgs/ishacbertran.jpeg)
+
+**Ishac Bertran**
+
+@ishacbertran
+
+--
+
+![](imgs/jonwohl.jpeg)
+
+**Jonathan Wohl**
+
+@jonwohl
+
+---
+
+### Work/Flow
+
+--
+
+![](imgs/TBoS-04.png)
+
+--
+
+<iframe class='fit' width='100%' height='800px' data-src='http://www.ryojiikeda.com/'></iframe>
+
+--
+
+<iframe class='fit' width='100%' height='800px' data-src='http://thebookofshaders.com/10'></iframe>
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe> 
+
+--
+
 ```glsl
 float pseudo_random = fract(sin(time) * 43758.5453123);
 ```
-
-Note:
-Is a low level language is very powerfull... but it was a very minimal API. 
-For example there is no random. So in order to make this patterns I use this functions...
-It's a pseudo random function constructed with the fractional part of a Sine function multiply by a big number.
 
 ---
 
@@ -213,36 +345,40 @@ This is how the image looks
 
 --
 
-<!-- .slide: data-background="#A8B3B1" -->
+<!-- .slide: data-background="#EEEFF2" -->
 <iframe class='fit' width="100%" height="100%" style='min-height: 600px; height: 100%;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='800px' height='600px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
 
 Temperature and Wind Data
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/10print.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='800px' height='600px' ></canvas>
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/10print.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (pseudo random)
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='800px' height='600px' ></canvas>
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (wind direction)
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='800px' height='600px' ></canvas>
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (wind speed)
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='800px' height='600px' ></canvas>
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (temperature)
 
@@ -255,8 +391,7 @@ Wind I Ching
 
 ---
 
-<!-- .slide: data-background="#FFFFFF" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/iching-texture.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='300px' height='300px' ></canvas>
+![](imgs/logo-gray.png)
 
 ## Thank you
 
