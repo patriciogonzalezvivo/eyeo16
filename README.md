@@ -116,23 +116,6 @@ One month later we move together
 Note:
 We got marry
 
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20150405.jpg)
-
-Note:
-We decide to jump in our most crazy adventure. Parenthood... the last fronteer
-9 months later Lucas came.
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20150409.jpg)
-
-Note:
-I have no words for this one. Other parents will understand
-
 ---
 
 <!-- .slide: data-background="#000000" -->
@@ -147,6 +130,11 @@ Back to profesional life. Before Lucas born I got a job at Mapzen as a Graphic E
 
 Note:
 Comming from freelancing and the frenezy of all the changes of the couples of years I found my self with the need of a long time project. 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20140719.jpg)
 
 ---
 
@@ -171,6 +159,24 @@ I decide to start a book that helps artist to learn and use Shaders.
 --
 
 ![](imgs/TBoS-03.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20150405.jpg)
+
+Note:
+We decide to jump in our most crazy adventure. Parenthood... the last fronteer
+9 months later Lucas came.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20150409.jpg)
+
+Note:
+I have no words for this one. Other parents will understand
+
 
 ---
 
@@ -289,6 +295,10 @@ glsl**Gallery**
 
 --
 
+### ryoji Ikeda
+
+--
+
 <iframe class='fit' width='100%' height='800px' data-src='http://www.ryojiikeda.com/'></iframe>
 
 --
@@ -297,8 +307,74 @@ glsl**Gallery**
 
 --
 
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-00.frag' width='900px' height='400px' ></canvas>
+
+test pattern
+
+--
+
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-03.frag' width='900px' height='400px' ></canvas>
+
+datastream
+
+--
+
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-02.frag' width='900px' height='400px' ></canvas>
+
+--
+
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-04.frag' width='900px' height='400px' ></canvas>
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-digits.frag' width='900px' height='400px' ></canvas>
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-numered-grid.frag' width='900px' height='400px' ></canvas>
+
+--
+
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe> 
+
+---
+
+![](imgs/openframe.jpg)
+
+Shaders as Art, for OpenFrame.io
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe> 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160307213819'></iframe> 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160304203331'></iframe> 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160304202332'></iframe> 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160313030533'></iframe> 
+
+--
+
+<!-- .slide: data-background="#272822" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://editor.thebookofshaders.com/?log=160306213426'></iframe>
 
 --
 
@@ -307,6 +383,10 @@ float pseudo_random = fract(sin(time) * 43758.5453123);
 ```
 
 ---
+
+### Current project
+
+--
 
 **~1700** stations  <!-- {_class="fragment"} -->
 **x** **40** days  <!-- {_class="fragment"} -->
@@ -338,7 +418,7 @@ For each record I'm storing the temperature, Wind speed and wind direction in th
 
 --
 
-![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
+![](shaders/data.png)
 
 Note:
 This is how the image looks
@@ -350,42 +430,42 @@ This is how the image looks
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
 
 Temperature and Wind Data
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/10print.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (pseudo random)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (wind direction)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (wind speed)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
 
 10 Print (temperature)
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/iching-texture.frag' data-textures='https://cdn.rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png' width='500px' height='500px' ></canvas> 
+<canvas class='sandbox fit' data-fragment-url='shaders/iching-texture.frag' data-textures='shaders/data.png' width='500px' height='500px' ></canvas> 
 
 Wind I Ching 
 
