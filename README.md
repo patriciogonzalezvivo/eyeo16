@@ -4,6 +4,26 @@
 
 ---
 
+"Our Science is based upon the principle of causality, and causality is considered to be an axiomatic truth."
+*Carl Gustav Jung*
+
+--
+
+"The manner in which the I Ching tends to look upon reality seems to disfavor our causalistic procedures. The moment under actual observation appears to the ancient Chinese view more of a chance hit than a clearly defined result of concurring causal chanin process. The matter of interest seems to be the configuration formed by chance events in the moemnt of observation, and not at all the hypothetical reasons that seemingly account for the conicidence."
+*Carl Gustav Jung*
+
+--
+
+"While the Western mind carefully sifts, weighs, selects, classifies, isolates, thec Chinese picture of the moment encompasses everything down to the minutest nonsensical detail, because all of the ingredients make up the observed moment."
+*Carl Gustav Jung*
+
+--
+
+"... the hexagram was the exponent of the moment in which it was cast -even more so than the hours of the clock or the divisions of the calendar could be- inasmuch as the hexagram was understood to be and indicator of the essential situation prevailing in the moment of its origin."
+*Carl Gustav Jung*
+
+---
+
 <!-- .slide: data-background="#000000" -->
 DEC 2009
 
@@ -50,6 +70,11 @@ I only got one reply from Chiss Sugrue
 
 Note:
 At the end of 2010 I was showing this instalation to draw colective mandalas at Interactivos Telefonica.
+
+--
+
+"If we leave things to nature, we see a very different picture: every process is partially or totally interfered with chance, so much so that under natural circumstances a course of events absolutely confoming to specific laws is almost an exception."
+*Carl Gustav Jung*
 
 ---
 
@@ -100,14 +125,29 @@ Those ashes, that cause so much disruption, bring an extra intangible meaning to
 This works got a lot of recognition in Latin America. I was invited to File and other festivals to show it.
 I will, is not easy to transport volcanic ashes by plane.
 
-What to do after it?
+I never recive to much credit internationally... even after the fact that some eyars later lot of similar project start apearing all around the world.
+I was getting a litle bitter about it... so I decide to openSource the differnt modules in form of a openFrameworks addon.
+
+--
+
+"... there is something to be said for the immense importance of chance. An incalculable amount of human effort is directed to combating and restricting the nuisance or danger represented by chance."
+*Carl Gustav Jung*
+
+Note:
+There is something to said about opensourcing something that you have been working intensly for a year. It was some adrenaline, but at the same time you feel vulnerable and expose.
+
+<!-- "In centuries past, before the philosphers and mathematician in the Age of Enlightenment sought to rationalizae chance, randomness was a nightmare."
+*10 PRINT CHR$(205.5+RND(1)); GOTO 10* -->
 
 --
 
 ![](imgs/20111210.png)
 
 Note:
-I decide to open source source the modules I use for the simulation into an openFrameworks addons. So other artist don't have to struggle to learn this technology. People love it! It become one of the popular once.
+Hopefully when well.
+People love it.
+
+--
 
 ---
 
@@ -116,6 +156,7 @@ JAN 2012
 
 Note:
 On January 2012 I made a trip to visit NYC. I send a email to Zach. How at that same time was having troubles compiling my addon.
+He suggest going for a coffee.
 
 --
 
@@ -126,14 +167,12 @@ Note:
 We meet and we talk mostly about life. He toldme he resently got merry and his life was changing in this new fascinatings ways.
 I told him, I was searching for a carrer change. I was wanting to close my private office and dedicate fulltime being an artist. 
 
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20120801.png)
-
-Note:
 He suggest applying to the Master on Design and Technology at Parsons The New School.
 I did that that same night!
+
+--
+
+PICTURE of ENVELOPE
 
 --
 
@@ -144,6 +183,11 @@ Note:
 3 Mounth later I got a big envelope with an offer of a full tuition to go to Parsons.
 I sell everything and told my patients I have been living two lifes. I had a crush with digital art and new media. 
 I came to NYC
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20120801.png)
 
 --
 
@@ -179,28 +223,36 @@ I meet Jen trhough a random interaction on twitter
 Note:
 One month later we move together
 
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20140601.jpg)
-
-Note:
-We got marry
-
 ---
 
 <!-- .slide: data-background="#000000" -->
-August 2014
+March 2014
 
 Note:
-Back to profesional life. Before Lucas born I got a job at Mapzen as a Graphic Engeneer.
+Working on my thesis I was scrapping googles street API to construct a continuos skyline of NYC from downtown to the mountains
+
+--
+
+Picture Skyline II
+
+Note:
+I found some deep information encoded in requested data. 
+
+--
+
+Picture of Point cloud city.
+
+Note:
+Putting it together I was able to free from googles servers, this point clouds visions of public spaces in cities around the world.
+I didn't knew it but that helps me to get my actual job.
 
 --
 
 ![](imgs/logo-mapzen.png)
 
 Note:
-Comming from freelancing and the frenezy of all the changes of the couples of years I found my self with the need of a long time project. 
+In august last year I joing the stellar team of Mapzen.
+Having a steady job and solid health ensurance open our imagination in new ways... chance made the rest.
 
 --
 
