@@ -94,7 +94,7 @@ A vulcano named Puyehue makes eruptuion at the south of Chile.
 
 --
 
-<!-- .slide: data-background="#000000" -->
+<!-- .slide: data-background="#161616" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe>
 
 Note:
