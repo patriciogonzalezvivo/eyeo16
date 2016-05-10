@@ -39,3 +39,6 @@ styles:
             blocks:
                 color: |
                     color += tileGrid()*.2;
+    earth:
+        base: polygons
+        mix: [elevation, picture]

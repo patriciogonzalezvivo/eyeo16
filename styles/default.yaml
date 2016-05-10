@@ -4,6 +4,7 @@ import:
     - https://tangrams.github.io/blocks/global.yaml
     - https://tangrams.github.io/blocks/color/tools.yaml
     - https://tangrams.github.io/blocks/patterns/grid.yaml
+    - https://tangrams.github.io/blocks/patterns/stripes.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
     - https://tangrams.github.io/blocks/shapes/cross.yaml
     
@@ -53,6 +54,12 @@ layers:
                 order: global.order-top
                 color: white
                 width: 2px
+    landuse:
+        data: { source: osm }
+        draw:
+            landuse:
+                order: global.order
+                color: [.1,.1,.1]
     roads:
         data: { source: osm }
         filter: { not: { kind: [rail, ferry] } }
@@ -81,7 +88,7 @@ layers:
                     order: global.order
     boundaries:
         data: { source: osm }
-        filter: { $zoom: {max: 15}}
+        # filter: { $zoom: {max: 15}}
         draw:
             lines-dash:
                 order: global.order
@@ -115,6 +122,7 @@ styles:
                     float elevation = (1. - raster.a);
                     color = texture2D(u_palette,vec2(elevation,.5));
                     normal = (raster.rgb-.5)*2.;
+    # ===========================================
     water:
         base: polygons
         mix: [patterns-grid]
@@ -122,9 +130,26 @@ styles:
             blocks:
                 color: |
                     color += tileGrid()*.2;
+    
     earth:
         base: polygons
-        mix: [elevation, picture]
+        mix: [elevation]
+        
+    landuse:
+        base: polygons
+        mix: [patterns-stripes, space-tile]
+        blend: inlay
+        lighting: false
+        raster: custom
+        shaders: 
+            blocks:
+                color: |
+                    vec2 st = getTileCoords();
+                    vec3 n = (sampleRaster(0).rgb-.5)*2.;
+                    float pct = clamp(u_map_position.z/13.,0.0,1.0);
+                    pct = mix((1.-pct),dot(n, vec3(-0.600,-0.420,0.600)), pct);
+                    color.a = stripes(st*2., pct*1.6, PI*0.25)*.5;
+                    
     roads:
         base: lines
         lighting: false
