@@ -2,11 +2,10 @@ author: Patricio Gonzalez Vivo (@patriciogv) - 2016
 
 import:
     - https://tangrams.github.io/blocks/global.yaml
-    - https://tangrams.github.io/blocks/color/tools.yaml
     - https://tangrams.github.io/blocks/patterns/grid.yaml
     - https://tangrams.github.io/blocks/patterns/stripes.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
-    - https://tangrams.github.io/blocks/shapes/cross.yaml
+    - https://tangrams.github.io/blocks/points/cross.yaml
     
 sources:
     osm:
@@ -94,22 +93,23 @@ layers:
                 order: global.order
                 color: white
                 width: 1px
-    places:
-        data: { source: osm }
-        filter: 
-            any:
-                - { capital: yes }
-                - { state_capital: yes }
-        draw:
-            icons:
-                color: white
-                size: 15px
-            text:
-                offset: [0,-16px]
-                font:
-                    transform: uppercase
-                    typeface: Helvetica
-                    fill: white
+    # places:
+    #     data: { source: osm }
+    #     filter: 
+    #         any:
+    #             - { capital: yes }
+    #             - { state_capital: yes }
+    #     draw:
+    #         points-cross:
+    #             color: white
+    #             size: 15px
+    #         text:
+    #             offset: [0,-16px]
+    #             font:
+    #                 # transform: uppercase
+    #                 typeface: Helvetica
+    #                 size:
+    #                 fill: white
 styles:
     elevation:
         raster: custom
@@ -126,6 +126,7 @@ styles:
     water:
         base: polygons
         mix: [patterns-grid]
+        lighting: false
         shaders:
             blocks:
                 color: |
@@ -158,12 +159,7 @@ styles:
             defines:
                 DASH_SIZE: .5
                 DASH_SCALE: .3
-    icons:
-        base: points
-        mix: [shapes-cross]
-        v_texcoord: true
+    points-cross:
         shaders:
-            blocks:
-                color: |
-                    vec2 st = v_texcoord.xy;
-                    color.a = clamp(cross(st,vec2(2.,.5)),0.,1.)*.75;
+            defines:
+                CROSS_ALPHA: .75

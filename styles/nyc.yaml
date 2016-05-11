@@ -1,0 +1,36 @@
+# author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
+import:
+    - default.yaml
+    - https://tangrams.github.io/blocks/points/shape.yaml
+
+sources:
+    flight: 
+        type: GeoJSON
+        url: ../data/bue-nyc.json
+
+layers:
+    ends:
+        data: { source: flight }
+        draw:
+            points-shape:
+                color: white
+                size: 30px
+            text:
+                offset: [0,-20px]
+                collide: false
+                font:
+                    transform: uppercase
+                    typeface: Helvetica
+                    size: 16px
+                    fill: white
+                    stroke: { color: black, width: 5 }
+
+styles:
+    points-shape:
+        shaders:
+            defines:
+                SHAPE_SIDES: 3
+                SHAPE_SIZE: 1.
+                SHAPE_BORDER_WIDTH: 0.2
+                SHAPE_BORDER_COLOR: vec3(0.)
+

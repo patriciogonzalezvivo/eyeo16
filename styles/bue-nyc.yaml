@@ -1,0 +1,55 @@
+# author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
+# 
+#   Trip from Buenos Aires to New York
+#
+
+import:
+    - default.yaml
+    - https://tangrams.github.io/blocks/geometry/projections.yaml
+
+sources:
+    flight: 
+        type: GeoJSON
+        url: ../data/bue-nyc.json
+
+layers:
+    path:
+        data: { source: flight }
+        draw:
+            flight:
+                color: [1.,1.,0.]
+                width: [ [0, 2px], [20, 200]]
+                order: 1000
+    ends:
+        data: { source: flight }
+        draw:
+            points-cross:
+                color: white
+                size: 20px
+            text:
+                offset: [0,-20px]
+                collide: false
+                font:
+                    transform: uppercase
+                    typeface: Helvetica
+                    size: 16px
+                    fill: white
+                    stroke: { color: black, width: 5 }
+
+styles:
+    flight:
+        # blend: alpha
+        animated: true
+        mix: [lines-dash, geometry-projections]
+        shaders:
+            # defines:
+            #     CHEVRON_SIZE: 1
+            #     CHEVRON_SCALE: .25
+            #     CHEVRON_ALPHA: 0.0
+            blocks:
+                filter: |
+                    vec2 pos = u_map_position.xy+v_position.xy;
+                    vec2 latlon = vec2(y2lat_m(pos.y),x2lon_m(pos.x)); // 90/180
+                    vec2 uv = (latlon.yx/vec2(180.,90.)+1.)*.5;
+                    color.a *= 1.-step(fract(u_time*0.1),uv.y);
+

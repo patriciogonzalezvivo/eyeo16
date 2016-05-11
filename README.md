@@ -4,15 +4,6 @@
 
 ---
 
-"Our Science is based upon the principle of causality, 
-
-and causality is considered to be an axiomatic truth."
-
-<p> ... </p>
-*Carl Gustav Jung*
-
----
-
 <!-- .slide: data-background="#000000" -->
 DEC 2009
 
@@ -51,28 +42,6 @@ I start searching for this hybrid artist. I send them emails to all of them, try
 
 Note:
 I only got one reply from Chiss Sugrue
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/communitas.jpg)
-
-Note:
-At the end of 2010 I was showing this instalation to draw colective mandalas at Interactivos Telefonica.
-
---
-
-"If we leave things to nature, we see a very different picture:
-
-every process is partially or totally interfered with chance, 
-
-so much so that under natural circumstances a course of events 
-
-absolutely confoming to specific laws is almost an exception."
-
-<p> ... </p>
-
-*Carl Gustav Jung*
 
 ---
 
@@ -137,18 +106,6 @@ I was getting a litle bitter about it... so I decide to openSource the differnt 
 <iframe src="https://player.vimeo.com/video/29894099?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/29887776?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
---
-
-"... there is something to be said for the immense importance of chance.
-
-An incalculable amount of human effort is directed to combating 
-
-and restricting the nuisance or danger represented by chance."
-
-<p> ... </p>
-
-*Carl Gustav Jung*
-
 Note:
 There is something to said about opensourcing something that you have been working intensly for a year. 
 It was some adrenaline, but at the same time you feel vulnerable and expose.
@@ -171,7 +128,9 @@ On January 2012
 
 --
 
-<!-- .slide: data-background="#000000" -->
+<!-- .slide: data-background="#161616" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=nyc#6.4/40.729/-73.310'></iframe>
+
 Map of BUE and NYC pointing to Zack L trying to compile my OF addon
 
 Note:
@@ -194,36 +153,13 @@ that that same night!
 
 --
 
-<!-- .slide: data-background="#000000" -->
-MAP of patricio moving to NY
+<!-- .slide: data-background="#161616" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
 Note:
 3 Mounth later I got a big envelope with an offer of a full tuition to go to Parsons.
 I sell everything and told my patients I have been living two lifes. I had a crush with digital art and new media. 
 I came to NYC
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20120801.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-Meanwhile in the other coast...
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20130623.jpg)
-
-Note:
-Jen Lowe: was initiating the process to move to New York to work on the Spatial Information Design Lab at Columbia University... and open a school with Zack L
-
---
-
-<!-- .slide: data-background="#000000" -->
-MAP of Jen's trip from SF to NYC
 
 ---
 
@@ -265,17 +201,6 @@ Is the american city of love.
 Look that face of happines :)
 
 So...
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20130731.jpg)
-
-Note:
-... one month later we move together.
-And we start thinking about marrige a couple of weeks later.
-
-... and babies at the end of the year.
 
 ---
 
@@ -454,7 +379,7 @@ And then doing cross plaform implementations on Tangram our 2D/3D map engine. At
 
 <img src='imgs/tilt-tron.gif' style='width: 45%'> <img src='imgs/tron.png' style='width: 45%;'>
 
-<img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-tron.gif' style='width: 45%'>
+<img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-matrix.gif' style='width: 45%'>
 
 <!-- .slide: data-background="#000000" -->
 *Tangram styles (WebGL)*
@@ -528,7 +453,7 @@ The book had open oportunities for new collaborations
 
 --
 
-MAP of all the people that is collaborating overt the world on this book
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
 Beside Jen Lowe that had done all the editing of the book
@@ -597,7 +522,7 @@ They are like a HAIKUs. You have no library to reference... and you just can gen
 --
 
 <!-- .slide: data-background="#272822" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://editor.thebookofshaders.com/?log=160306213426'></iframe>
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src='http://editor.thebookofshaders.com/?log=160306213426'></iframe>
 
 Note:
 So when you want to share a shader to an openFrame you only have to click export and [o]

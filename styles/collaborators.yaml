@@ -1,0 +1,39 @@
+# author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
+# 
+#   Collaborators of The Book of shaders by may 2016
+#
+
+import:
+    - invert.yaml
+    - https://tangrams.github.io/blocks/points/shape.yaml
+
+sources:
+    collab: 
+        type: GeoJSON
+        url: ../data/collaborators.json
+
+layers:
+    collaborators:
+        data: { source: collab }
+        draw:
+            points-shape:
+                color: [1.,0.,1.]
+                size: 20px
+                collide: false
+            text:
+                offset: [0, -30px]
+                font:
+                    transform: uppercase
+                    typeface: Helvetica
+                    fill: black
+                    size: 16px
+                    stroke: { color: white, width: 4 }
+
+styles:
+    points-shape:
+        shaders:
+            defines:
+                ICON_SHAPE_SIDES: 3
+                ICON_SHAPE_SIZE: 1.
+                ICON_BORDER_WIDTH: 0.15
+

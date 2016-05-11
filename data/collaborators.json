@@ -1,0 +1,177 @@
+{ 
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -57.95453, -34.92145 ]
+            },
+            "properties": {
+                "name": "Nahuel Coppero",
+                "twitter": "@necsoft",
+                "url": "http://hinecsoft.com/",
+                "translation": "es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -122.4425, 37.77823 ]
+            },
+            "properties": {
+                "name": "Kenichi Yoneda",
+                "twitter": "@kyndinfo",
+                "url": "http://www.kynd.info/log/",
+                "translation": "jp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -122.67621, 45.52345 ]
+            },
+            "properties": {
+                "name": "Scott Murray",
+                "twitter": "@alignedleft",
+                "url": "http://alignedleft.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 121.458618, 31.207496 ]
+            },
+            "properties": {
+                "name": "Tong Li",
+                "translation": "ch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 121.458618, 31.207496 ]
+            },
+            "properties": {
+                "name": "Yi Zhang",
+                "translation": "ch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 4.84139, 45.75889 ]
+            },
+            "properties": {
+                "name": "Nicolas Barradeau",
+                "twitter": "@nicoptere",
+                "url": "http://www.barradeau.com/",
+                "translation": "fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -73.922427, 40.699921 ]
+            },
+            "properties": {
+                "name": "Karim Naaji",
+                "twitter": "@karimnaaji",
+                "url": "http://karim.naaji.fr",
+                "translation": "fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -73.940444, 40.749449 ]
+            },
+            "properties": {
+                "name": "Adam Pearce",
+                "twitter": "@adamrpearce",
+                "url": "http://roadtolarissa.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -73.93827, 40.66393 ]
+            },
+            "properties": {
+                "name": "Jen Lowe",
+                "twitter": "@datatelling",
+                "url": "http://jenlowe.net"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 10.391873, 51.112876 ]
+            },
+            "properties": {
+                "name": "Yichuan Shen",
+                "twitter": "@yichuanshen",
+                "url": "http://yichuanshen.de/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 15.200676, 59.271574 ]
+            },
+            "properties": {
+                "name": "Andreas Wilcox",
+                "twitter": "@svdvorak",
+                "url": "http://svdvorak.github.io/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 139.721352, 35.706104 ]
+            },
+            "properties": {
+                "name": "Yosuke Sakai",
+                "twitter": "@flush_11",
+                "url": "http://yosuke-sakai.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 139.636499, 35.641987]
+            },
+            "properties": {
+                "name": "Sawako",
+                "twitter": "@sawakohome",
+                "url": "http://troncolon.com/",
+                "translation": "jp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -118.24368, 34.05223 ]
+            },
+            "properties": {
+                "name": "Jae Hyun Yoo",
+                "twitter": "@Fkkcloud",
+                "url": "http://www.abluemarble.com",
+                "translation": "jp"
+            }
+        }
+    ]
+}

@@ -43,12 +43,23 @@ function checkFit (section) {
 
 function checkSandbox (section) {
     var list = section.getElementsByClassName('sandbox');
-    if (list.length>0) {
+    if (list.length > 0) {
         window.glslCanvases = [];
         for (var i = 0; i < list.length; i++){
             var sandbox = new GlslCanvas(list[i]);
             if (sandbox.isValid) {
                 window.glslCanvases.push(sandbox);
+            }
+        }
+    }
+
+    list = section.getElementsByClassName('gallery');
+    if (list.length > 0) {
+        window.glslGalleries = [];
+        for (var i = 0; i < list.length; i++){
+            var gallery = new GlslGallery(list[i]);
+            if (gallery.isValid) {
+                window.glslGalleries.push(gallery);
             }
         }
     }

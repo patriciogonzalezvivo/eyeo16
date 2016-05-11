@@ -1,0 +1,50 @@
+author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
+
+import:
+    - default.yaml
+
+scene:
+    background:
+        color: white
+
+layers:
+    water:
+        draw:
+            water:
+                color: white
+    earth:
+        draw:
+            earth:
+                color: white
+            lines:
+                color: black
+    landuse:
+        draw:
+            landuse:
+                color: white
+    roads:
+        draw:
+            roads:
+                color: [.3,.3,.3]
+    boundaries:
+        draw:
+            lines-dash:
+                color: black
+    # places:
+    #     draw:
+    #         points-cross:
+    #             color: [.25,.25,.25]
+    #         text:
+    #             font:
+    #                 fill: [.25,.25,.25]
+styles:
+    water:
+        shaders:
+            blocks:
+                color: |
+                    color.rgb -= tileGrid()*.2;
+    earth:
+        shaders:
+            blocks:
+                color: |
+                    color.rgb = vec3(.5+elevation*.5);
