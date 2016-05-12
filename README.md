@@ -49,15 +49,39 @@ I only got one reply from Chiss Sugrue
 JUN 2011
 
 Note:
-2011 June 04, starting an art recidency in centro Cultural Espanol on Buenos Aires....
+Five years ago, (June 04 2011), I was starting an art recidency in centro Cultural Espanol on Buenos Aires.... when
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/20110604.jpg)
+![](imgs/puyehue-02.jpg)
 
 Note:
-A vulcano named Puyehue makes eruptuion at the south of Chile.
+A vulcano on Chile named Puyehue makes eruptuion after lying dormant for more than 50 years
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-03.jpg)
+
+Note:
+This eruption ejected around one hundred million tons of ash, sand and pumice. 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-04.jpg)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-05.jpg)
+
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-06.jpg)
 
 --
 
@@ -65,21 +89,45 @@ A vulcano named Puyehue makes eruptuion at the south of Chile.
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe>
 
 Note:
-Theys after, plume travels all the way to Buenos Aires. In it path's, brings destruction, disruption and unpredictable consecuences to landscape and the living forms that habite it.
+Days after, the plume travels all the way to Buenos Aires. 
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<!-- ![](imgs/20111010.png) -->
+![](imgs/puyehue-09.jpg)
 
+Note:
+In it path..
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-10.jpg)
+
+Note:
+the ashes bring destruction.
+- all flights cancel across the southern half of the continent
+- Nilahue River went up to 113° and killed around 4.5 million fishes
+- heart attacks and got throat cancer on the livestock
+- fluoride intoxication in sheep, cattle and horses
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/puyehue-11.jpg)
+
+Note:
+- bring five years of drought on Chubut and Rio Negro
+This incredible force of nature brings a lot of destructions on it's way
+
+--
+
+<!-- .slide: data-background="#000000" -->
 <iframe src="https://player.vimeo.com/video/31940579" class='fit' width='100%' height='1000px' frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-Using the ashes of this plum I made a interactive simulation of an ecosystem, that invites people to intervine it but makeing visible how unpredictable and destructive this interventions could be. I call it Butterfly Effect.
-
-They provide the computational power to simulate different layers in modules and combine them in an efficient and state of the art way.
-On that there were not any system like that, neither enought information about shaders.
-Comming from clinical psichology, was a challenge to teach my self how to use them.
+I incorporate this ashes on the work I was doing. What now we will call a sandbox simulation using a kinect device. I call it Butterfly Effect.
+To do the simulation of the geosphere, hydrysphere, biosphere and atmosphere I hard to learn how to use shaders. 
 
 --
 
@@ -88,14 +136,8 @@ Comming from clinical psichology, was a challenge to teach my self how to use th
 
 **Efecto Mariposa** (Butterfly effect)
 
-Note:
-The volcanic ashes end up been a perfect mapping surface beside significative simbolically. 
-Those ashes, that cause so much disruption, bring an extra intangible meaning to the peace.
-This works got a lot of recognition in Latin America. I was invited to File and other festivals to show it.
-I will, is not easy to transport volcanic ashes by plane.
-
-I never recive to much credit internationally... even after the fact that some eyars later lot of similar project start apearing all around the world.
-I was getting a litle bitter about it... so I decide to openSource the differnt modules in form of a openFrameworks addon.
+Note: 
+After presenting this work in Argentina and Brazil at diferent festivals I decide to break this layers of simulations and openSource it as an openFrameworks addon.
 
 --
 
@@ -115,8 +157,7 @@ It was some adrenaline, but at the same time you feel vulnerable and expose.
 ![](imgs/20111210.png)
 
 Note:
-Hopefully when well.
-People love it.
+ofxFX became an important tool for other artist
 
 ---
 
@@ -135,21 +176,7 @@ Map of BUE and NYC pointing to Zack L trying to compile my OF addon
 
 Note:
 mean while in NYC Zack L was trying to run that same OF addon
-We plan to meet If I go to NYC.
-So that I did.
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/20120103.jpg)
-
-Note:
-and we meet, we talk mostly about life. He toldme about his recent merragie with Momo. And howhis life was changing in this new fascinatings ways.
-I told him, about me wanting to change carrer. How I want to leave my patience and dedicate fulltime as an artis.
-
-He suggest applying to the Master on Design and Technology at Parsons The New School.
-And I did...
-that that same night!
+We got in contact. He was the one that suggest applying to parsosn
 
 --
 
@@ -179,10 +206,11 @@ While I was working on the visual system on CLOUDS.
 Zach anounce the SFPC. While I was his students he talk about the idea of the school a lot. So I followed the four founders (Jen, Zack, Amit and Tewon).
 Through a random twitter interaction we start talking and agree on going for a coffee.
 
+
 --
 
 <!-- .slide: data-background="#000000" -->
-interactive POINT CLOUD of the restaurant coorner where we meet
+<iframe class='fit' src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1463075256574!6m8!1m7!1sp1dCLliwGRUAAAQZDaBD0w!2m2!1d40.72371832370289!2d-73.95171632224185!3f44.320821265143294!4f-15.56789776591117!5f0.7820865974627469" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Note:
 I felt in love completely
@@ -205,7 +233,7 @@ So...
 ---
 
 <!-- .slide: data-background="#000000" -->
-March 2014
+MAR 2014
 
 Note:
 2014 an year of closeres and begginings... 
@@ -478,19 +506,7 @@ So far we hace translate the book of shaders to Japanise, Korean, Spanish, Frenc
 
 --
 
-![](imgs/ishacbertran.jpeg)
-
-**Ishac Bertran**
-
-@ishacbertran
-
---
-
-![](imgs/jonwohl.jpeg)
-
-**Jonathan Wohl**
-
-@jonwohl
+![](imgs/openFrame-guys.png)
 
 --
 
@@ -518,14 +534,6 @@ Any way... He told me that and I open the lapdoc for my RPI and show some shader
 
 I really like shaders. I like the size and their restrictions and power.
 They are like a HAIKUs. You have no library to reference... and you just can generate images.
-
---
-
-<!-- .slide: data-background="#272822" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src='http://editor.thebookofshaders.com/?log=160306213426'></iframe>
-
-Note:
-So when you want to share a shader to an openFrame you only have to click export and [o]
 
 --
 
@@ -564,9 +572,6 @@ simple ideas
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160313030533'></iframe> 
 
-ADD A GALLERY
-ADD MORE AND BETTER SHADERS
-
 ---
 
 ### Workflow
@@ -590,8 +595,6 @@ Then start writing about it
 --
 
 <canvas class='sandbox fit' data-fragment-url='shaders/ikeda-00.frag' width='900px' height='400px' ></canvas>
-
-TODO: GLSLGALLERY HERE
 
 test pattern
 
@@ -759,55 +762,34 @@ And looks like this. What if instead of using this pseudo random I use the weath
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
 
-10 Print (wind direction)
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
 
 Note:
-This is a maze constructed with wind direction 
+This is a maze constructed with wind speed, direction and temperature 
 
 --
 
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
+![](imgs/morellet.jpg)
 
-10 Print (wind speed)
+*Random Distribution of 40,000 Squares Using the Odd and Even Numbers of a Telephone Directory* 
 
-Note:
-This is a maze constructed with wind speed 
-
---
-
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
-
-10 Print (temperature)
-
-Note:
-This is a maze constructed with temperature.
-Seeing this I can't avoid thinking back to the begining of the talk those fraces from Carl Gustave Jung about chance.
-
-He wrote that for the Foreword of the book of transformations. 
-
---
-
-![](imgs/iching.gif)
-
-Note:
-Which is basically an ancient oracle 
-
---
-
-![](imgs/iching.png)
-
-Note:
-
-This binary elements (bar or two dashes). Get's combined into 64 hexagrams
+**François Morellet** (1960)
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 <canvas class='sandbox fit' data-fragment-url='shaders/iching.frag' data-textures='shaders/data.png' width='1000px' height='500px' ></canvas> 
+
+I ching
+
+Note:
+Book of transformations.
 
 --
 
@@ -848,7 +830,7 @@ Together with the end
 
 --
 
-![](imgs/20150405.jpg)
+![](imgs/puyehue-02.jpg)
 
 Note:
 and begining of things. 
