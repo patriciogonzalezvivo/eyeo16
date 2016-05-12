@@ -4,10 +4,33 @@ import:
     - default.yaml
     - https://tangrams.github.io/blocks/geometry/projections.yaml
     - https://tangrams.github.io/blocks/color/tools.yaml
+    - https://tangrams.github.io/blocks/points/shape.yaml
+
+sources:
+    marks: 
+        type: GeoJSON
+        url: ../data/puyehue.json
 
 textures:
     puyehue:
         url: https://dl.dropboxusercontent.com/u/335522/openframe/20110613.jpg
+
+layers:
+    marks:
+        data: { source: marks }
+        draw:
+            points-shape:
+                color: white
+                size: 30px
+                collide: false
+            text:
+                offset: [0, -25px]
+                font:
+                    transform: uppercase
+                    typeface: Helvetica
+                    fill: white
+                    size: 15px
+                    stroke: { color: black, width: 5 }
 
 styles:        
     picture:
@@ -43,3 +66,11 @@ styles:
     earth:
         base: polygons
         mix: [elevation-ramp, picture]
+
+    points-shape:
+        shaders:
+            defines:
+                SHAPE_SIDES: 3
+                SHAPE_SIZE: 1.
+                SHAPE_BORDER_WIDTH: 0.15
+                SHAPE_BORDER_COLOR: vec3(0.1)

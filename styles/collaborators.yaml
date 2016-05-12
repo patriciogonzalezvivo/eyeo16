@@ -33,7 +33,7 @@ styles:
     points-shape:
         shaders:
             defines:
-                ICON_SHAPE_SIDES: 3
-                ICON_SHAPE_SIZE: 1.
-                ICON_BORDER_WIDTH: 0.15
+                SHAPE_SIDES: 3
+                SHAPE_SIZE: 1.
+                BORDER_WIDTH: 0.15
 
