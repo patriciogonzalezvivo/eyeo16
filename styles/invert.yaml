@@ -26,10 +26,10 @@ layers:
         draw:
             roads:
                 color: [.3,.3,.3]
-    boundaries:
-        draw:
-            lines-dash:
-                color: black
+    # boundaries:
+    #     draw:
+    #         lines-dash:
+    #             color: black
     # places:
     #     draw:
     #         points-cross:

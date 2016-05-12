@@ -43,7 +43,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 121.458618, 31.207496 ]
+                "coordinates": [ 121.52759, 31.23513 ]
             },
             "properties": {
                 "name": "Tong Li",
@@ -65,7 +65,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 4.84139, 45.75889 ]
+                "coordinates": [ 2.332894, 48.829316]
             },
             "properties": {
                 "name": "Nicolas Barradeau",
@@ -171,6 +171,18 @@
                 "twitter": "@Fkkcloud",
                 "url": "http://www.abluemarble.com",
                 "translation": "jp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [  14.284188, 48.309972]
+            },
+            "properties": {
+                "name": "Andrea Rovescalli",
+                "url": "http://earove.info/#about",
+                "translation": "it"
             }
         }
     ]

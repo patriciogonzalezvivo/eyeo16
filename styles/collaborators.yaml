@@ -17,17 +17,17 @@ layers:
         data: { source: collab }
         draw:
             points-shape:
-                color: [1.,0.,1.]
-                size: 20px
+                color: black
+                size: 30px
                 collide: false
             text:
-                offset: [0, -30px]
+                offset: [0, -40px]
                 font:
                     transform: uppercase
                     typeface: Helvetica
                     fill: black
-                    size: 16px
-                    stroke: { color: white, width: 4 }
+                    size: 15px
+                    stroke: { color: white, width: 6 }
 
 styles:
     points-shape:
