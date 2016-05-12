@@ -3,16 +3,17 @@ author: Patricio Gonzalez Vivo (@patriciogv) - 2016
 import:
     - https://tangrams.github.io/blocks/global.yaml
     - https://tangrams.github.io/blocks/patterns/grid.yaml
-    - https://tangrams.github.io/blocks/patterns/stripes.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
     - https://tangrams.github.io/blocks/points/cross.yaml
-    
+    - https://tangrams.github.io/blocks/elevation/ramp.yaml
+    - https://tangrams.github.io/blocks/elevation/stripes.yaml
+
 sources:
     osm:
         type: TopoJSON
         url:  https://vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-Nhm6Mkg
-        rasters: [normals]
-    normals:
+        rasters: [normals-elevation]
+    normals-elevation:
         type: Raster
         url: https://s3.amazonaws.com/elevation-tiles-prod/normal/{z}/{x}/{y}.png
         max_zoom: 15
@@ -111,17 +112,12 @@ layers:
     #                 size:
     #                 fill: white
 styles:
-    elevation:
+    elevation-ramp:
         raster: custom
         shaders:
             uniforms:
-                u_palette: palette
-            blocks:
-                color: |
-                    vec4 raster = sampleRaster(0);
-                    float elevation = (1. - raster.a);
-                    color = texture2D(u_palette,vec2(elevation,.5));
-                    normal = (raster.rgb-.5)*2.;
+                u_ramp: palette
+
     # ===========================================
     water:
         base: polygons
@@ -134,22 +130,11 @@ styles:
     
     earth:
         base: polygons
-        mix: [elevation]
+        mix: [elevation-ramp]
         
     landuse:
         base: polygons
-        mix: [patterns-stripes, space-tile]
-        blend: inlay
-        lighting: false
-        raster: custom
-        shaders: 
-            blocks:
-                color: |
-                    vec2 st = getTileCoords();
-                    vec3 n = (sampleRaster(0).rgb-.5)*2.;
-                    float pct = clamp(u_map_position.z/13.,0.0,1.0);
-                    pct = mix((1.-pct),dot(n, vec3(-0.600,-0.420,0.600)), pct);
-                    color.a = stripes(st*2., pct*1.6, PI*0.25)*.5;
+        mix: [elevation-stripes]
                     
     roads:
         base: lines

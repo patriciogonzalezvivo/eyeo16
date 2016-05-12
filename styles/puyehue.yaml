@@ -42,4 +42,4 @@ styles:
                     color += tileGrid()*.2;
     earth:
         base: polygons
-        mix: [elevation, picture]
+        mix: [elevation-ramp, picture]

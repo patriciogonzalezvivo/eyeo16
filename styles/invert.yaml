@@ -47,4 +47,4 @@ styles:
         shaders:
             blocks:
                 color: |
-                    color.rgb = vec3(.5+elevation*.5);
+                    color.rgb = vec3(.5+(1.-raster.a)*.5);
