@@ -1,6 +1,6 @@
 
 <!-- .slide: data-background="#000000" -->
-## What are the chances?
+![](imgs/title.png)
 
 ---
 
