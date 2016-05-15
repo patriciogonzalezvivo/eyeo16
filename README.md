@@ -77,12 +77,6 @@ This eruption ejected around one hundred million tons of ash, sand and pumice.
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-05.jpg)
 
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/puyehue-06.jpg)
-
 --
 
 <!-- .slide: data-background="#161616" -->
@@ -218,7 +212,8 @@ I felt in love completely
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/20130617.jpg)
+![](imgs/20130616.jpg) 
+![](imgs/20130617.jpg) <!-- {_class="fragment"} -->
 
 Note:
 The finny side of the story is that Zack got me a Ricardo some volunteer tickets, to come in 2013.
@@ -688,27 +683,13 @@ For this other project I start collection US NOAA's Weather station for the last
 
 --
 
-**~1700** stations  <!-- {_class="fragment"} -->
-**x** **40** days  <!-- {_class="fragment"} -->
-(**960** hs)  <!-- {_class="fragment"} -->
-**=** **1,536,000** samples  <!-- {_class="fragment"} -->
-
-Note:
-Every day I have a raspberrypi fetching the last 24 cycles of 1700 stations that report around every hour.
-The raspberry pi download the METAR text files from NOAA FTP server and parse it into JSON that store for each day.
-Then with another script enconde all those JSON files for each day into a single image.
-
-That's arround a millon an a half samples.
-
---
-
-* temperature <!-- {_class="fragment"} -->
+* temperature
 (RED) <!-- {_class="fragment"} -->
 
-* wind speed <!-- {_class="fragment"} -->
+* wind speed
 (GREEN) <!-- {_class="fragment"} -->
 
-* wind direction <!-- {_class="fragment"} --> 
+* wind direction
 (BLUE) <!-- {_class="fragment"} -->
 
 Note:
@@ -724,16 +705,14 @@ This is how the image looks
 --
 
 <!-- .slide: data-background="#14131A" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 600px; height: 100%;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
-
-[github.com/**tangrams**/***WeatherOverTime***](https://github.com/tangrams/WeatherOverTime)
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
 
 Note:
 The interesting thing about this project was the data in it self.
 
 --
 
-<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
+<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='shaders/data.png' width='1000px' height='600px' ></canvas>
 
 Temperature and Wind Data
 
@@ -742,22 +721,26 @@ This is that image I show before but displayed with a shader... is very random.
 
 --
 
-```glsl
-float pseudo_random = fract(sin(time) * 43758.5453123);
-```
-
-Note:
-For those that use random in shaders this is how you make pseudo random
+![](imgs/10PRINT.png)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print.frag' data-textures='shaders/data.png' width='900px' height='400px' ></canvas>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160513181250&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
-10 Print (pseudo random)
+GLSL 10 Print
 
 Note:
 And looks like this. What if instead of using this pseudo random I use the weather data?
+
+--
+
+```glsl
+float pseudo_random1D = fract(sin(time) * 43758.5453123);
+
+float pseudo_random2D = fract(sin(dot(pos.xy, vec2(12.9898,78.233)))*43758.5453123);
+
+```
 
 --
 
