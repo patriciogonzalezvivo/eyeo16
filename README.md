@@ -4,60 +4,137 @@
 
 ---
 
-<!-- .slide: data-background="#000000" -->
 DEC 2009
 
 Note:
-While I was trying to make my own website in Flash for my practice as a ... therapist. 
-Googling things around to find my way through Flash this happens...
+Dic 2009, starting the annoying/imposible process of making your own website. I was working as Clinical Psychologist and Expressive art Therapist in that time.
+I was teaching my self flash to make my own website for my practice as an art therapist. Googling around I search for “processing XML”
 
 --
 
 ![](imgs/processingXML.png)
 
 Note:
-Which leaveme to
+Which lead me to processing documentation (made by Scott Murray??)
 
 --
 
 ![](imgs/openprocessing.png)
 
 Note:
-Which eventually leaveme to
+The discovery was FASCINATING. This people were combining arts with computer code.
+In my world at that moment I was a misfit.
+
+Beside the fact that I always have been a nerd that like computers. Buenos Aires, is together with Paris and Upper West Side in Manhattan, one of the last places where people do (and like) Psychoanalyst.
+
+So while everybody in school was into this guy:
 
 --
 
-![](imgs/shiffman.jpg)
+![](imgs/Sigmund_Freud_LIFE.jpg)
 
 Note:
-Daniel's Shiffman book was a revelation to me.
-I was out of my mind... I always been a nerd that likes computers and I have route my carrer as a clinical therapist to incorporate some art on it.
-I was painting... this two universe seams irreconciable... but now... now I was hable to do both!
+was a fan of this other guy.
 
-I start searching for this hybrid artist. I send them emails to all of them, trying to see If I can find a local community to be part of
+--
+
+![](imgs/carl_gustav_jung.jpg )
+
+Note:
+… his archenemy, Carl Gustave Jung.
+
+(he actually looks like my grand father)
+
+Like most archenemies, they use to be friends. Jung was the favorite disciple. Freud name him his sucesor and put him in charge of the International Psychoanalytical Association.
+
+--
+
+![](imgs/Psychoanalitic_Congress.jpg)
+
+Note:
+They disagree on the origin of libido and in the scope of unconscious. Freud, father of this ideas, thought the libido was just sexual, and the unconscious made of personal memories.
+
+Jung disagree that the libido was only a sexual. He also believed that deeper than the personal unconscious was a bast collective ocean of shared psychological content. Not just instincts but a whole set of psychological structures, he later call archetypes. They manifest in mythological themes, images, patterns visible along generations and around the world.
+
+--
+
+![](https://livethequestionstoday.files.wordpress.com/2015/01/jungsmodelofself.jpg)
+
+Note:
+For him the personal psique emerge from this collective sea
+
+--
+
+![](http://www.palgrave-journals.com/pcs/journal/v18/n4/images/pcs201318f1.jpg)
+
+Note:
+I was in love with this ideas, to the point that I did a post degree in Jung and the use of art as a way to pull content from this deep ocean. To amplify meaning thought the use of different expressive languages.
+
+Is funny because each different language have the ability to think and said things in different ways. Movement for example, it fluctuates over time... was this ability to transform things.... you enter into an activity with an emotion and thought dance you can move it, transform it into something else....  Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... an image slowly appears over time. 
+
+So I was there looking to all this hybrid artist using code as a language. I was intrigue  about what the uses of this as an expressive language. What could be said with technology that could be said in another way.
+
+I send emails to all the artist could found. 
+
+MAP OF THE WORLD???
+
+I only reply
 
 --
 
 ![](imgs/20091209.png)
 
 Note:
-I only got one reply from Chiss Sugrue
+... Chiss Sugrue.
+I use Dan Shiffman books to learn processing
+
+--
+
+![](imgs/shiffman.jpg)
+
+Note:
+And I found a great group of artist that soon become my friends. 
+
+--
+
+![](imgs/20110217.jpg)
+
+Interactivos 2010
+
+Note:
+Most beautiful things are un expected
+
+Jung have a interesting concept call **synchronicity**
+On his work he notice that In his diaries, what later become the red book….
 
 ---
 
 <!-- .slide: data-background="#000000" -->
-JUN 2011
+![](imgs/redbook-00.jpg)
 
 Note:
-Five years ago, (June 04 2011), I was starting an art recidency in centro Cultural Espanol on Buenos Aires.... when
+… he wrote a series of apocalyptic dreams he had. He was concern of his own mental health. But then he start hearing similar dreams by some of his patients.  He was conflicted with the fact that maybe he was some how influencing them.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/redbook-01.jpg)
+
+Note:
+When the first world war start was clear for him that actually everybody was have been feeling something coming... In the same way animals feels natural disasters before they happen... There was something in there air that was pict subconsciously by him and his patient..
+
+Because this events didn't directly respond to a cause and effect relation. He call them acausal events. And he thought they could be explain because  of the collective incouncius
+
+In June 2011  (five years ago)...
+without any notice....
+and after 50 years of lying dormant a volcano at the south of Chille call Puyehue made eruption.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-02.jpg)
 
-Note:
-A vulcano on Chile named Puyehue makes eruptuion after lying dormant for more than 50 years
+JUN 2011
 
 --
 
@@ -72,16 +149,16 @@ This eruption ejected around one hundred million tons of ash, sand and pumice.
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-04.jpg)
 
+Note:
+This eruption ejected around one hundred million tons of ash, sand and pumice. 
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-05.jpg)
 
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/puyehue-06.jpg)
+Note:
+Days after, the plume travels all the way to Buenos Aires. 
 
 --
 
@@ -89,7 +166,7 @@ This eruption ejected around one hundred million tons of ash, sand and pumice.
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe>
 
 Note:
-Days after, the plume travels all the way to Buenos Aires. 
+In it path..
 
 --
 
@@ -97,7 +174,8 @@ Days after, the plume travels all the way to Buenos Aires.
 ![](imgs/puyehue-09.jpg)
 
 Note:
-In it path..
+the ashes bring destruction.
+- all flights cancel across the southern half of the continent
 
 --
 
@@ -105,8 +183,6 @@ In it path..
 ![](imgs/puyehue-10.jpg)
 
 Note:
-the ashes bring destruction.
-- all flights cancel across the southern half of the continent
 - Nilahue River went up to 113° and killed around 4.5 million fishes
 - heart attacks and got throat cancer on the livestock
 - fluoride intoxication in sheep, cattle and horses
@@ -126,8 +202,7 @@ This incredible force of nature brings a lot of destructions on it's way
 <iframe src="https://player.vimeo.com/video/31940579" class='fit' width='100%' height='1000px' frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-I incorporate this ashes on the work I was doing. What now we will call a sandbox simulation using a kinect device. I call it Butterfly Effect.
-To do the simulation of the geosphere, hydrysphere, biosphere and atmosphere I hard to learn how to use shaders. 
+During the volcano I was working on a project that use kinect camera to do a projection mapping of a ecosystem simulation over a sandbox. My goal was to invite user to interact with it, and by that bring destruction that will take some time to heal and go back to homeostasis. The scale of the volcano eruption had a great influence in this peace. I replace the sand by volcanic ashes, and work hard on it to make the algorithms as complex and realistic as I could. For that I had to learn shaders. It wasn't easy, but at the end was very satisfying to see that the people interacting with it. I like to think that something of what we experience that year could be re experienced in this particular way. In order to think it in a different and healing way.
 
 --
 
@@ -136,8 +211,8 @@ To do the simulation of the geosphere, hydrysphere, biosphere and atmosphere I h
 
 **Efecto Mariposa** (Butterfly effect)
 
-Note: 
-After presenting this work in Argentina and Brazil at diferent festivals I decide to break this layers of simulations and openSource it as an openFrameworks addon.
+Note:
+There is something that give us pleasure of having the illusion of controlling chaos and chance. Even when we see that the repercussions of our interactions scape our perception of understanding... we find confort in the illusion of control.
 
 --
 
@@ -149,34 +224,22 @@ After presenting this work in Argentina and Brazil at diferent festivals I decid
 <iframe src="https://player.vimeo.com/video/29887776?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-There is something to said about opensourcing something that you have been working intensly for a year. 
-It was some adrenaline, but at the same time you feel vulnerable and expose.
+Efecto Mariposa was made using openFrameworks.
+After this work was expose I start thinking on how to give back. On what could be the best way to open source this work. As a tool. 
+Open Source it into an OF addon: ofFX
 
 --
 
 ![](imgs/20111210.png)
 
 Note:
-ofxFX became an important tool for other artist
-
----
-
-<!-- .slide: data-background="#000000" -->
-JAN 2012
-
-Note:
-On January 2012
+thanks to that I meet Zack Liberman...
 
 --
 
-<!-- .slide: data-background="#161616" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=nyc#6.4/40.729/-73.310'></iframe>
+![](imgs/20120103.jpg)
 
-Map of BUE and NYC pointing to Zack L trying to compile my OF addon
-
-Note:
-mean while in NYC Zack L was trying to run that same OF addon
-We got in contact. He was the one that suggest applying to parsosn
+Note: he was the one that suggest applying to the master in design and technology at parsons... which I did... 
 
 --
 
@@ -184,14 +247,7 @@ We got in contact. He was the one that suggest applying to parsosn
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
 Note:
-3 Mounth later I got a big envelope with an offer of a full tuition to go to Parsons.
-I sell everything and told my patients I have been living two lifes. I had a crush with digital art and new media. 
-I came to NYC
-
----
-
-<!-- .slide: data-background="#000000" -->
-MAY 2013
+and I got to come to NYC.
 
 --
 
@@ -202,10 +258,7 @@ MAY 2013
 Visual Systems for CLOUDS Documentary
 
 Note:
-While I was working on the visual system on CLOUDS.
-Zach anounce the SFPC. While I was his students he talk about the idea of the school a lot. So I followed the four founders (Jen, Zack, Amit and Tewon).
-Through a random twitter interaction we start talking and agree on going for a coffee.
-
+While I was working on the visual system on CLOUDS w James and Jonathan...
 
 --
 
@@ -213,16 +266,18 @@ Through a random twitter interaction we start talking and agree on going for a c
 <iframe class='fit' src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1463075256574!6m8!1m7!1sp1dCLliwGRUAAAQZDaBD0w!2m2!1d40.72371832370289!2d-73.95171632224185!3f44.320821265143294!4f-15.56789776591117!5f0.7820865974627469" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Note:
-I felt in love completely
+I meet Jen in this coorner on Green point.
+I can trace all back this random events after the volcano.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/20130617.jpg)
+
+![](imgs/jen.jpg)
+![](imgs/20130617.jpg) <!-- {_class="fragment"} -->
 
 Note:
-The finny side of the story is that Zack got me a Ricardo some volunteer tickets, to come in 2013.
-And she was speaking that year. So suddently eyeo become like a honey moon vacations.
+She was speaking that year. So suddently eyeo become like a honey moon vacations.
 In my memory Miniapolis is more romantic that Paris and veneces... together.
 Is the american city of love.
 
@@ -236,8 +291,9 @@ So...
 MAR 2014
 
 Note:
-2014 an year of closeres and begginings... 
-Wrapping up my thesis for Parsons...
+But is not just that randoms happens. Is about been open (and probably harder, staying open) to dance with it. 
+
+While working on my Thesis
 
 --
 
@@ -246,9 +302,7 @@ Wrapping up my thesis for Parsons...
 [**Skyline I**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=01)
 
 Note:
-series of projects is about awareness. It is about the tools and techniques we use to see the world around us.
-
-This is a drawing machine that slowly reveals an image of the world viewed through the tireless eye of technology. It constantly adds traces of material, demonstrating that the drive for immediacy is not inherent in technology.
+series of projects is about awareness... the tools and techniques we use to see the world around us.
 
 --
 
@@ -306,20 +360,6 @@ So I was trying this things before going to bed... adding up this spheres of poi
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/13387695845_e27904aee8_o.png)
-
-Note:
-And I did
-
---
-
-<!-- .slide: data-background="#000000" -->
-<!-- <iframe src="https://player.vimeo.com/video/101107332?title=0&byline=0&portrait=0" width="100%" height="1000px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<iframe src="https://player.vimeo.com/video/89982874?title=0&byline=0&portrait=0" width="100%" height="1000px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Note:
-...
-People went kind of crazy, everybody thought was Lidar data... is not. The process actually is very slow
 
 --
 
