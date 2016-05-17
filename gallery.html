@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GLSL Gallery</title>
+        <link href="/favicon.gif" rel="shortcut icon"/>
+        
+        <!-- GLSL Gallery -->
+        <link type='text/css' rel='stylesheet' href='https://thebookofshaders.com/glslGallery/glslGallery.css'></script>
+        <script type='text/javascript' src='https://thebookofshaders.com/glslGallery/glslGallery.js'></script>
+        <style>
+            body {
+                height: 100%;
+                margin: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="gallery"></div>
+    </body>
+
+    <script type="text/javascript">
+        function parseQuery (qstr) {
+            var query = {};
+            var a = qstr.split('&');
+            for (var i in a) {
+                var b = a[i].split('=');
+                query[decodeURIComponent(b[0])] = decodeURIComponent(b[1]);
+            }
+            return query;
+        }
+
+        var query = parseQuery(window.location.search.slice(1));
+        var options = {};
+
+        if (query) {
+            for (var key in query) {
+                var value = query[key];
+                if (value === 'true' || value === 'false') {
+                    value = (value == 'true');
+                }
+                options[key] = value;
+            }
+        }
+
+        var dom = document.getElementById('gallery');
+        var gallery = new window.glslGallery(dom, options);
+    </script>
+</html>

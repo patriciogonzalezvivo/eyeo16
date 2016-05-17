@@ -90,13 +90,6 @@ I use Dan Shiffman books to learn processing
 
 --
 
-![](imgs/shiffman.jpg)
-
-Note:
-And I found a great group of artist that soon become my friends. 
-
---
-
 ![](imgs/20110217.jpg)
 
 Interactivos 2010
@@ -267,7 +260,14 @@ While I was working on the visual system on CLOUDS w James and Jonathan...
 
 Note:
 I meet Jen in this coorner on Green point.
-I can trace all back this random events after the volcano.
+
+--
+
+<!-- .slide: data-background="#161616" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=sfc-nyc#5.47188/39.742/-99.548'></iframe>
+
+Note:
+She also just arrive to NYC move by her own series of random events.
 
 --
 
@@ -283,136 +283,22 @@ Is the american city of love.
 
 Look that face of happines :)
 
-So...
-
 ---
-
-<!-- .slide: data-background="#000000" -->
-MAR 2014
-
-Note:
-But is not just that randoms happens. Is about been open (and probably harder, staying open) to dance with it. 
-
-While working on my Thesis
-
---
-
-![](imgs/Skyline01.png)
-
-[**Skyline I**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=01)
-
-Note:
-series of projects is about awareness... the tools and techniques we use to see the world around us.
-
---
-
-![](imgs/Skyline02.png)
-
-[**Skyline II**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=02)
-
-Note:
-This is a machine that prints the large-scale transitions of the horizon on a path from the city to the mountains. While Skyline #01 sees through the flow of the time, Skyline #02 expands our perception of space.
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13134041954_3a8794f2af_o.png)
-
-Note:
-For this project I was scrapping google street view data to construct this continues horizon.
-You can see how using google's routing service I choose a path, to then make different request to the GoogleStreetView API
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13370774844_ffa2bf2660_o.png)
-
-Note:
-I wasn't completely happy on how this look so I was trying some other things.
-I was trying to put this "bubles" togther and put a camera go from one to the other... 
-but was basically going trough this wall meshes... kind of disaster. Hulking out the virtual streets
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/cb-view-depth-map.png)
-
-Note:
-Then I found this... there was some low definition depth data that could be accesss throught the API
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13361944233_fa138198a1_o.png)
-
-Note:
-And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can only use the vertex points and get away with it".
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13408749583_e427ed3814_o.png)
-
-Note:
-So I was trying this things before going to bed... adding up this spheres of points... not really sure What It and Jen pass by and she said to me... "That's cool you should tweet about it"
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13387695845_e27904aee8_o.png)
-
---
-
-![](imgs/13466577425_022da481a6_o.png)
-
-Note:
-I start pullishing
-
---
-
-![](imgs/13443449153_075c253e17_o.png)
-
-Note:
-until start making sense for me.
-
---
-
-![](imgs/14110527105_2c1eb240a4_o.png)
-
-Note:
-in lot of things it was like the begining of photography.
-
---
-
-![](imgs/13926884279_1c8e6e4dc3_o.png)
-
-Note:
-I put my camera some where... and then set a robot to retrive this points of information from googles evil servers.
-
---
-
-![](imgs/14134184803_462bcbfbe7_o.png)
-
-Note:
-I had to wait this digital landscapes reviel. develop over time.
-
-In that time, I didn't knew it... but I'm preatty sure this got me my actual job 
-
---
 
 ![](imgs/logo-mapzen.png)
 
 Note:
-... at Mapzen. I was showing this work to my actual boss. And He was very excited to bring this kind of exploratory creative work to the mapping world. 
-I understood my position as a sort of inhouse R&D possition.
+In AUG 2014 I had the inmense priviledge of start working for Mapzen.
 
 --
 
 ![](imgs/mapzen-team.gif)
 
 Note:
-On august 2014, I join the stellar team of Mapzen.
-I had to say that is a priviledge of a life time to work with such an amazing line up of profesionals.
+Beside the stellar line up. Is great to be able to work in the open, together with an incredible team of super smart and nice people.
+For the bottom of my hart. Thanks everybody at mapzen.
+
+Working there I have been hable to work in a lot of exciting experiments with freadom and respect.
 
 --
 
@@ -421,7 +307,7 @@ I had to say that is a priviledge of a life time to work with such an amazing li
 [Experiments on **3D Labels** (C++)](https://vimeo.com/107190391)
 
 Note:
-this 3D labels and way finding prototype
+doing 3D labels and way finding prototype in openFrameworks
 
 --
 
@@ -430,7 +316,7 @@ this 3D labels and way finding prototype
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
 
 Note:
-or this experiment about mixing LIDAR data with Structure from Motion point clouds from images with openStreetMap data.
+mixing LIDAR data with Structure from Motion point clouds from images with openStreetMap data.
 
 --
 
@@ -441,25 +327,30 @@ or this experiment about mixing LIDAR data with Structure from Motion point clou
 [Tangram styles (WebGL)](patriciogonzalezvivo.github.io/tangram-sandbox/)
 
 Note:
-And then doing cross plaform implementations on Tangram our 2D/3D map engine. At the same time I push the limites of it with doing some maps.
+doing Cross platform implementation in Tangram between the C++/openGL ES native app to the JS/WebGL browser version
 
 --
+
+<!-- .slide: data-background="#000000" -->
 
 <img src='imgs/tilt-tron.gif' style='width: 45%'> <img src='imgs/tron.png' style='width: 45%;'>
 
 <img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-matrix.gif' style='width: 45%'>
 
-<!-- .slide: data-background="#000000" -->
-*Tangram styles (WebGL)*
+*Tangram styles*
+
+Note:
+pushing the limits of the engine and of how a map could look like
 
 --
+
+<!-- .slide: data-background="#000000" -->
 
 <img src='imgs/tilt-gotham.gif' style='width: 45%;'> <img src='imgs/gotham.png' style='width: 45%;'>
 
 <img src='imgs/ikeda.gif' style='width: 45%;'> <img src='imgs/tilt-ikeda.gif' style='width: 45%;'>
 
-<!-- .slide: data-background="#000000" -->
-*Tangram styles (WebGL)*
+*Tangram styles*
 
 --
 
@@ -471,72 +362,72 @@ And then doing cross plaform implementations on Tangram our 2D/3D map engine. At
 
 *Line of Sight*
 
---
-
-![](imgs/terrarium00.png)
-
-*Terrarium experiments*
-
---
-
-![](imgs/terrarium01.png)
-
-*Terrarium experiments*
-
 Note:
-Having a stable corporate job, was new to me so It didn't take longer to wanting to have my own personal work. 
-Something I could do in my free time.
+
+Working on Mapzen give me the chance to work closely with other people that are super profesionals on what they do.
+Also, because all this is in the open, everybody can use it and re use it.
 
 ---
-
-JAN 2015
-
---
 
 ![](imgs/book.png)
 
 Note:
-I remember how hard was to learn shaders at the begining and how helpfull have been to know about them.
-Something to bring back to the community of developers, art and design, that give me so much.
-I decide to start a book that helps artist to learn and use Shaders.
+I want to tell a little more about a particular project I have been working, since I joing Mapzen and had some extra time for my own.
+
+Learning shaders by my onw was hard back on the days of efecto mariposa, so I was wanting to help others start with GLSL Shaders.
+Also a good way to give something back to the community that brodme here.
 
 --
 
 ![](imgs/TBoS-00.png)
 
+Note:
+So I start writing this long time project
+
 --
 
 ![](imgs/TBoS-01.png)
+
+Note:
+Together with the writing cames ideas to make it more didactic
 
 --
 
 ![](imgs/TBoS-03.png)
 
+Note:
+For example this embebed code editor you see here
+
 --
 
-![](imgs/TBoS-02.png)
+<iframe class='fit' width='100%' height='1000px' data-src='http://thebookofshaders.com/05'></iframe>
 
 Note:
-The book had open oportunities for new collaborations
+or this other GLSL graph plotter 
+
+This openSource project also open new chances of working with others from different parts of the world
+This is a map of all the people that had collaborate so far.
 
 --
 
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
-Beside Jen Lowe that had done all the editing of the book
-Other people join in the project, voluntering their time and energy.
+I want to thanks specially to the translators
 
-- Kenichi Yoneda @kyindinfo
+--
+
+- Kenichi Yoneda (@kyindinfo)
 - Sawako
 - Tong Li 
 - Yi Zhang 
 - Jae Hyun Yoo 
-- Nicolas Barradeau @nicoptere
-- Karim Naaji @karimnaaji
-- Nahuel Coppero (Necsoft) 
+- Nicolas Barradeau (@nicoptere)
+- Karim Naaji (@karimnaaji)
+- Nahuel Coppero (@necsoft) 
 
-So far we hace translate the book of shaders to Japanise, Korean, Spanish, French and it's an on going italian translation
+Note:
+They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
 
 --
 
@@ -544,27 +435,31 @@ So far we hace translate the book of shaders to Japanise, Korean, Spanish, Frenc
 
 **[o]** openFrame.io
 
+Note:
+Another project I got to collaborate totaly by chance is openFrame
+
 --
 
 ![](imgs/openFrame-guys.png)
+
+Note:
+I run on the street with Ishac. And he toldme he toldme he was working in what in that moment understood as the openSource version of ElectricObjects but with RaspberryPi. I got excited because I have been using raspberrypies to visualize shaders. 
 
 --
 
 ![](imgs/glslViewer.gif)
 
 Note:
+By that time I was working on this cross platforms shader viewer for live coding that also run in the RaspberryPi. So after he finish his explanation I took out my lapdoc with my raspberry pi and show the patterns inspired on Ryoji Ikeda, running in the RPi, and convince him to add it to the system.
 
-This collaboration start when I run with Ishac in the street. And he toldme he was working (on what in that moment) sound like a OpenSource Electric object that runs on a RaspberryPi.
-As a lover of RPis and Shaders I have been wanting to do that for a while... in fact I start this tool render shaders on OSX, Linux and RPI.
+OpenFrameworks is great because is just a node.js server running websocket that triggers console programs... so is crazy flexible.
 
-I started as a tool for my self to live code shaders.
-
-Which once I learn JS evolve to this editor 
+Then I work on the online editor, to be hable to export and host shaders in order to be hable to send them to openFrames.
 
 --
 
 <!-- .slide: data-background="#272822" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://editor.thebookofshaders.com/'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?multipleBuffers=false'></iframe>
 
 Note:
 That's the one I use for the book.
@@ -578,39 +473,15 @@ They are like a HAIKUs. You have no library to reference... and you just can gen
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe> 
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160517200804&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='gallery.html?logs=160505191155,160505193939,160505200330,160509131554,160509131509,160509131420,160509131240,160513193817,160513201554,160513210434,160516140131,160516233753,160516235834,160517013036'></iframe> 
 
 Note:
 So I start writing this shaders for openFrame.
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160307213819'></iframe> 
-
-Note:
-I love having a frame for them. My idea of shaders have been changing...
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160304203331'></iframe> 
-
-Note:
-Again I like the restrictions... not just in the hardware but also the posibilities... helps me to concetrate on simple things.
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160304202332'></iframe> 
-
-Note:
-simple ideas
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://player.thebookofshaders.com/?log=160313030533'></iframe> 
 
 ---
 
