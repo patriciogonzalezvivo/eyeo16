@@ -1,14 +1,33 @@
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/title.png)
+# What are the chances?
 
 ---
 
 DEC 2009
 
 Note:
-Dic 2009, starting the annoying/imposible process of making your own website. I was working as Clinical Psychologist and Expressive art Therapist in that time.
-I was teaching my self flash to make my own website for my practice as an art therapist. Googling around I search for “processing XML”
+In dicember 2009, I was working on the annoying/imposible process of making your own website.
+In my case this website
+
+--
+
+<!-- .slide: data-background="#91AC99" -->
+<iframe class='fit' width='100%' height='600px' data-src='https://web.archive.org/web/20100620130219/http://www.arteparasanarte.com.ar/'></iframe>
+
+Note:
+It's important to say in that time I was working as Clinical Psychologist and Expressive art Therapist.
+Esentially doing a lot of things that looks this other thing:
+
+--
+
+![](imgs/DSCN0373.JPG)
+<!-- ![](imgs/DSC05495.JPG) -->
+
+Note:
+Any way...
+I was teaching my self flash to make my own website for my practice as an art therapist. 
+Googling around I search for “processing XML”
 
 --
 
@@ -19,10 +38,12 @@ Which lead me to processing documentation (made by Scott Murray??)
 
 --
 
-![](imgs/openprocessing.png)
+![](imgs/processing.png)
 
 Note:
-The discovery was FASCINATING. This people were combining arts with computer code.
+I was FASCINATED. 
+
+This people were combining arts with computer code.
 In my world at that moment I was a misfit.
 
 Beside the fact that I always have been a nerd that like computers. Buenos Aires, is together with Paris and Upper West Side in Manhattan, one of the last places where people do (and like) Psychoanalyst.
@@ -58,26 +79,61 @@ Jung disagree that the libido was only a sexual. He also believed that deeper th
 
 --
 
-![](https://livethequestionstoday.files.wordpress.com/2015/01/jungsmodelofself.jpg)
+
+![](imgs/pcs201318f1.jpg)
 
 Note:
 For him the personal psique emerge from this collective sea
 
 --
 
-![](http://www.palgrave-journals.com/pcs/journal/v18/n4/images/pcs201318f1.jpg)
+[3D TERRAIN MAP WITH SEA LEVEL RETRACTING]
+
+--
+
+![](imgs/jungsmodelofself.jpg)
 
 Note:
 I was in love with this ideas, to the point that I did a post degree in Jung and the use of art as a way to pull content from this deep ocean. To amplify meaning thought the use of different expressive languages.
 
-Is funny because each different language have the ability to think and said things in different ways. Movement for example, it fluctuates over time... was this ability to transform things.... you enter into an activity with an emotion and thought dance you can move it, transform it into something else....  Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... an image slowly appears over time. 
+--
 
-So I was there looking to all this hybrid artist using code as a language. I was intrigue  about what the uses of this as an expressive language. What could be said with technology that could be said in another way.
+![](imgs/DSC01571.JPG)
+![](imgs/IMG_7313.JPG)
+![](imgs/00023.jpg)
+
+Note:
+Is funny because each different language have the ability to think and said things in different ways. 
+
+--
+
+![](imgs/movement.gif)
+Note:
+Movement for example, it fluctuates over time... was this ability to transform things.... you enter into an activity with an emotion and thought dance you can move it, transform it into something else....
+
+--
+
+
+![](imgs/00030.jpg)
+
+Note:
+Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... an image slowly appears over time.
+
+--
+
+![](imgs/openprocessing.png)
+
+Note:
+So I was there looking to all this hybrid artist using code as a language. 
+I was intrigue  about what the uses of this as an expressive language. What could be said with technology that could be said in another way.
 
 I send emails to all the artist could found. 
 
-MAP OF THE WORLD???
+--
 
+[MAP OF THE WORLD???]
+
+Note:
 I only reply
 
 --
@@ -86,21 +142,30 @@ I only reply
 
 Note:
 ... Chiss Sugrue.
-I use Dan Shiffman books to learn processing
+So I did...
+I got in touch w Diego
+How suggest to apply for interactivos telefonica.
+And again... I did.
 
 --
 
 ![](imgs/20110217.jpg)
 
-Interactivos 2010
+*Fundacion Telefonica* - **INTERACTIVOS** 2010
 
 Note:
+Here we are in interactivos 2010. I made long lasting friends there, like Tomas Rawski.
+
 Most beautiful things are un expected
 
 Jung have a interesting concept call **synchronicity**
 On his work he notice that In his diaries, what later become the red book….
 
 ---
+
+![](imgs/redbook.jpg)
+
+--
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/redbook-00.jpg)
@@ -128,6 +193,11 @@ and after 50 years of lying dormant a volcano at the south of Chille call Puyehu
 ![](imgs/puyehue-02.jpg)
 
 JUN 2011
+
+--
+
+<!-- .slide: data-background="#000000" -->
+[3D Map of puyeye?]
 
 --
 
@@ -165,27 +235,16 @@ In it path..
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-09.jpg)
+![](imgs/puyehue-10.jpg) <!-- {_class="fragment"} -->
+![](imgs/puyehue-12.jpg) <!-- {_class="fragment"} -->
+![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
 Note:
 the ashes bring destruction.
 - all flights cancel across the southern half of the continent
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/puyehue-10.jpg)
-
-Note:
 - Nilahue River went up to 113° and killed around 4.5 million fishes
 - heart attacks and got throat cancer on the livestock
 - fluoride intoxication in sheep, cattle and horses
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/puyehue-11.jpg)
-
-Note:
 - bring five years of drought on Chubut and Rio Negro
 This incredible force of nature brings a lot of destructions on it's way
 
@@ -281,24 +340,139 @@ She was speaking that year. So suddently eyeo become like a honey moon vacations
 In my memory Miniapolis is more romantic that Paris and veneces... together.
 Is the american city of love.
 
-Look that face of happines :)
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20140610.png)
+
+
+---
+
+<!-- .slide: data-background="#000000" -->
+MAR 2014
+
+Note:
+But is not just that randoms happens. Is about been open (and probably harder, staying open) to dance with it. 
+
+While working on my Thesis
+
+--
+
+![](imgs/Skyline02.png)
+
+[**Skyline II**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=02)
+
+Note:
+I was working on a series of projects is about awareness and the tools we use to see the world around us.
+This is a machine that prints the large-scale transitions of the horizon on a path from the city to the mountains. 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/13134041954_3a8794f2af_o.png)
+
+Note:
+For this project I was scrapping google street view data to construct this continues horizon.
+You can see how using google's routing service I choose a path, to then make different request to the GoogleStreetView API
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/13370774844_ffa2bf2660_o.png)
+
+Note:
+I wasn't completely happy on how this look so I was trying some other things.
+I was trying to put this "bubles" togther and put a camera go from one to the other... 
+but was basically going trough this wall meshes... kind of disaster. Hulking out the virtual streets
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/cb-view-depth-map.png)
+
+Note:
+Then I found this... there was some low definition depth data that could be accesss throught the API
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/13361944233_fa138198a1_o.png)
+
+Note:
+And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can only use the vertex points and get away with it".
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/13408749583_e427ed3814_o.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/13387695845_e27904aee8_o.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe>
+
+--
+
+![](imgs/13466577425_022da481a6_o.png)
+
+Note:
+I start pullishing
+
+--
+
+![](imgs/13443449153_075c253e17_o.png)
+
+Note:
+until start making sense for me.
+
+--
+
+![](imgs/14110527105_2c1eb240a4_o.png)
+
+Note:
+in lot of things it was like the begining of photography.
+
+--
+
+![](imgs/13926884279_1c8e6e4dc3_o.png)
+
+Note:
+I put my camera some where... and then set a robot to retrive this points of information from googles evil servers.
+
+--
+
+<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
+
+
+Note:
+I had to wait this digital landscapes reviel. develop over time.
+
+--
+
+![](imgs/14134184803_462bcbfbe7_o.png)
+
+Note:
+Preparing for this talk I want to do some new point clouds... but I discovery that google change their API... so this point clouds are somehow limited editions
 
 ---
 
 ![](imgs/logo-mapzen.png)
 
 Note:
-In AUG 2014 I had the inmense priviledge of start working for Mapzen.
+Since AUG 2014 I had the inmense priviledge of start working for Mapzen.
 
 --
 
 ![](imgs/mapzen-team.gif)
 
 Note:
-Beside the stellar line up. Is great to be able to work in the open, together with an incredible team of super smart and nice people.
-For the bottom of my hart. Thanks everybody at mapzen.
-
-Working there I have been hable to work in a lot of exciting experiments with freadom and respect.
+Mapzen was a stellar line up of truly incredible and amazing people.
+Working with this falks is a fantastic priviledge.
 
 --
 
@@ -307,7 +481,7 @@ Working there I have been hable to work in a lot of exciting experiments with fr
 [Experiments on **3D Labels** (C++)](https://vimeo.com/107190391)
 
 Note:
-doing 3D labels and way finding prototype in openFrameworks
+working there I have been hable to do all sort 
 
 --
 
@@ -316,7 +490,7 @@ doing 3D labels and way finding prototype in openFrameworks
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
 
 Note:
-mixing LIDAR data with Structure from Motion point clouds from images with openStreetMap data.
+of exploratory projects
 
 --
 
@@ -327,7 +501,7 @@ mixing LIDAR data with Structure from Motion point clouds from images with openS
 [Tangram styles (WebGL)](patriciogonzalezvivo.github.io/tangram-sandbox/)
 
 Note:
-doing Cross platform implementation in Tangram between the C++/openGL ES native app to the JS/WebGL browser version
+pushing the limits
 
 --
 
@@ -340,17 +514,19 @@ doing Cross platform implementation in Tangram between the C++/openGL ES native 
 *Tangram styles*
 
 Note:
-pushing the limits of the engine and of how a map could look like
+of what digital cartography can look
 
 --
 
 <!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
 
-<img src='imgs/tilt-gotham.gif' style='width: 45%;'> <img src='imgs/gotham.png' style='width: 45%;'>
+*RandomCity*
 
-<img src='imgs/ikeda.gif' style='width: 45%;'> <img src='imgs/tilt-ikeda.gif' style='width: 45%;'>
+[* Inspired on Ryoji Ikeda work](http://www.ryojiikeda.com/)
 
-*Tangram styles*
+Note:
+today
 
 --
 
@@ -363,37 +539,59 @@ pushing the limits of the engine and of how a map could look like
 *Line of Sight*
 
 Note:
+[I think you can tie Mapzen in with openness + chance == interesting things; make the point that Mapzen is working in the open; share things *other* ppl have
 
-Working on Mapzen give me the chance to work closely with other people that are super profesionals on what they do.
-Also, because all this is in the open, everybody can use it and re use it.
+One of the fantastic things about my work is that completely in the open.
+
+
+--
+
+![](imgs/geraldine.jpg)
+![](imgs/geraldine-work.jpg)
+
+**Geraldine** Sarmiento (@sensescape)
+
+
+Note:
+So beside working with the incrediblle 
+Geraldine Sarmiento
+
+--
+
+![](imgs/weili.jpg)
+![](imgs/weili.gif)
+
+**Weili** Shi (@shiweili)
+
+Note:
+we make tools for others to be creative. Like Weili Shi.
 
 ---
+
+![](imgs/shiffman.jpg)
+
+Note:
+I start coding with this book of Daniel Shiffman.
+This book so empowering to me. Was **gateway** to a lot of posibilities
+
+--
 
 ![](imgs/book.png)
 
 Note:
-I want to tell a little more about a particular project I have been working, since I joing Mapzen and had some extra time for my own.
-
-Learning shaders by my onw was hard back on the days of efecto mariposa, so I was wanting to help others start with GLSL Shaders.
-Also a good way to give something back to the community that brodme here.
+that's why, as a side and long term project, I start writing a book to help others to start with shaders.
+Back in the days of Efecto Mariposa, was very hard to start learning what was consider this dark art of GLSL Shaders.
 
 --
 
 ![](imgs/TBoS-00.png)
 
 Note:
-So I start writing this long time project
-
---
-
-![](imgs/TBoS-01.png)
-
-Note:
 Together with the writing cames ideas to make it more didactic
 
 --
 
-![](imgs/TBoS-03.png)
+![](imgs/TBoS-01.png)
 
 Note:
 For example this embebed code editor you see here
@@ -417,14 +615,14 @@ I want to thanks specially to the translators
 
 --
 
-- Kenichi Yoneda (@kyindinfo)
-- Sawako
-- Tong Li 
-- Yi Zhang 
-- Jae Hyun Yoo 
-- Nicolas Barradeau (@nicoptere)
-- Karim Naaji (@karimnaaji)
-- Nahuel Coppero (@necsoft) 
+- **Kenichi** Yoneda (@kyindinfo)
+- **Sawako** (@sawakohome)
+- **Tong** Li 
+- **Yi** Zhang 
+- **Jae** Hyun Yoo 
+- **Nicolas** Barradeau (@nicoptere)
+- **Karim** Naaji (@karimnaaji)
+- **Nahuel** Coppero (@necsoft) 
 
 Note:
 They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
@@ -433,306 +631,38 @@ They had translate the book of shaders to Japanise, Korean, Spanish and French. 
 
 ![](imgs/openframe.jpg)
 
-**[o]** openFrame.io
+**[o]** openFrame.io 
+
+by Isach Bertran (@ishacbertran) & Jon Whol (@jonwohl)
 
 Note:
 Another project I got to collaborate totaly by chance is openFrame
 
 --
 
-![](imgs/openFrame-guys.png)
+<iframe class='fit' width='100%' height='100%' style='min-height: 1050px;' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
 
 Note:
-I run on the street with Ishac. And he toldme he toldme he was working in what in that moment understood as the openSource version of ElectricObjects but with RaspberryPi. I got excited because I have been using raspberrypies to visualize shaders. 
-
---
-
-![](imgs/glslViewer.gif)
-
-Note:
-By that time I was working on this cross platforms shader viewer for live coding that also run in the RaspberryPi. So after he finish his explanation I took out my lapdoc with my raspberry pi and show the patterns inspired on Ryoji Ikeda, running in the RPi, and convince him to add it to the system.
-
-OpenFrameworks is great because is just a node.js server running websocket that triggers console programs... so is crazy flexible.
-
-Then I work on the online editor, to be hable to export and host shaders in order to be hable to send them to openFrames.
-
---
-
-<!-- .slide: data-background="#272822" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?multipleBuffers=false'></iframe>
-
-Note:
-That's the one I use for the book.
-
-Any way... He told me that and I open the lapdoc for my RPI and show some shaders running... and said: we can show artwork in form of shaders!
-
-
-I really like shaders. I like the size and their restrictions and power.
-They are like a HAIKUs. You have no library to reference... and you just can generate images.
+OpenFrame have been a great way to start working on frames again. I'm enjoying this particular way of relating with my work in forms of shaders displayed on my work. By looking at them constantly in daily bases... I'm starting to dialog with my work.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160517200804&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
+Note:
+Shader is a coding language... a series of direction, but from the point of view of a single pixel.
+I really like them because of their simplicity, power and restrictions.
+They seems like a HAIKUs to me. 
+There is no library to reference... just mathematical functions. So is very minimal.
+And you do is generate images.
+
 --
 
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='gallery.html?logs=160505191155,160505193939,160505200330,160509131554,160509131509,160509131420,160509131240,160513193817,160513201554,160513210434,160516140131,160516233753,160516235834,160517013036'></iframe> 
+<iframe class='fit' width='1400px' height='800px' data-src='gallery.html?logs=160505191155,160505193939,160505200330,160509131554,160509131509,160509131420,160509131240,160513193817,160513201554,160513210434,160516140131,160516233753,160516235834'></iframe> 
 
 Note:
-So I start writing this shaders for openFrame.
-
----
-
-### Workflow
-
---
-
-![](imgs/TBoS-04.png)
-
-Note:
-The book also blend in my work.
-I start researching a theme or an artist
-Like producing pseudo random in GLSL and Ryoji Ikeda
-
---
-
-<iframe class='fit' width='100%' height='800px' data-src='http://thebookofshaders.com/10'></iframe>
-
-Note:
-Then start writing about it
-
---
-
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-00.frag' width='900px' height='400px' ></canvas>
-
-test pattern
-
-Note:
-Making small examples
-
---
-
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-03.frag' width='900px' height='400px' ></canvas>
-
-datastream
-
---
-
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-02.frag' width='900px' height='400px' ></canvas>
-
---
-
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-04.frag' width='900px' height='400px' ></canvas>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-digits.frag' width='900px' height='400px' ></canvas>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/ikeda-numered-grid.frag' width='900px' height='400px' ></canvas>
-
-Note:
-
-And at one time I found my self with enought content to start composing this sketches.
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe> 
-
-Note:
-...
-Also the oposite have been true
-
----
-
-
-<!-- .slide: data-background="#020303" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://patriciogonzalezvivo.github.io/LineOfSight/"></iframe>
-
-*LineOfSight*
-
-Note:
-For Line of Sight I have this problem of how to update the position of 1500 moving targets wit precession.
-
---
-
-![](imgs/texture.png)
-
-Note:
-The solution was to encode all the future positions of each satellite in the next following hour into a image.
-Each pixel is encode a big number with pressition enought to display it in the exact locating it will be.
-The first part of the screen are for the longitudes while the second is latitud.
-Each satelitte just need to read in the right row at the right offset on time to know their exact location.
-
---
-
-<!-- .slide: data-background="#2E2A27" -->
-![](imgs/roll.jpg)
-
-Note:
-Imagine that image as a "played piano roll". Each satellite, like a each key on the piano will read one line of the image. But instead of the binarry format of the roll... will look for a position incoded in color. 
-
---
-
-![](imgs/1600sats-diff.png)
-
---
-
-# 10%
-<!-- .slide: data-background="#17141B" -->
-
-Note:
-This is not only 10% feawer data to pass, but only require one call to the GL API instead of one per each satellite by frame (close to over 36.000)
-
----
-
-![](imgs/rpi.jpg)
-
-Note:
-For this other project I start collection US NOAA's Weather station for the last 7 weeks with my RaspberryPi
-
---
-
-* temperature
-(RED) <!-- {_class="fragment"} -->
-
-* wind speed
-(GREEN) <!-- {_class="fragment"} -->
-
-* wind direction
-(BLUE) <!-- {_class="fragment"} -->
-
-Note:
-For each record I'm storing the temperature, Wind speed and wind direction in the RED, GREEN and BLUE channels of a picture.
-
---
-
-![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
-
-Note:
-This is how the image looks
-
---
-
-<!-- .slide: data-background="#14131A" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
-
-Note:
-The interesting thing about this project was the data in it self.
-
---
-
-<canvas class='sandbox fit' data-fragment-url='shaders/datastream-texture.frag' data-textures='shaders/data.png' width='1000px' height='600px' ></canvas>
-
-Temperature and Wind Data
-
-Note:
-This is that image I show before but displayed with a shader... is very random.
-
---
-
-![](imgs/10PRINT.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160513181250&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
-
-GLSL 10 Print
-
-Note:
-And looks like this. What if instead of using this pseudo random I use the weather data?
-
---
-
-```glsl
-float pseudo_random1D = fract(sin(time) * 43758.5453123);
-
-float pseudo_random2D = fract(sin(dot(pos.xy, vec2(12.9898,78.233)))*43758.5453123);
-
-```
-
---
-
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
-
-Note:
-This is a maze constructed with wind speed, direction and temperature 
-
---
-
-![](imgs/morellet.jpg)
-
-*Random Distribution of 40,000 Squares Using the Odd and Even Numbers of a Telephone Directory* 
-
-**François Morellet** (1960)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/iching.frag' data-textures='shaders/data.png' width='1000px' height='500px' ></canvas> 
-
-I ching
-
-Note:
-Book of transformations.
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/iching-texture.frag' data-textures='shaders/data.png' width='500px' height='500px' ></canvas> 
-
-Wind I Ching 
-
-Note:
-This is my Iching shader that doesn't use a pseudo random... but real wind data.
-
-So next time the wind changes
-
----
-
-<!-- .slide: data-background="#161616" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe>
-
-Note:
-and clouds comes to a city.
-not necesary mean bad news. 
-
----
-
-![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
-
-Note:
-We can choosose see the bigger picture... the texture we are part of.
-Not just the cause and consecuence.
-
---
-
-MAP of all the things display before
-
-Note:
-Imagine the adventures that could come.
-Together with the end 
-
---
-
-![](imgs/puyehue-02.jpg)
-
-Note:
-and begining of things. 
+Now I'm also using it to learn about color theory, and abstract movemntes
 
 ---
 
