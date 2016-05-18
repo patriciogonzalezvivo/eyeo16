@@ -1,0 +1,178 @@
+# @patriciogv - 2016
+
+import:
+    - https://tangrams.github.io/blocks/functions/map.yaml
+    - https://tangrams.github.io/blocks/geometry/tilt.yaml
+    - https://tangrams.github.io/blocks/geometry/terrarium.yaml
+    - https://tangrams.github.io/blocks/patterns/grid.yaml
+    - https://tangrams.github.io/blocks/filter/height.yaml
+    
+sources:
+    osm: 
+        type: TopoJSON
+        url: //vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson
+        rasters: [normals, terrarium-raster]
+    normals:
+        type: Raster
+        # url: https://terrain-preview.mapzen.com/normal/{z}/{x}/{y}.png
+        url: https://s3.amazonaws.com/elevation-tiles-prod/normal/{z}/{x}/{y}.png
+        max_zoom: 14
+    terrarium-geom:
+        type: GeoJSON
+        url: http://52.70.150.13/data/B/{z}-{x}-{y}.json
+        max_zoom: 18
+        rasters: [normals, terrarium-raster]
+    terrarium-raster:
+        type: Raster
+        url: http://52.70.150.13/data/B/{z}-{x}-{y}.png
+        max_zoom: 18
+    water:
+        type: GeoJSON
+        url: http://52.70.150.13/data/water.json
+
+cameras:
+    default:
+        type: perspective
+
+scene:
+    background: 
+        color: white
+
+lights:
+    light:
+        type: directional
+        direction: [0.644,-0.552,-0.531]
+        diffuse: [1.000, 1.000, 1.000]
+        ambient: [0.625, 0.625, 0.625]
+
+layers:
+    terrain:
+        data: { source: terrarium-geom }
+        filter: { $zoom: { min: 12 } }
+        draw:
+            terrarium_trn:
+                order: 0
+                color: white
+    sealevel:
+        data: { source: water }
+        filter: { kind: water, $zoom: { min: 12 } }
+        draw:
+            water:
+                order: 0
+                color: [0.115, 0.115, 0.115]
+    water:
+        data: { source: osm, layer: water }
+        # filter: { $zoom: { max: 12 } }
+        draw:
+            # fix_water:
+            #     order: 0
+            #     color: [0.1,0.1,0.1]
+        continental_water:
+            filter: { kind: [water, basin, reservoir, lake, canal, dam, ditch, drain, river, stream]}
+            draw:
+                terrarium_lns:
+                    order: 0
+                    color: [0.1,0.1,0.1]
+                    width: 1px
+    earth:
+        data: { source: osm }
+        flat:
+            filter: { $zoom: { max: 12 } }
+            draw:
+                normals:
+                    order: 0
+                    color: white
+    roads:
+        data: { source: osm}
+        filter: { not: { kind: [rail, ferry] } }
+        flat:
+            filter: { $zoom: { max: 12 } }
+            draw:
+                lines:
+                    order: 0
+                    color: gray
+                    width: [[7,0.0px], [10, .5px], [15, .75px]]
+        elevated:
+            filter: { $zoom: { min: 12 } }
+            draw:
+                roads:
+                    order: 0
+                    color: gray
+                    width: [[15, .75px], [17, 5m]]
+    buildings:
+        data: { source: osm }
+        flat:
+            filter: { $zoom: { max: 12 } }
+            draw:
+                polygons:
+                    order: 0
+                    color: white
+        elevated:
+            filter: { $zoom: { min: 12 } }
+            draw:
+                buildings:
+                    order: 0
+                    color: white
+                    extrude: true
+styles:
+    filter-height:
+        shaders:
+            blocks:
+                color: |
+                    color.rgb *= min((worldPosition().z*.0001 + .8), 1.);
+    geometry-tilt:
+        shaders:
+            defines:
+                TILT_IN: 10.
+                TILT_OUT: 16.
+    normals:
+        base: polygons
+        raster: normal
+    ##################################################################  TERRARIUM STYLES
+    terrarium_base:
+        mix: [geometry-terrarium, geometry-tilt]
+    terrarium_trn:
+        base: polygons
+        mix: [terrarium_base, filter-height]
+        shaders:
+            blocks:
+                normal: |
+                    normal = (sampleRaster(0).rgb-.5)*2.;
+                    
+    terrarium_lns:
+        base: lines
+        mix: terrarium_base
+        lighting: false
+        shaders:
+            defines:
+                ZOFFSET: .2
+    ##################################################################  REGULAR STYLES
+    fix_water:
+        base: polygons
+        mix: [geometry-tilt, patterns-grid]
+        shaders:
+            defines:
+                ZOFFSET: 1.
+            blocks:
+                color: |
+                    color.rgb += vec3(.2)*tileGrid();
+    water:
+        base: polygons
+        animated: true
+        mix: [geometry-tilt, patterns-grid]
+        blend: multiply
+        shaders:
+            defines:
+                ZOFFSET: 1.
+            blocks:
+                position: |
+                    position.z += ZOFFSET*(20.+abs(cos(PI*u_time*0.1)*400.));
+                color: |
+                    color.rgb += vec3(.2)*tileGrid();
+    roads:
+        base: lines
+        mix: terrarium_base
+    buildings:
+        base: polygons
+        mix: [terrarium_base, filter-height]
+        

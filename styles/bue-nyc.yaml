@@ -19,7 +19,7 @@ layers:
         draw:
             flight:
                 color: [1.,1.,0.]
-                width: [ [0, 2px], [20, 200]]
+                width: [ [0, 4px], [20, 200]]
                 order: 1000
     places:
         data: { source: places }
@@ -43,10 +43,6 @@ styles:
         animated: true
         mix: [lines-dash, geometry-projections]
         shaders:
-            # defines:
-            #     CHEVRON_SIZE: 1
-            #     CHEVRON_SCALE: .25
-            #     CHEVRON_ALPHA: 0.0
             blocks:
                 filter: |
                     vec2 pos = u_map_position.xy+v_position.xy;

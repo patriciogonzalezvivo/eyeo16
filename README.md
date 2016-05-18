@@ -87,7 +87,7 @@ For him the personal psique emerge from this collective sea
 
 --
 
-[3D TERRAIN MAP WITH SEA LEVEL RETRACTING]
+<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://localhost:8000/tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 --
 
@@ -128,13 +128,7 @@ So I was there looking to all this hybrid artist using code as a language.
 I was intrigue  about what the uses of this as an expressive language. What could be said with technology that could be said in another way.
 
 I send emails to all the artist could found. 
-
---
-
-[MAP OF THE WORLD???]
-
-Note:
-I only reply
+Only one reply
 
 --
 
@@ -193,11 +187,6 @@ and after 50 years of lying dormant a volcano at the south of Chille call Puyehu
 ![](imgs/puyehue-02.jpg)
 
 JUN 2011
-
---
-
-<!-- .slide: data-background="#000000" -->
-[3D Map of puyeye?]
 
 --
 
@@ -289,6 +278,7 @@ thanks to that I meet Zack Liberman...
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20120103.jpg)
 
 Note: he was the one that suggest applying to the master in design and technology at parsons... which I did... 
@@ -328,6 +318,8 @@ I meet Jen in this coorner on Green point.
 Note:
 She also just arrive to NYC move by her own series of random events.
 
+Something funny is that two weeks after we meet. She was speaking that year here at EYEO. And I got a last minute ticket.
+
 --
 
 <!-- .slide: data-background="#000000" -->
@@ -336,7 +328,7 @@ She also just arrive to NYC move by her own series of random events.
 ![](imgs/20130617.jpg) <!-- {_class="fragment"} -->
 
 Note:
-She was speaking that year. So suddently eyeo become like a honey moon vacations.
+So suddently eyeo become like a honey moon vacations.
 In my memory Miniapolis is more romantic that Paris and veneces... together.
 Is the american city of love.
 
@@ -348,7 +340,6 @@ Is the american city of love.
 
 ---
 
-<!-- .slide: data-background="#000000" -->
 MAR 2014
 
 Note:
@@ -648,7 +639,7 @@ OpenFrame have been a great way to start working on frames again. I'm enjoying t
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160517200804&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160518184241&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 Shader is a coding language... a series of direction, but from the point of view of a single pixel.

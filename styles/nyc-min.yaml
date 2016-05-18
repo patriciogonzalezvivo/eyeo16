@@ -16,8 +16,14 @@ sources:
         type: GeoJSON
         url: ../data/trip.json
 
-
 layers:
+    trip:
+        data: { source: trip }
+        draw:
+            lines-dash:
+                color: [1.,1.,0.]
+                width: [ [0, 4px], [20, 200]]
+                order: 1000
     places:
         data: { source: places }
         draw:
@@ -40,10 +46,10 @@ layers:
                 color: [1.,1.,0.]
                 width: [ [0, 4px], [20, 200]]
                 order: 1000
-    trip:
-        data: { source: trip }
+    eyeo:
+        data: { source: places }
         draw:
-            trip:
+            lines-dash:
                 color: [1.,1.,0.]
                 width: [ [0, 4px], [20, 200]]
                 order: 1000
@@ -68,4 +74,4 @@ styles:
                     vec2 pos = u_map_position.xy+v_position.xy;
                     vec2 latlon = vec2(y2lat_m(pos.y),x2lon_m(pos.x)); // 90/180
                     vec2 uv = (latlon.yx/vec2(180.,90.)+1.)*.5;
-                    color.a *= 1.-step(fract(0.145+u_time*0.01),uv.x);
+                    //color.a *= step(uv.x,fract(u_time));
