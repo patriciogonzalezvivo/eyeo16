@@ -624,7 +624,7 @@ They had translate the book of shaders to Japanise, Korean, Spanish and French. 
 
 **[o]** openFrame.io 
 
-by Isach Bertran (@ishacbertran) & Jon Whol (@jonwohl)
+*by Isach Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
 
 Note:
 Another project I got to collaborate totaly by chance is openFrame
@@ -639,7 +639,7 @@ OpenFrame have been a great way to start working on frames again. I'm enjoying t
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160518184241&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160518193958&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 Shader is a coding language... a series of direction, but from the point of view of a single pixel.
