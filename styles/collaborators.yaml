@@ -33,14 +33,7 @@ scene:
 
 cameras:
     perspective:
-        type: perspective
-        
-lights:
-    dir:
-        type: directional
-        direction: [0.489,0.786,-0.379]
-        diffuse: .9
-        ambient: .5
+        type: flat
         
 layers:
     water:
@@ -64,7 +57,7 @@ layers:
         draw:
             landuse:
                 order: global.order
-                color: white
+                color: [0.710, 0.835, 0.704]
     roads:
         data: { source: osm }
         filter: { not: { kind: [rail, ferry] } }
@@ -79,10 +72,12 @@ layers:
                 roads:
                     order: global.order
                     width: [[8,0px], [8,.25px], [11, 1.5px], [14, 2px], [16, 4px], [17, 10m]]
+                    color: [0.631, 0.812, 0.880]
             link:
                 filter: { is_link: yes } # on- and off-ramps, etc
                 draw:
                     roads:
+                        color: [0.822, 0.904, 0.995]
                         width: [[8,0px], [14, 3px], [16, 5px], [18, 10m]]
                 tunnel-link:
                     filter: {is_tunnel: yes, $zoom: {min: 13} }
@@ -90,6 +85,7 @@ layers:
             filter: {is_tunnel: yes }
             draw:
                 roads:
+                    color: [0.271, 0.321, 0.435]
                     order: global.order
     boundaries:
         data: { source: osm }
@@ -102,18 +98,25 @@ layers:
     collaborators:
         data: { source: collab }
         draw:
-            points-shape:
-                color: black
-                size: 30px
+            avatars:
+                size: [[0,30px], [6,100px], [10,130px]]
                 collide: false
-            text:
-                offset: [0, -40px]
-                font:
-                    transform: uppercase
-                    typeface: Helvetica
-                    fill: black
-                    size: 15px
-                    stroke: { color: white, width: 6 }
+                color: |
+                    function() {
+                        return [ feature.col/255 , feature.row/255, 0 ]; 
+                    }
+        label:
+            filter: { $zoom: { min: 6 } }
+            draw:
+                text:
+                    collide: false
+                    offset: [0, -100px]
+                    font:
+                        transform: uppercase
+                        typeface: Helvetica
+                        fill: black
+                        size: 12px
+                        stroke: { color: white, width: 6 }
 
 styles:
     water:
@@ -124,7 +127,6 @@ styles:
             blocks:
                 color: |
                     color.rgb -= tileGrid()*.2;
-    
     earth:
         base: polygons
         raster: custom
@@ -135,9 +137,7 @@ styles:
                     vec4 raster = sampleRaster(0);
                     normal = (raster.rgb-.5)*2.;
                 color: |
-                    color.rgb = vec3(.5+(1.-raster.a)*.5);
-
-        
+                    color.rgb = vec3(.5+(1.-raster.a)*.5);        
     landuse:
         base: polygons
         mix: [elevation-stripes]
@@ -150,14 +150,57 @@ styles:
             defines:
                 DASH_SIZE: .5
                 DASH_SCALE: .3
-    points-cross:
+    avatars:
+        base: points
+        mix: [functions-aastep]
+        texcoords: true
+        animated: true
         shaders:
             defines:
-                CROSS_ALPHA: .75
-    points-shape:
-        shaders:
-            defines:
-                SHAPE_SIDES: 3
-                SHAPE_SIZE: 1.
-                BORDER_WIDTH: 0.15
+                COLS: 8
+                ROWS: 5
+                TWO_PI: 6.2831853071795864769252867665590
+            uniforms:
+                u_sprite: collab
+            blocks:
+                global: |
+                    vec2 getOffset (vec3 color) {
+                        vec2 st = v_texcoord.xy;
+                        vec2 uv = 1./vec2(COLS,ROWS);
+                        uv.x *= color.r*255.;
+                        uv.y *= ROWS-(color.g*255.)-1.;
+                        return uv + st/vec2(COLS,ROWS);
+                    }
+                    
+                    float random (vec3 p) { return fract(sin(dot(p.xyz, vec3(70.9898,78.233,32.4355)))* 43758.5453123); }
+
+                color: |
+                    vec2 st = v_texcoord.xy;
+                    
+                    vec2 offset = 1./vec2(COLS,ROWS);
+                    offset.x *= color.r*255.;
+                    offset.y *= ROWS-(color.g*255.)-1.;
+                    
+                    vec2 i_pos = floor(offset*vec2(COLS,ROWS));
+                    vec2 f_pos = fract(offset+st/vec2(COLS,ROWS));
+                    
+                    float t = u_time*0.5;
+                    float pct = mix(random(vec3(i_pos, floor(t))), 
+                                    random(vec3(i_pos, floor(t+1.))),
+                                    smoothstep(0., 1., fract(t)));
+                                    
+                    pct += clamp((u_map_position.z-6.)/20.,0.,1.);
+                      
+                    color = texture2D(u_sprite, f_pos);
+                    color.a = step(0.5, abs(pct));
+                    
+                    st -= .5;
+                    float df = dot(st,st);
+                    color.a *= 1.-aastep(0.248,df);
+                    color.rgb += aastep(0.224,df);
+                    
+                    
+                    
+                    
+                    
 
