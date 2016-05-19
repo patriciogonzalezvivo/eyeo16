@@ -52,16 +52,12 @@ So while everybody in school was into this guy:
 
 --
 
+<!-- .slide: data-background="#000000" -->
 ![](imgs/Sigmund_Freud_LIFE.jpg)
+![](imgs/carl_gustav_jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
 was a fan of this other guy.
-
---
-
-![](imgs/carl_gustav_jung.jpg )
-
-Note:
 … his archenemy, Carl Gustave Jung.
 
 (he actually looks like my grand father)
@@ -91,10 +87,11 @@ For him the personal psique emerge from this collective sea
 
 --
 
-![](imgs/jungsmodelofself.jpg)
+![](imgs/self.png)
 
 Note:
-I was in love with this ideas, to the point that I did a post degree in Jung and the use of art as a way to pull content from this deep ocean. To amplify meaning thought the use of different expressive languages.
+I like this diagram of the self, because is in the shape of a mandala... this usually sacred circular forms that speaks about something as a hole.
+So.. the escense of art therapy is to use and amplify this arquetipical ideas emergin from the deepness of the collective unconsius with mythology, rituals and expressive languages.
 
 --
 
@@ -103,7 +100,9 @@ I was in love with this ideas, to the point that I did a post degree in Jung and
 ![](imgs/00023.jpg)
 
 Note:
-Is funny because each different language have the ability to think and said things in different ways. 
+I'm not gona lie, there were a LOT of mandalas.
+But also dancing, singing, etc. 
+Each different language have the ability to think and said things in different ways. 
 
 --
 
@@ -124,9 +123,11 @@ Painting is more like a sedimental process... you bring something and you put it
 ![](imgs/openprocessing.png)
 
 Note:
-So I was there looking to all this hybrid artist using code as a language. 
-I was intrigue  about what the uses of this as an expressive language. What could be said with technology that could be said in another way.
+So I was there looking to all this hybrid artist using code as a language, wondering about code as an expressive language.
+About wich unique posibilities this language unlocks for us. 
+Also I'm a huge nerd and fun of computers since I use Logo Writer in schools... My first linux distribution was Redhat 5.1
 
+Any way I was in nerd heaven.
 I send emails to all the artist could found. 
 Only one reply
 
@@ -150,22 +151,28 @@ And again... I did.
 Note:
 Here we are in interactivos 2010. I made long lasting friends there, like Tomas Rawski.
 
-Most beautiful things are un expected
+Some of the most fantastic things are un expected. And I feel this new community I tapped into was one of them.
 
-Jung have a interesting concept call **synchronicity**
-On his work he notice that In his diaries, what later become the red book….
+Jung have a interesting concept call **synchronicity**.
+On his work he notice that In his diaries, what later he also ilustrate and become the red book.
 
 ---
-
-![](imgs/redbook.jpg)
-
---
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/redbook-00.jpg)
 
 Note:
-… he wrote a series of apocalyptic dreams he had. He was concern of his own mental health. But then he start hearing similar dreams by some of his patients.  He was conflicted with the fact that maybe he was some how influencing them.
+… he wrote a series recurring apocalyptic dreams he was having. 
+Those dreams scare him to the point that he was concern of his own mental health. 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/redbook-03.jpg)
+
+Note:
+Then he start hearing similar dreams by some of his patients.
+He was conflicted with the fact that maybe he was some how influencing them.
 
 --
 
@@ -173,9 +180,11 @@ Note:
 ![](imgs/redbook-01.jpg)
 
 Note:
-When the first world war start was clear for him that actually everybody was have been feeling something coming... In the same way animals feels natural disasters before they happen... There was something in there air that was pict subconsciously by him and his patient..
+When the first world war start, it was clear for him that actually everybody was have been feeling something coming... 
+In the same way animals feels natural disasters before they happen... 
+There was something in there air that was pict subconsciously by him and his patient..
 
-Because this events didn't directly respond to a cause and effect relation. He call them acausal events. And he thought they could be explain because  of the collective incouncius
+Because this events didn't directly respond to a cause and effect relation. He call them acausal events. And he thought they could be explain because of the collective incouncius
 
 In June 2011  (five years ago)...
 without any notice....
@@ -259,7 +268,7 @@ There is something that give us pleasure of having the illusion of controlling c
 <!-- .slide: data-background="#000000" -->
 <iframe src="https://player.vimeo.com/video/30684308?loop=1&title=0&byline=0&portrait=0" width="640" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/29896245?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p> + </p>
+
 <iframe src="https://player.vimeo.com/video/29894099?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/29887776?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -401,12 +410,9 @@ And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can on
 <!-- .slide: data-background="#000000" -->
 ![](imgs/13387695845_e27904aee8_o.png)
 
---
-
 <!-- .slide: data-background="#000000" -->
 <!-- <iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe> -->
-<iframe src="https://player.vimeo.com/video/89982874" width="1280" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<!-- <iframe src="https://player.vimeo.com/video/89982874" width="1280" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 --
 
@@ -424,7 +430,8 @@ until start making sense for me.
 
 --
 
-![](imgs/14110527105_2c1eb240a4_o.png)
+<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
+
 
 Note:
 in lot of things it was like the begining of photography.
@@ -438,8 +445,7 @@ I put my camera some where... and then set a robot to retrive this points of inf
 
 --
 
-<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
-
+![](imgs/14110527105_2c1eb240a4_o.png)
 
 Note:
 I had to wait this digital landscapes reviel. develop over time.
@@ -560,7 +566,7 @@ we make tools for others to be creative. Like Weili Shi.
 
 ---
 
-![](imgs/shiffman.jpg)
+![](imgs/shiffman.png)
 
 Note:
 I start coding with this book of Daniel Shiffman.
@@ -571,7 +577,7 @@ This book so empowering to me. Was **gateway** to a lot of posibilities
 ![](imgs/book.png)
 
 Note:
-that's why, as a side and long term project, I start writing a book to help others to start with shaders.
+That's why, as a side and long term project, I start writing a book to help others to start with shaders.
 Back in the days of Efecto Mariposa, was very hard to start learning what was consider this dark art of GLSL Shaders.
 
 --
@@ -579,45 +585,59 @@ Back in the days of Efecto Mariposa, was very hard to start learning what was co
 ![](imgs/TBoS-00.png)
 
 Note:
-Together with the writing cames ideas to make it more didactic
+Where do you start teaching such a low level language like Shaders?
+Who a hello world look like in an enviroment designed only to draw pixels?
+
 
 --
 
 ![](imgs/TBoS-01.png)
 
 Note:
-For example this embebed code editor you see here
+Or more generaly. What's the best way to learn a language?
+
+So together with the writing, come ideas to make it more didactic. 
+Designing little helpers, that reduce the distance between the reading and the coding.
 
 --
 
 <iframe class='fit' width='100%' height='1000px' data-src='http://thebookofshaders.com/05'></iframe>
 
 Note:
-or this other GLSL graph plotter 
+For me live coding experience was non-negotiable. If the reader was to setup or compile something to try a concept, I lost him.
+So I made this embebed code editor.
 
-This openSource project also open new chances of working with others from different parts of the world
-This is a map of all the people that had collaborate so far.
+I add some widgets to it, that make more tangable tweaking.
+
+Or this other GLSL graph plotter... to visualize one dimentional operations.
+
+This openSource project also open new chances of working with others.
 
 --
 
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
-I want to thanks specially to the translators
+This are some of the people that have join this project collaborating donating time and effort helping others to learn.
+
+I just so thanks full to them.
+They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
 
 --
 
-- **Kenichi** Yoneda (@kyindinfo)
-- **Sawako** (@sawakohome)
-- **Tong** Li 
-- **Yi** Zhang 
-- **Jae** Hyun Yoo 
-- **Nicolas** Barradeau (@nicoptere)
-- **Karim** Naaji (@karimnaaji)
-- **Nahuel** Coppero (@necsoft) 
+![](imgs/lygia.jpg)
 
-Note:
-They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
+Lygia Clark
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/lygia-00.jpg)
+![](imgs/lygia-01.jpg)
+
+![](imgs/lygia-02.jpg)
+![](imgs/lygia-03.jpg)
+
 
 ---
 
@@ -633,34 +653,27 @@ I help Ishac and Jon to run shaders on the RaspberryPi through a program I made 
 
 --
 
-![](imgs/20160517_214539.jpg)
-
-Note:
-And from some old screen monitor I found in my basement and a raspberryPi. 
-
---
-
+<!-- .slide: data-background="#000000" -->
 ![](imgs/20160517_214941.jpg)
 
 Note:
+And from some old screen monitor I found in my basement and a raspberryPi. 
 I got to setup this frame... that I can push content easily from the web
 
 --
 
-<iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
-
-Note:
-Here is the frame on our livingroom.
-
---
+<!-- .slide: data-background="#000000" -->
+<!-- <iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script> -->
 
 <iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
+Here is the frame on our livingroom.
 The fact of seen your work everyday, and constantly, have being changing the way I have been working
 
 --
 
+<!-- .slide: data-background="#000000" -->
 <iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="600" height="600" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
@@ -668,31 +681,65 @@ I feel that is re introducing a dialog with my work in daily bases, and this hav
 
 --
 
-<iframe class='fit' width='100%' height='100%' style='min-height: 1050px;' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
-
-Note:
-This shaders, are like postix on the freezer. Small ideas of something that cames up. Fractions gestures. 
-Black and white animted sketches, that letme think randombly in terms of shapes, movement, space, repetition.
-
---
-
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
-Shader is a coding language... a series of direction, but from the point of view of a single pixel.
-I really like them because of their simplicity, power and restrictions.
-They seems like a HAIKUs to me. 
-There is no library to reference... just mathematical functions. So is very minimal.
-And at the end all you do is...
+taking a moment to describe what a shader is and why I like them so much, I will say:
+
+- is a coding language... 
+    - a series of direction, but from the point of view of a single pixel.
+
+
+I like it because of their **simplicity**, **low level** and **restrictions**
+
+They seems like a HAIKUs to me.
+There is no library to reference... just mathematical functions. 
+So is very minimal.
+And at the end all you do is images.
+
+Working back a forth with the frame... is mostly like sketching ideas in postfix and then puting them in your freezer.
+
+--
+
+<iframe class='fit' width='1270px' height='760px' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
+
+Note:
+This are small ideas of something that cames up. 
+A gesture gestures, a handy ecuation, a way to animate something.
+I try to keepthem minimal and simple to show one thing I found interesting.
+
+Jung use to do something similar but for instrospection. Can you guess?
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe src="https://vine.co/v/i0HIuixHxTv/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+![](imgs/mandala-jung.jpg)
 
 Note:
-... images.
+Mandalas strickty speaking is a meditation technique practice in tibetan budism.
+
+--
+
+![](imgs/mandala-tibetan.jpg)
+
+Note:
+But this same circual constructions eco all around the world all mayor religions.
+
+--
+
+![](imgs/mandala-00.jpg)
+![](imgs/mandala-01.gif)
+![](imgs/mandala-02.jpg)
+![](imgs/mandala-03.jpg)
+![](imgs/mandala-04.jpg)
+
+---
+
+![](imgs/10PRINT.png)
+
+Note:
+is hard to talk on pseudo chance and not mentioning Casey Reas work
 
 --
 
@@ -712,7 +759,56 @@ But this is esentially the only pseudo random you will find.
 
 --
 
-For Jung, the distintion between regular chance and synchronicity is the psicological (mostly emotional) state you are. You have to be open. Sometimes that openness need to be framed with intention.
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+Note:
+So I recode the famous 10 Print.
+And I combined to this other project I made for Mapzen showing data display on tangram.
+
+--
+
+<!-- .slide: data-background="#14131A" -->
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
+
+Note:
+Behind the scenes here I'm encoding this data set into an image using the RGB channels. You can see, each line of tha image that use by each weather station in this map, by clicking on it.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
+
+Note:
+This is how the "big picture" looks like.
+In this point is looks very random, but some interesting patterns emerge.
+Specially if you divide the types of data, a feeling comes from it.
+
+So I replace the function to obtain random with something that use this texture as an imput
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
+
+Note:
+This is a maze constructed with wind speed, direction and temperature 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/flipping-coin.gif)
+
+Note:
+For Jung, the distintion between regular chance and synchronicity is the psicological (mostly emotional) state you are.
+You have to be open. 
+Sometimes that openness need to be framed with intention.
 
 ---
 

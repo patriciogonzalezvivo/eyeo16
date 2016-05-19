@@ -194,7 +194,7 @@ styles:
                     
                     vec2 i_pos = floor(offset*vec2(COLS,ROWS));
                     
-                    float t = u_time;
+                    float t = u_time*0.25;
                     float pct = mix(random(vec3(i_pos, floor(t))), 
                                     random(vec3(i_pos, floor(t+1.))),
                                     smoothstep(0., 1., fract(t)));
@@ -213,4 +213,4 @@ styles:
                     color.a *= 1.-aastep(0.192, df);
                     color = mix(color,
                                 vec4(1.),
-                                (aastep(0.216,df)-aastep(0.248,df)));
+                                (aastep(0.2,df)-aastep(0.25,df)));

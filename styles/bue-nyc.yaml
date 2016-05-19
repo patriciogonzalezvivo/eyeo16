@@ -39,7 +39,7 @@ layers:
 
 styles:
     flight:
-        # blend: alpha
+        blend: overlay
         animated: true
         mix: [lines-dash, geometry-projections]
         shaders:
