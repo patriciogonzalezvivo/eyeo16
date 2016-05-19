@@ -225,7 +225,6 @@ In it path..
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-09.jpg)
 ![](imgs/puyehue-10.jpg) <!-- {_class="fragment"} -->
-![](imgs/puyehue-12.jpg) <!-- {_class="fragment"} -->
 ![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
 Note:
@@ -405,7 +404,9 @@ And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can on
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe>
+<!-- <iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe> -->
+<iframe src="https://player.vimeo.com/video/89982874" width="1280" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 --
 
@@ -676,7 +677,7 @@ Black and white animted sketches, that letme think randombly in terms of shapes,
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160518193958&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 Shader is a coding language... a series of direction, but from the point of view of a single pixel.
@@ -687,6 +688,7 @@ And at the end all you do is...
 
 --
 
+<!-- .slide: data-background="#000000" -->
 <iframe src="https://vine.co/v/i0HIuixHxTv/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
