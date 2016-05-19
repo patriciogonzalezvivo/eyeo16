@@ -618,23 +618,60 @@ I want to thanks specially to the translators
 Note:
 They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
 
---
+---
 
 ![](imgs/openframe.jpg)
 
 **[o]** openFrame.io 
 
-*by Isach Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
+*by Ishac Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
 
 Note:
-Another project I got to collaborate totaly by chance is openFrame
+Another project I got to collaborate totaly by chance is openFrame.
+I help Ishac and Jon to run shaders on the RaspberryPi through a program I made call glslViewer
+
+--
+
+![](imgs/20160517_214539.jpg)
+
+Note:
+And from some old screen monitor I found in my basement and a raspberryPi. 
+
+--
+
+![](imgs/20160517_214941.jpg)
+
+Note:
+I got to setup this frame... that I can push content easily from the web
+
+--
+
+<iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+Note:
+Here is the frame on our livingroom.
+
+--
+
+<iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+Note:
+The fact of seen your work everyday, and constantly, have being changing the way I have been working
+
+--
+
+<iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="600" height="600" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+Note:
+I feel that is re introducing a dialog with my work in daily bases, and this have being incerdible fructific
 
 --
 
 <iframe class='fit' width='100%' height='100%' style='min-height: 1050px;' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
 
 Note:
-OpenFrame have been a great way to start working on frames again. I'm enjoying this particular way of relating with my work in forms of shaders displayed on my work. By looking at them constantly in daily bases... I'm starting to dialog with my work.
+This shaders, are like postix on the freezer. Small ideas of something that cames up. Fractions gestures. 
+Black and white animted sketches, that letme think randombly in terms of shapes, movement, space, repetition.
 
 --
 
@@ -646,14 +683,34 @@ Shader is a coding language... a series of direction, but from the point of view
 I really like them because of their simplicity, power and restrictions.
 They seems like a HAIKUs to me. 
 There is no library to reference... just mathematical functions. So is very minimal.
-And you do is generate images.
+And at the end all you do is...
 
 --
 
-<iframe class='fit' width='1400px' height='800px' data-src='gallery.html?logs=160505191155,160505193939,160505200330,160509131554,160509131509,160509131420,160509131240,160513193817,160513201554,160513210434,160516140131,160516233753,160516235834'></iframe> 
+<iframe src="https://vine.co/v/i0HIuixHxTv/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
-Now I'm also using it to learn about color theory, and abstract movemntes
+... images.
+
+--
+
+<iframe class='fit' width='100%' height='600px' data-src='graph.html'></iframe>
+
+Note:
+On thing about the shading language is it doesn't have commands for random. So you have to make it by your own.
+
+So here we have X and Y. 
+Let's start by making a sine wave.
+Now let's only keep the fractional part of this wave. Note how the wave gets choped on the negative part.
+Let's exagerate this effect.
+You can still see the top and the botom of the wave.
+It's not perfect. You can see that is not perfectly distributed. 
+There is some bias to the center. .5
+But this is esentially the only pseudo random you will find.
+
+--
+
+For Jung, the distintion between regular chance and synchronicity is the psicological (mostly emotional) state you are. You have to be open. Sometimes that openness need to be framed with intention.
 
 ---
 
