@@ -11,7 +11,8 @@
                 "name": "Nahuel Coppero",
                 "twitter": "@necsoft",
                 "url": "http://hinecsoft.com/",
-                "translation": "es"
+                "translation": "es",
+                "col": 2, "row": 2
             }
         },
         {
@@ -24,7 +25,8 @@
                 "name": "Kenichi Yoneda",
                 "twitter": "@kyndinfo",
                 "url": "http://www.kynd.info/log/",
-                "translation": "jp"
+                "translation": "jp",
+                "col": 0, "row": 2
             }
         },
         {
@@ -36,7 +38,8 @@
             "properties": {
                 "name": "Scott Murray",
                 "twitter": "@alignedleft",
-                "url": "http://alignedleft.com"
+                "url": "http://alignedleft.com",
+                "col": 4, "row": 0
             }
         },
         {
@@ -47,7 +50,8 @@
             },
             "properties": {
                 "name": "Tong Li",
-                "translation": "ch"
+                "translation": "ch",
+                "col": 1, "row": 0
             }
         },
         {
@@ -58,7 +62,8 @@
             },
             "properties": {
                 "name": "Yi Zhang",
-                "translation": "ch"
+                "translation": "ch",
+                "col": 0, "row": 3
             }
         },
         {
@@ -71,7 +76,8 @@
                 "name": "Nicolas Barradeau",
                 "twitter": "@nicoptere",
                 "url": "http://www.barradeau.com/",
-                "translation": "fr"
+                "translation": "fr",
+                "col": 4, "row": 1
             }
         },
         {
@@ -84,7 +90,8 @@
                 "name": "Karim Naaji",
                 "twitter": "@karimnaaji",
                 "url": "http://karim.naaji.fr",
-                "translation": "fr"
+                "translation": "fr",
+                "col": 1, "row": 1
             }
         },
         {
@@ -96,7 +103,8 @@
             "properties": {
                 "name": "Adam Pearce",
                 "twitter": "@adamrpearce",
-                "url": "http://roadtolarissa.com"
+                "url": "http://roadtolarissa.com",
+                "col": 4, "row": 2
             }
         },
         {
@@ -108,7 +116,8 @@
             "properties": {
                 "name": "Jen Lowe",
                 "twitter": "@datatelling",
-                "url": "http://jenlowe.net"
+                "url": "http://jenlowe.net",
+                "col": 2, "row": 3
             }
         },
         {
@@ -120,7 +129,8 @@
             "properties": {
                 "name": "Yichuan Shen",
                 "twitter": "@yichuanshen",
-                "url": "http://yichuanshen.de/"
+                "url": "http://yichuanshen.de/",
+                "col": 2, "row": 3
             }
         },
         {
@@ -132,7 +142,8 @@
             "properties": {
                 "name": "Andreas Wilcox",
                 "twitter": "@svdvorak",
-                "url": "http://svdvorak.github.io/"
+                "url": "http://svdvorak.github.io/",
+                "col": 4, "row": 0
             }
         },
         {
@@ -144,7 +155,8 @@
             "properties": {
                 "name": "Yosuke Sakai",
                 "twitter": "@flush_11",
-                "url": "http://yosuke-sakai.com/"
+                "url": "http://yosuke-sakai.com/",
+                "col": 0, "row": 4
             }
         },
         {
@@ -157,7 +169,8 @@
                 "name": "Sawako",
                 "twitter": "@sawakohome",
                 "url": "http://troncolon.com/",
-                "translation": "jp"
+                "translation": "jp",
+                "col": 3, "row": 1
             }
         },
         {
@@ -170,7 +183,8 @@
                 "name": "Jae Hyun Yoo",
                 "twitter": "@Fkkcloud",
                 "url": "http://www.abluemarble.com",
-                "translation": "jp"
+                "translation": "jp",
+                "col": 1, "row": 2
             }
         },
         {
@@ -182,7 +196,8 @@
             "properties": {
                 "name": "Andrea Rovescalli",
                 "url": "http://earove.info/#about",
-                "translation": "it"
+                "translation": "it",
+                "col": 2, "row": 0
             }
         }
     ]
