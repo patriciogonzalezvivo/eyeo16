@@ -325,37 +325,24 @@ I meet Jen in this coorner on Green point.
 
 Note:
 She also just arrive to NYC move by her own series of random events.
-
-Something funny is that two weeks after we meet. She was speaking that year here at EYEO. And I got a last minute ticket.
-
---
-
-<!-- .slide: data-background="#000000" -->
-
-![](imgs/jen.jpg)
-![](imgs/20130617.jpg) <!-- {_class="fragment"} -->
-
-Note:
-So suddently eyeo become like a honey moon vacations.
-In my memory Miniapolis is more romantic that Paris and veneces... together.
-Is the american city of love.
+We meet... 
+we fall in love... 
+we got marry...
+we have a kid and we are inmensly open to all this new experience of been parents
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/20140610.png)
 
+Note:
+which we have absoultely no idea how to deal with :)
+
+But is not just that randoms happens. 
+I think also is about keep being open... dancing with it.
+While working on my thesis in 2014.
 
 ---
-
-MAR 2014
-
-Note:
-But is not just that randoms happens. Is about been open (and probably harder, staying open) to dance with it. 
-
-While working on my Thesis
-
---
 
 ![](imgs/Skyline02.png)
 
@@ -682,7 +669,7 @@ I feel that is re introducing a dialog with my work in daily bases, and this hav
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 taking a moment to describe what a shader is and why I like them so much, I will say:
@@ -760,7 +747,7 @@ But this is esentially the only pseudo random you will find.
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://thebookofshaders.com/edit.php?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 So I recode the famous 10 Print.
@@ -799,6 +786,18 @@ wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 Note:
 This is a maze constructed with wind speed, direction and temperature 
+Tempted with this idea of wind-random. I made a I Ching shader that feeds from it
+
+--
+
+<!-- .slide: data-background="#000000" -->
+
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519211717&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true#/shaders/data.png'></iframe>
+
+Note:
+But there is something disrispectuf with this idea. 
+a. One nobody I know... knows the 64 hexagrams, to the point they can be reading this...
+b. The context is in apropiate.
 
 --
 
@@ -806,9 +805,15 @@ This is a maze constructed with wind speed, direction and temperature
 ![](imgs/flipping-coin.gif)
 
 Note:
-For Jung, the distintion between regular chance and synchronicity is the psicological (mostly emotional) state you are.
-You have to be open. 
-Sometimes that openness need to be framed with intention.
+For Jung, the distintion between regular chance and synchronicity is the psicological state of mind.
+Requires some sort of presence or intention on looking for answers.
+
+Is not something that is not just vomit to you.
+To be trusful need to be framed in a context.
+
+--
+
+I want to show you a diferent peace
 
 ---
 

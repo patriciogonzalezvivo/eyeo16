@@ -47,8 +47,8 @@ float hex(vec2 st, float t){
     float value = random(vec2(ipos.y, floor(t)));
     value = step(.5,value);
     
-    return 1.0- mix(rect(fpos, vec2(1.,.7)),
-            		rect(fpos, vec2(1.5,.7)),
+    return 1.0- mix(rect(fpos, vec2(1.,.5)),
+            		rect(fpos, vec2(1.5,.5)),
                		value);
 }
 
@@ -58,8 +58,8 @@ void main(){
     st.x *= u_resolution.x/u_resolution.y;
     st.x -= (u_resolution.x*.5-u_resolution.y*.5)/u_resolution.y;
     
-    float t = 1.+u_time;
+    float t = 1.+u_time*0.5;
     float df = mix(hex(st,t), hex(st,t+1.), fract(t));
 
-    gl_FragColor = vec4(mix(vec3(0.),vec3(1.),step(0.7,df)),1.0);
+    gl_FragColor = vec4(mix(vec3(1.),vec3(0.),step(0.7,df)),1.0);
 }
