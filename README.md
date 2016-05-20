@@ -9,8 +9,7 @@ DEC 2009
 Note:
 In December 2009, I was working as **clinical psychologist and expressive art therapist** and starting the annoying process of **making your own website for my practice**.
 
-I was **teaching my self** flash to make my own website for my practice as an art therapist. 
-Googling around I search for this [“processing XML”] 
+I was **teaching my self** flash and googling around I search for this [“processing XML”] 
 
 --
 
@@ -88,43 +87,48 @@ The term mandalas can be use loosely to any symbolic circular forms that speaks 
 ![](imgs/mandala-01.gif)
 ![](imgs/mandala-02.jpg)
 ![](imgs/mandala-03.jpg)
-![](imgs/mandala-04.jpg)
+![](imgs/mandala-04.jpg) <!-- {_class="fragment"} -->
+![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
 Note:
 Jung's theory open the doors to new was of using mythological and symbolic content to amplify emerging archetypes.
 
 --
 
-![](imgs/00030.jpg)
+![](imgs/lygia.jpg)
+
+Lydia Clark
 
 Note:
-With it, different expressive languages like music, dance...
+Like we see on Lygia's Clark late work. 
+On the 70's there was return to non verbal expression, sensorial and group dynamic. 
 
 --
 
-![](imgs/DSC01911.jpg)
-![](imgs/DSC01913.jpg)
-![](imgs/DSC05498.jpg)
+<!-- .slide: data-background="#000000" -->
+![](imgs/lygia-00.jpg)
+![](imgs/lygia-01.jpg)
+
+![](imgs/lygia-02.jpg)
+![](imgs/lygia-03.jpg)
 
 Note:
+With it, different expressive languages like music, dance...
 sculpture and painting serve as a non verbal medium that facilitate this practice.
 
 --
 
-![](imgs/DSC01571.JPG)
-![](imgs/IMG_7313.JPG)
-![](imgs/00023.jpg)
+![](imgs/DSC05498.jpg)
 
 Note:
-I'm not gonna lie, there were a LOT of mandalas involve.
+With it, different expressive languages like music, dance...
+sculpture and painting serve as a non verbal medium that facilitate this practice.
 
 --
 
-![](imgs/IMG_1671.jpg)
-![](imgs/IMG_4900.jpg)
+![](imgs/a0431.jpg)
 
 Note:
-But also dancing, singing, etc.
 Each different language have the ability to think and said things in different ways. 
 
 --
@@ -135,21 +139,27 @@ Movement for example, it fluctuates over time... was this ability to transform t
 
 --
 
-![](imgs/IMG_4654.jpg)
+![](imgs/IMG_4796.jpg)
 
 Note:
-Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... an image slowly appears over time.
+Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... 
+
+--
+
+![](imgs/IMG_4900.jpg)
+
+Note:
+Or sculpture is about subtracting, moving and releasing until a recognizable shape appears.
 
 --
 
 ![](imgs/openprocessing.png)
 
 Note:
-So I was there looking to all this hybrid artist using code as a language, wondering about code as an expressive language.
-About wich unique posibilities this language unlocks for us. 
-Also I'm a huge nerd and fun of computers since I use Logo Writer in schools... My first linux distribution was Redhat 5.1
+So... back to processing. I was there looking to all this hybrid artist using code as a language. Seen for the first time code and computers as an expressive language.
+What unique possibilities this language unlocks for us?
 
-Any way I was in nerd heaven.
+Any felt I arrive to my own nerd heaven.
 I send emails to all the artist could found. 
 Only one reply
 
@@ -168,15 +178,15 @@ And again... I did.
 
 ![](imgs/20110217.jpg)
 
-*Fundacion Telefonica* - **INTERACTIVOS** 2010
+*Fundacion Telefonica* - **INTERACTIVOS** (2010)
 
 Note:
-Here we are in interactivos 2010. I made long lasting friends there, like Tomas Rawski.
+Here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin ... and Javier .... 
 
-Some of the most fantastic things are un expected. And I feel this new community I tapped into was one of them.
+Was particularly great because was unexpected.
 
 Jung have a interesting concept call **synchronicity**.
-On his work he notice that In his diaries, what later he also ilustrate and become the red book.
+On his work he notice that In his diaries, what later he also illustrate and become the red book.
 
 ---
 
@@ -203,14 +213,13 @@ He was conflicted with the fact that maybe he was some how influencing them.
 
 Note:
 When the first world war start, it was clear for him that actually everybody was have been feeling something coming... 
-In the same way animals feels natural disasters before they happen... 
-There was something in there air that was pict subconsciously by him and his patient..
+In the same way animals feels natural disasters before they happen...  There was something in there air that was pict subconsciously by him and his patient..
 
-Because this events didn't directly respond to a cause and effect relation. He call them acausal events. And he thought they could be explain because of the collective incouncius
+Because this events didn't directly respond to a cause and effect relation. He call them a-causal events. And he thought they could be explain because of the collective unconscious
 
 In June 2011  (five years ago)...
 without any notice....
-and after 50 years of lying dormant a volcano at the south of Chille call Puyehue made eruption.
+and after 50 years of lying dormant a volcano at the south of Chile call Puyehue made eruption.
 
 --
 
@@ -259,13 +268,10 @@ In it path..
 ![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
 Note:
-the ashes bring destruction.
-- all flights cancel across the southern half of the continent
-- Nilahue River went up to 113° and killed around 4.5 million fishes
-- heart attacks and got throat cancer on the livestock
-- fluoride intoxication in sheep, cattle and horses
-- bring five years of drought on Chubut and Rio Negro
-This incredible force of nature brings a lot of destructions on it's way
+the ashes bring 
+- destruction.
+- everything between dead animals to 
+- days and days of flights cancel across the southern half of the continent.
 
 --
 
@@ -273,17 +279,21 @@ This incredible force of nature brings a lot of destructions on it's way
 <iframe src="https://player.vimeo.com/video/31940579" class='fit' width='100%' height='1000px' frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-During the volcano I was working on a project that use kinect camera to do a projection mapping of a ecosystem simulation over a sandbox. My goal was to invite user to interact with it, and by that bring destruction that will take some time to heal and go back to homeostasis. The scale of the volcano eruption had a great influence in this peace. I replace the sand by volcanic ashes, and work hard on it to make the algorithms as complex and realistic as I could. For that I had to learn shaders. It wasn't easy, but at the end was very satisfying to see that the people interacting with it. I like to think that something of what we experience that year could be re experienced in this particular way. In order to think it in a different and healing way.
+Before the volcano arrive, I was working on a project that consist projecting on top of sandbox a simulation of an ecosystem from the surface of the sandbox with kinect.
+
+I was inviting the user to interact with it, and by doing that the user bring destruction. Then he have to wait, It takes time to the life on the simulation to go back to homeostasis. 
+
+Although we weren't responsable for the eruption of the volcano, I use the ashes. For me was a symbol of how little we know. How much less power, or control we have. Specially at big scale.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/efectomariposa.png)
 
-**Efecto Mariposa** (Butterfly effect)
+NOV 2011 - **Efecto Mariposa**
 
 Note:
-There is something that give us pleasure of having the illusion of controlling chaos and chance. Even when we see that the repercussions of our interactions scape our perception of understanding... we find confort in the illusion of control.
+I had the chance to show installation several times. So I get to see a lot of people interacting with it. There is some considerable amount of pleasure on the illusion of control.
 
 --
 
@@ -295,31 +305,33 @@ There is something that give us pleasure of having the illusion of controlling c
 <iframe src="https://player.vimeo.com/video/29887776?loop=1&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-Efecto Mariposa was made using openFrameworks.
-After this work was expose I start thinking on how to give back. On what could be the best way to open source this work. As a tool. 
-Open Source it into an OF addon: ofFX
+Although Efecto Mariposa is made in openFrameworks, all the computation power comes from the GPU using shaders. A shader or two for each one of the sphere I was simulating. The process of learning shaders was hard, because of the lack of documentation about it. I decide to give something back to the OF community by breaking this shaders into modules of an addon, then with I called `ofFX`.
 
 --
 
 ![](imgs/20111210.png)
 
 Note:
-thanks to that I meet Zack Liberman...
+Life is strange, because was thanks to that add-on that Zack Liberman trying to use... we meet and get to talk.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/20120103.jpg)
 
-Note: he was the one that suggest applying to the master in design and technology at parsons... which I did... 
+Note:
+After telling him how much I was wanting to leave the clinical psychology and do more digital work that he suggest applying to the MFA in design and technology at parsons... which I did... 
 
 --
 
 <!-- .slide: data-background="#161616" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
+2012
+
 Note:
-and I got to come to NYC.
+and later, allows me to come to NYC.
+NYC is not a friendly city to arrive, without a job. Thankfully thanks the help of some friends like Natxo Pedreira, I survive that winter.
 
 --
 
@@ -327,10 +339,10 @@ and I got to come to NYC.
 <img src='imgs/clouds-00.gif' style='max-width: 40%;'> <img src='imgs/clouds-04.gif' style='max-width: 40%;'> 
 <img src='imgs/clouds-03.gif' style='max-width: 40%;'> <img src='imgs/clouds-02.gif' style='max-width: 40%;'> 
 
-Visual Systems for CLOUDS Documentary
+2013 - Visual Systems for CLOUDS Documentary
 
 Note:
-While I was working on the visual system on CLOUDS w James and Jonathan...
+Other unexpected things happened... James and Jonathan invite me to collaborate in CLOUDS doing some visual systems... and during we were doing interviews I meet Jen.
 
 --
 
@@ -338,7 +350,7 @@ While I was working on the visual system on CLOUDS w James and Jonathan...
 <iframe class='fit' src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1463075256574!6m8!1m7!1sp1dCLliwGRUAAAQZDaBD0w!2m2!1d40.72371832370289!2d-73.95171632224185!3f44.320821265143294!4f-15.56789776591117!5f0.7820865974627469" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Note:
-I meet Jen in this coorner on Green point.
+We randomly went for coffee in this corner, like most people do here in New York.
 
 --
 
@@ -346,33 +358,28 @@ I meet Jen in this coorner on Green point.
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=sfc-nyc#5.47188/39.742/-99.548'></iframe>
 
 Note:
-She also just arrive to NYC move by her own series of random events.
-We meet... 
-we fall in love... 
-we got marry...
-we have a kid and we are inmensly open to all this new experience of been parents
+She also was barely new to NYC. She was also open to chance... falling a path that brings her all the way from the other coast.
+We fall in love. We move together. We got married and now we have a kid.
 
 --
 
-<!-- .slide: data-background="#000000" -->
-![](imgs/20140610.png)
+![](imgs/20150405.jpg)
+
+APR 2015
 
 Note:
-which we have absoultely no idea how to deal with :)
-
-But is not just that randoms happens. 
-I think also is about keep being open... dancing with it.
-While working on my thesis in 2014.
+I consider my self immensely lucky to have such a great partner to dance against uncertainty.
 
 ---
 
 ![](imgs/Skyline02.png)
 
-[**Skyline II**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=02)
+MAY 2014 - [**Skyline II**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=02)
 
 Note:
-I was working on a series of projects is about awareness and the tools we use to see the world around us.
-This is a machine that prints the large-scale transitions of the horizon on a path from the city to the mountains. 
+In 2014, for thesis...
+I was working on a series of **projects is about awareness and the tools we use to see the world around us**.
+This is a machine in particularly prints a large-scale horizon showing the transition between the city and the mountains.
 
 --
 
@@ -380,8 +387,7 @@ This is a machine that prints the large-scale transitions of the horizon on a pa
 ![](imgs/13134041954_3a8794f2af_o.png)
 
 Note:
-For this project I was scrapping google street view data to construct this continues horizon.
-You can see how using google's routing service I choose a path, to then make different request to the GoogleStreetView API
+To construct this continues horizon I was scrapping google street view data.
 
 --
 
@@ -389,9 +395,7 @@ You can see how using google's routing service I choose a path, to then make dif
 ![](imgs/13370774844_ffa2bf2660_o.png)
 
 Note:
-I wasn't completely happy on how this look so I was trying some other things.
-I was trying to put this "bubles" togther and put a camera go from one to the other... 
-but was basically going trough this wall meshes... kind of disaster. Hulking out the virtual streets
+Finding ways to stich the panoramic images together.
 
 --
 
@@ -399,7 +403,7 @@ but was basically going trough this wall meshes... kind of disaster. Hulking out
 ![](imgs/cb-view-depth-map.png)
 
 Note:
-Then I found this... there was some low definition depth data that could be accesss throught the API
+Then I found this depth data in their API
 
 --
 
@@ -407,12 +411,15 @@ Then I found this... there was some low definition depth data that could be acce
 ![](imgs/13361944233_fa138198a1_o.png)
 
 Note:
-And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can only use the vertex points and get away with it".
+Having z allows me to add up point clouds.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/13408749583_e427ed3814_o.png)
+
+Note:
+The results were for me like inventing photography again.
 
 --
 
@@ -423,19 +430,22 @@ And now we have some Z. At this point I was: "well, I worked on CLOUDS, I can on
 <!-- <iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe> -->
 <!-- <iframe src="https://player.vimeo.com/video/89982874" width="1280" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
+Note:
+I have to choose a location, put my camera in focus, and then wait for the calls to come back with points of light colliding into virtual walls.
+
 --
 
 ![](imgs/13466577425_022da481a6_o.png)
 
 Note:
-I start pullishing
+This public spaces emerge slowly from the deepness of this private databases.
 
 --
 
 ![](imgs/13443449153_075c253e17_o.png)
 
 Note:
-until start making sense for me.
+I work with the style until I felt the result were more honest about the nature of the process.
 
 --
 
@@ -443,43 +453,50 @@ until start making sense for me.
 
 
 Note:
-in lot of things it was like the begining of photography.
+Is funny because I try to prepare some point clouds for this talk. Only to find out that the API change.
 
 --
 
 ![](imgs/13926884279_1c8e6e4dc3_o.png)
 
 Note:
-I put my camera some where... and then set a robot to retrive this points of information from googles evil servers.
+Somehow this images, becomes limited editions. 
 
 --
 
 ![](imgs/14110527105_2c1eb240a4_o.png)
 
 Note:
-I had to wait this digital landscapes reviel. develop over time.
+Postcards of an era where LIDar data was hard to get, and companies were driving cars creeping the hell out of everybody. 
 
 --
 
 ![](imgs/14134184803_462bcbfbe7_o.png)
 
 Note:
-Preparing for this talk I want to do some new point clouds... but I discovery that google change their API... so this point clouds are somehow limited editions
+Ahh... the early 10's... 
+
+I wonder how much of our decade is recreate with data the collective unconscious. 
+
+Every wiki project, every bid data, computer learning, AI thing... had this promise of making sense of a huge amount of chaotic content. Extracting small glimpse of what could be or happen.
+
+What archetype is that one? 
 
 ---
 
 ![](imgs/logo-mapzen.png)
 
 Note:
-Since AUG 2014 I had the inmense priviledge of start working for Mapzen.
+Since AUG 2014 I had the immense privilege of working for Mapzen. We do all in the open. That's an incredible privilege.
 
 --
 
 ![](imgs/mapzen-team.gif)
 
 Note:
-Mapzen was a stellar line up of truly incredible and amazing people.
-Working with this falks is a fantastic priviledge.
+Mapzen also was a stellar line up of amazing people. Is truly an honor working with this crew.
+
+Also is great they give me time to work in weird experiments. 
 
 --
 
@@ -488,7 +505,7 @@ Working with this falks is a fantastic priviledge.
 [Experiments on **3D Labels** (C++)](https://vimeo.com/107190391)
 
 Note:
-working there I have been hable to do all sort 
+from 3D labels prototypes... 
 
 --
 
@@ -497,8 +514,7 @@ working there I have been hable to do all sort
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
 
 Note:
-of exploratory projects
-
+mixing LIDar, Photogramatry and openStreetMap
 --
 
 <img src='imgs/press.png' style='width: 45%;'> <img src='imgs/patterns.png' style='width: 45%;'>
@@ -508,7 +524,7 @@ of exploratory projects
 [Tangram styles (WebGL)](patriciogonzalezvivo.github.io/tangram-sandbox/)
 
 Note:
-pushing the limits
+or by just supporting me pushing the limits
 
 --
 
@@ -521,19 +537,27 @@ pushing the limits
 *Tangram styles*
 
 Note:
-of what digital cartography can look
+of what digital maps can look like... 
+
+--
+
+<!-- .slide: data-background="#1D1D1D" -->
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
+
+Note:
+To the point they are not use full as map anymore.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
 
-*RandomCity*
+2015 - *RandomCity*
 
 [* Inspired on Ryoji Ikeda work](http://www.ryojiikeda.com/)
 
 Note:
-today
+or more abstractly
 
 --
 
@@ -546,10 +570,23 @@ today
 *Line of Sight*
 
 Note:
-[I think you can tie Mapzen in with openness + chance == interesting things; make the point that Mapzen is working in the open; share things *other* ppl have
+Even projects were I animate the prediction of 1700 satellites orbits.
 
-One of the fantastic things about my work is that completely in the open.
+--
 
+<!-- .slide: data-background="#020303" -->
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://patriciogonzalezvivo.github.io/LineOfSight/"></iframe>
+
+*LineOfSight*
+
+Note:
+Mapzen was different teams and services beside tangram and our set of vector tiles... we have open source search and routing.
+
+This usually are very expensive develops so companies keep them close. That makes what every they are making as an investment... which means close. 
+
+Thanks to the work coming from the search and routing teams, is the first time this engines are develop in the open, and regular people get to see them and study how they work.
+
+As I said is a privilege to work in mapzen, not just because I get to work with thoughtful and talented people like
 
 --
 
@@ -560,8 +597,8 @@ One of the fantastic things about my work is that completely in the open.
 
 
 Note:
-So beside working with the incrediblle 
-Geraldine Sarmiento
+Geraldine Sarmiento (which is here in Eyeo... and you should go and talk to her).
+But also because allow us to empower other people 
 
 --
 
@@ -571,7 +608,9 @@ Geraldine Sarmiento
 **Weili** Shi (@shiweili)
 
 Note:
-we make tools for others to be creative. Like Weili Shi.
+like Weili Shi. That use our stuff for his MFA thesis.
+
+Speaking about empowering.
 
 ---
 
@@ -579,46 +618,40 @@ we make tools for others to be creative. Like Weili Shi.
 
 Note:
 I start coding with this book of Daniel Shiffman.
-This book so empowering to me. Was **gateway** to a lot of posibilities
+This book was **gateway** to a lot of possibilities
 
 --
 
 ![](imgs/book.png)
 
 Note:
-That's why, as a side and long term project, I start writing a book to help others to start with shaders.
-Back in the days of Efecto Mariposa, was very hard to start learning what was consider this dark art of GLSL Shaders.
+In the spirit of it I start my own book for those that want to learn shaders... so they don't have to replicate the esoteric experience of teaching yourself shaders.
 
 --
 
 ![](imgs/TBoS-00.png)
 
 Note:
-Where do you start teaching such a low level language like Shaders?
-Who a hello world look like in an enviroment designed only to draw pixels?
-
+I call it The Book of Shaders... because of The Book of Shadows.
+In it I start dealing with questions about. Where to start? What's the best way to learn or teach code? How a shader "hello world" example should look like? What are the minimum requirements terms of equipment, conceptual and technical?
 
 --
 
 ![](imgs/TBoS-01.png)
 
 Note:
-Or more generaly. What's the best way to learn a language?
-
-So together with the writing, come ideas to make it more didactic. 
-Designing little helpers, that reduce the distance between the reading and the coding.
+So together with the writing and thinking metaphors to explain concept. I found my self developing tools around the book. An ecosystem of apps that allows student to live code... helps them understand by tweaking and changing. Also tools that help them store, share and show their work.
 
 --
 
 <iframe class='fit' width='100%' height='1000px' data-src='http://thebookofshaders.com/05'></iframe>
 
 Note:
-For me live coding experience was non-negotiable. If the reader was to setup or compile something to try a concept, I lost him.
-So I made this embebed code editor.
+The live coding editor, was crucial. Let's people have a tangible experience of what they are doing.
 
-I add some widgets to it, that make more tangable tweaking.
+Also the fact that can be embebed was very important. Reducing the distance between the reading of a concept and the trying of it in code. 
 
-Or this other GLSL graph plotter... to visualize one dimentional operations.
+The helpers to tweak and change variables was very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchable in the shader. Because shaders are basically mathematical functions. And vectors have this plasticity.
 
 This openSource project also open new chances of working with others.
 
@@ -632,11 +665,7 @@ This are some of the people that have join this project collaborating donating t
 I just so thanks full to them.
 They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
 
---
-
-![](imgs/lygia.jpg)
-
-Lygia Clark
+Also talking to them is bringing new voices, start feeling like an organic strutted.
 
 --
 
@@ -647,6 +676,10 @@ Lygia Clark
 ![](imgs/lygia-02.jpg)
 ![](imgs/lygia-03.jpg)
 
+Note:
+I love this images.
+
+Another project I somehow got weave with the book of shaders is  openFrame.
 
 ---
 
@@ -657,8 +690,7 @@ Lygia Clark
 *by Ishac Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
 
 Note:
-Another project I got to collaborate totaly by chance is openFrame.
-I help Ishac and Jon to run shaders on the RaspberryPi through a program I made call glslViewer
+Ishac and Jon are using glslViewer, a simple C++ program that runs shaders in different platforms including the console of the RaspberryPi. They are using it to run send and run shaders remotely to any of this Frames running a RaspberryPi.
 
 --
 
@@ -666,8 +698,7 @@ I help Ishac and Jon to run shaders on the RaspberryPi through a program I made 
 ![](imgs/20160517_214941.jpg)
 
 Note:
-And from some old screen monitor I found in my basement and a raspberryPi. 
-I got to setup this frame... that I can push content easily from the web
+So I found a couple of Computer Screens on my basement I hook them up with a RaspberryPi. And I got this nice frame that I can push content directly from my book's editor.
 
 --
 
@@ -675,6 +706,8 @@ I got to setup this frame... that I can push content easily from the web
 <!-- <iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script> -->
 
 <iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+[GIF of the editor sending and the frame changing]
 
 Note:
 Here is the frame on our livingroom.
@@ -686,7 +719,7 @@ The fact of seen your work everyday, and constantly, have being changing the way
 <iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="600" height="600" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
-I feel that is re introducing a dialog with my work in daily bases, and this have being incerdible fructific
+Today I feel that the language of my choose are shaders. And this helps me to have a dialog on the daily bases. Also helps me that have lot of restrictions.
 
 --
 
@@ -694,139 +727,50 @@ I feel that is re introducing a dialog with my work in daily bases, and this hav
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
-taking a moment to describe what a shader is and why I like them so much, I will say:
 
-- is a coding language... 
-    - a series of direction, but from the point of view of a single pixel.
+- RaspberryPi are slow and underpowered.
+- Shaders have a minimal API which mostly consist on mathematical operations
+- There are no 
+- There is no other output than images.
 
-
-I like it because of their **simplicity**, **low level** and **restrictions**
-
-They seems like a HAIKUs to me.
-There is no library to reference... just mathematical functions. 
-So is very minimal.
-And at the end all you do is images.
-
-Working back a forth with the frame... is mostly like sketching ideas in postfix and then puting them in your freezer.
+They are like HAIKUS... all you have to do is make images in a simple and efficient way.
 
 --
 
 <iframe class='fit' width='1270px' height='760px' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
 
 Note:
-This are small ideas of something that cames up. 
-A gesture gestures, a handy ecuation, a way to animate something.
-I try to keepthem minimal and simple to show one thing I found interesting.
+For me this restrictions helps me to keep the focus.
+- Sketching simple ideas
+- a handy equation
+- an interesting animation
 
-Jung use to do something similar but for instrospection. Can you guess?
+Jung used to do something similar but for introspection using mandalas. He use to sketch them all the time, as a way to check him self out.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/mandala-jung.jpg)
-
-Note:
-Mandalas strickty speaking is a meditation technique practice in tibetan budism.
-
---
-
 ![](imgs/mandala-tibetan.jpg)
 
 Note:
-
----
-
-![](imgs/10PRINT.png)
-
-Note:
-is hard to talk on pseudo chance and not mentioning Casey Reas work
-
---
-
-<iframe class='fit' width='100%' height='600px' data-src='graph.html'></iframe>
-
-Note:
-On thing about the shading language is it doesn't have commands for random. So you have to make it by your own.
-
-So here we have X and Y. 
-Let's start by making a sine wave.
-Now let's only keep the fractional part of this wave. Note how the wave gets choped on the negative part.
-Let's exagerate this effect.
-You can still see the top and the botom of the wave.
-It's not perfect. You can see that is not perfectly distributed. 
-There is some bias to the center. .5
-But this is esentially the only pseudo random you will find.
+Mandalas are original from the Tibet. Monks use them as a meditation. And are in essence ephemeral. They are snapshots of a moment.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+![](imgs/mandala-end.jpg)
 
 Note:
-So I recode the famous 10 Print.
-And I combined to this other project I made for Mapzen showing data display on tangram.
+Once they are done, they are erased.
 
---
+This act, makes me question my own.
+How much I am open to change?
 
-<!-- .slide: data-background="#14131A" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
+How much of what I do is move by fear of the coming unknown.
 
-Note:
-Behind the scenes here I'm encoding this data set into an image using the RGB channels. You can see, each line of tha image that use by each weather station in this map, by clicking on it.
+How much illusion of control I have through working.
 
---
-
-<!-- .slide: data-background="#000000" -->
-![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
-
-Note:
-This is how the "big picture" looks like.
-In this point is looks very random, but some interesting patterns emerge.
-Specially if you divide the types of data, a feeling comes from it.
-
-So I replace the function to obtain random with something that use this texture as an imput
-
---
-
-<!-- .slide: data-background="#000000" -->
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-<canvas class='sandbox fit' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
-
-wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
-
-Note:
-This is a maze constructed with wind speed, direction and temperature 
-Tempted with this idea of wind-random. I made a I Ching shader that feeds from it
-
---
-
-<!-- .slide: data-background="#000000" -->
-
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519211717&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true#/shaders/data.png'></iframe>
-
-Note:
-But there is something disrispectuf with this idea. 
-a. One nobody I know... knows the 64 hexagrams, to the point they can be reading this...
-b. The context is in apropiate.
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/flipping-coin.gif)
-
-Note:
-For Jung, the distintion between regular chance and synchronicity is the psicological state of mind.
-Requires some sort of presence or intention on looking for answers.
-
-Is not something that is not just vomit to you.
-To be trusful need to be framed in a context.
-
---
-
-I want to show you a diferent peace
+I feel lucky to have a partner like Jen. I seen her in constant process of change. She is fearless. 
 
 ---
 
