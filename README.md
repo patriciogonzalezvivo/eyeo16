@@ -7,48 +7,31 @@
 DEC 2009
 
 Note:
-In dicember 2009, I was working on the annoying/imposible process of making your own website.
-In my case this website
+In December 2009, I was working as **clinical psychologist and expressive art therapist** and starting the annoying process of **making your own website for my practice**.
 
---
-
-<!-- .slide: data-background="#91AC99" -->
-<iframe class='fit' width='100%' height='600px' data-src='https://web.archive.org/web/20100620130219/http://www.arteparasanarte.com.ar/'></iframe>
-
-Note:
-It's important to say in that time I was working as Clinical Psychologist and Expressive art Therapist.
-Esentially doing a lot of things that looks this other thing:
-
---
-
-![](imgs/DSCN0373.JPG)
-<!-- ![](imgs/DSC05495.JPG) -->
-
-Note:
-Any way...
-I was teaching my self flash to make my own website for my practice as an art therapist. 
-Googling around I search for “processing XML”
+I was **teaching my self** flash to make my own website for my practice as an art therapist. 
+Googling around I search for this [“processing XML”] 
 
 --
 
 ![](imgs/processingXML.png)
 
 Note:
-Which lead me to processing documentation (made by Scott Murray??)
+which leads me to **Processing** documentation
 
 --
 
 ![](imgs/processing.png)
 
 Note:
-I was FASCINATED. 
+I was shocked and amazed!!  
 
-This people were combining arts with computer code.
-In my world at that moment I was a misfit.
+People were doing art with code.
+…I feel that I tap into a world of **misfits** like me.
 
-Beside the fact that I always have been a nerd that like computers. Buenos Aires, is together with Paris and Upper West Side in Manhattan, one of the last places where people do (and like) Psychoanalyst.
+Beside the fact that I always have been a nerd that like computers. Buenos Aires, is together with Paris and Upper West Side, is one of the last places on the world where people do (and like) Psychoanalyst.
 
-So while everybody in school was into this guy:
+So while everybody was into this guy:
 
 --
 
@@ -57,12 +40,12 @@ So while everybody in school was into this guy:
 ![](imgs/carl_gustav_jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
-was a fan of this other guy.
-… his archenemy, Carl Gustave Jung.
+was a super fan of this other guy.
+… his archenemy. Carl Gustave Jung.
 
 (he actually looks like my grand father)
 
-Like most archenemies, they use to be friends. Jung was the favorite disciple. Freud name him his sucesor and put him in charge of the International Psychoanalytical Association.
+Like most **archenemies**, they use to be friends. Jung was the favorite disciple. Freud name him his sucesor and put him in charge of the International Psychoanalytical Association.
 
 --
 
@@ -71,27 +54,60 @@ Like most archenemies, they use to be friends. Jung was the favorite disciple. F
 Note:
 They disagree on the origin of libido and in the scope of unconscious. Freud, father of this ideas, thought the libido was just sexual, and the unconscious made of personal memories.
 
-Jung disagree that the libido was only a sexual. He also believed that deeper than the personal unconscious was a bast collective ocean of shared psychological content. Not just instincts but a whole set of psychological structures, he later call archetypes. They manifest in mythological themes, images, patterns visible along generations and around the world.
+Jung disagree that the libido was only a sexual. He also believed that deeper than the personal unconscious was a deep **collective ocean of shared psychological content**. Not just instincts but a whole set of psychological structures, he later call archetypes. They manifest in mythological themes, images, patterns visible along generations and around the world.
 
 --
-
 
 ![](imgs/pcs201318f1.jpg)
 
 Note:
-For him the personal psique emerge from this collective sea
+For him the personal psique emerge from this collective sea.
 
 --
 
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='http://localhost:8000/tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
+
+Note:
+
+Like islands over the sea.
+[Note, this are not island… I’m just drowning Rio]
 
 --
 
 ![](imgs/self.png)
 
 Note:
-I like this diagram of the self, because is in the shape of a mandala... this usually sacred circular forms that speaks about something as a hole.
-So.. the escense of art therapy is to use and amplify this arquetipical ideas emergin from the deepness of the collective unconsius with mythology, rituals and expressive languages.
+This is the diagram of the psychic structure for Jung.
+Note how for him deliberated looks like a mandala.
+
+The term mandalas can be use loosely to any symbolic circular forms that speaks refers to "the hole". We can find them on all mayor religions.
+
+--
+
+![](imgs/mandala-00.jpg)
+![](imgs/mandala-01.gif)
+![](imgs/mandala-02.jpg)
+![](imgs/mandala-03.jpg)
+![](imgs/mandala-04.jpg)
+
+Note:
+Jung's theory open the doors to new was of using mythological and symbolic content to amplify emerging archetypes.
+
+--
+
+![](imgs/00030.jpg)
+
+Note:
+With it, different expressive languages like music, dance...
+
+--
+
+![](imgs/DSC01911.jpg)
+![](imgs/DSC01913.jpg)
+![](imgs/DSC05498.jpg)
+
+Note:
+sculpture and painting serve as a non verbal medium that facilitate this practice.
 
 --
 
@@ -100,8 +116,15 @@ So.. the escense of art therapy is to use and amplify this arquetipical ideas em
 ![](imgs/00023.jpg)
 
 Note:
-I'm not gona lie, there were a LOT of mandalas.
-But also dancing, singing, etc. 
+I'm not gonna lie, there were a LOT of mandalas involve.
+
+--
+
+![](imgs/IMG_1671.jpg)
+![](imgs/IMG_4900.jpg)
+
+Note:
+But also dancing, singing, etc.
 Each different language have the ability to think and said things in different ways. 
 
 --
@@ -112,8 +135,7 @@ Movement for example, it fluctuates over time... was this ability to transform t
 
 --
 
-
-![](imgs/00030.jpg)
+![](imgs/IMG_4654.jpg)
 
 Note:
 Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... an image slowly appears over time.
@@ -711,15 +733,6 @@ Mandalas strickty speaking is a meditation technique practice in tibetan budism.
 ![](imgs/mandala-tibetan.jpg)
 
 Note:
-But this same circual constructions eco all around the world all mayor religions.
-
---
-
-![](imgs/mandala-00.jpg)
-![](imgs/mandala-01.gif)
-![](imgs/mandala-02.jpg)
-![](imgs/mandala-03.jpg)
-![](imgs/mandala-04.jpg)
 
 ---
 
