@@ -100,8 +100,7 @@ Jung's theory open the doors to new was of using mythological and symbolic conte
 Lydia Clark
 
 Note:
-Like we see on Lygia's Clark late work. 
-On the 70's there was return to non verbal expression, sensorial and group dynamic. 
+In the 70's groups like the one lider by the brazilean Lygia's Clark, saw this as an opportunity to use rituals to support non verbal expression, and sensorial stimulation and group dynamic. 
 
 --
 
@@ -114,14 +113,12 @@ On the 70's there was return to non verbal expression, sensorial and group dynam
 
 Note:
 With it, different expressive languages like music, dance...
-sculpture and painting serve as a non verbal medium that facilitate this practice.
 
 --
 
 ![](imgs/DSC05498.jpg)
 
 Note:
-With it, different expressive languages like music, dance...
 sculpture and painting serve as a non verbal medium that facilitate this practice.
 
 --
@@ -159,7 +156,7 @@ Note:
 So... back to processing. I was there looking to all this hybrid artist using code as a language. Seen for the first time code and computers as an expressive language.
 What unique possibilities this language unlocks for us?
 
-Any felt I arrive to my own nerd heaven.
+And I felt arriving to my own nerd heaven.
 I send emails to all the artist could found. 
 Only one reply
 
@@ -181,12 +178,12 @@ And again... I did.
 *Fundacion Telefonica* - **INTERACTIVOS** (2010)
 
 Note:
-Here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin ... and Javier .... 
+Here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin Aras and Javier .... 
 
-Was particularly great because was unexpected.
+I think it was particularly great because was unexpected. Everything was exciting and vibran. I was truly feeling that I was integrating more parts of my self.
 
 Jung have a interesting concept call **synchronicity**.
-On his work he notice that In his diaries, what later he also illustrate and become the red book.
+Analyzing his on dreams (and then drawing them in what becomes the famous Red Book)
 
 ---
 
@@ -217,6 +214,8 @@ In the same way animals feels natural disasters before they happen...  There was
 
 Because this events didn't directly respond to a cause and effect relation. He call them a-causal events. And he thought they could be explain because of the collective unconscious
 
+.
+
 In June 2011  (five years ago)...
 without any notice....
 and after 50 years of lying dormant a volcano at the south of Chile call Puyehue made eruption.
@@ -242,7 +241,7 @@ This eruption ejected around one hundred million tons of ash, sand and pumice.
 ![](imgs/puyehue-04.jpg)
 
 Note:
-This eruption ejected around one hundred million tons of ash, sand and pumice. 
+
 
 --
 
@@ -272,6 +271,7 @@ the ashes bring
 - destruction.
 - everything between dead animals to 
 - days and days of flights cancel across the southern half of the continent.
+- everybody's life that months have been affected radically for that volcano hundreds of milles aways.
 
 --
 
@@ -283,7 +283,7 @@ Before the volcano arrive, I was working on a project that consist projecting on
 
 I was inviting the user to interact with it, and by doing that the user bring destruction. Then he have to wait, It takes time to the life on the simulation to go back to homeostasis. 
 
-Although we weren't responsable for the eruption of the volcano, I use the ashes. For me was a symbol of how little we know. How much less power, or control we have. Specially at big scale.
+Although, we can't blame human kind directly for the eruption of the volcano, I use the ashes. For me was a symbol of how little we know. How much less power, and lack control we have. Specially at big scale.
 
 --
 
@@ -293,7 +293,7 @@ Although we weren't responsable for the eruption of the volcano, I use the ashes
 NOV 2011 - **Efecto Mariposa**
 
 Note:
-I had the chance to show installation several times. So I get to see a lot of people interacting with it. There is some considerable amount of pleasure on the illusion of control.
+I had the chance to show installation several times in South America. I got to see a lot of people interacting with it. There is some considerable amount of pleasure on the illusion of control.
 
 --
 
@@ -312,7 +312,8 @@ Although Efecto Mariposa is made in openFrameworks, all the computation power co
 ![](imgs/20111210.png)
 
 Note:
-Life is strange, because was thanks to that add-on that Zack Liberman trying to use... we meet and get to talk.
+That addon becomes very popular...
+And thanks the fact that Zack Liberman was trying to use it... we meet and get to talk.
 
 --
 
@@ -320,7 +321,7 @@ Life is strange, because was thanks to that add-on that Zack Liberman trying to 
 ![](imgs/20120103.jpg)
 
 Note:
-After telling him how much I was wanting to leave the clinical psychology and do more digital work that he suggest applying to the MFA in design and technology at parsons... which I did... 
+After telling him how much I was wanting to leave the clinical psychology and do more artistic work that he suggest applying to the MFA in design and technology at parsons... which I did... 
 
 --
 
@@ -342,7 +343,7 @@ NYC is not a friendly city to arrive, without a job. Thankfully thanks the help 
 2013 - Visual Systems for CLOUDS Documentary
 
 Note:
-Other unexpected things happened... James and Jonathan invite me to collaborate in CLOUDS doing some visual systems... and during we were doing interviews I meet Jen.
+Other unexpected things happened... James and Jonathan invite me to collaborate in CLOUDS doing some visual systems... and during the interviews, just because Zack talk about to her, I meet Jen.
 
 --
 
@@ -350,7 +351,8 @@ Other unexpected things happened... James and Jonathan invite me to collaborate 
 <iframe class='fit' src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1463075256574!6m8!1m7!1sp1dCLliwGRUAAAQZDaBD0w!2m2!1d40.72371832370289!2d-73.95171632224185!3f44.320821265143294!4f-15.56789776591117!5f0.7820865974627469" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Note:
-We randomly went for coffee in this corner, like most people do here in New York.
+We randomly went for coffee in this corner, like most people do here in New York. 
+A networking coffee became a long fascinating dinner.
 
 --
 
@@ -359,7 +361,9 @@ We randomly went for coffee in this corner, like most people do here in New York
 
 Note:
 She also was barely new to NYC. She was also open to chance... falling a path that brings her all the way from the other coast.
-We fall in love. We move together. We got married and now we have a kid.
+We fall in love. We move together. We got married. All that in less than a year. 
+
+...and now we have a kid.
 
 --
 
@@ -368,6 +372,7 @@ We fall in love. We move together. We got married and now we have a kid.
 APR 2015
 
 Note:
+Lucas.
 I consider my self immensely lucky to have such a great partner to dance against uncertainty.
 
 ---
@@ -377,9 +382,9 @@ I consider my self immensely lucky to have such a great partner to dance against
 MAY 2014 - [**Skyline II**](http://patriciogonzalezvivo.com/2014/skylines/skylines.php?v=02)
 
 Note:
-In 2014, for thesis...
-I was working on a series of **projects is about awareness and the tools we use to see the world around us**.
-This is a machine in particularly prints a large-scale horizon showing the transition between the city and the mountains.
+In 2014, for my thesis...
+I was working on a series of **projects about awareness and the tools we use to see the world around us**.
+This machine in particularly prints a large-scale horizon showing the transition between the city and the mountains.
 
 --
 
@@ -476,7 +481,7 @@ Postcards of an era where LIDar data was hard to get, and companies were driving
 Note:
 Ahh... the early 10's... 
 
-I wonder how much of our decade is recreate with data the collective unconscious. 
+I wonder how much of our decade is about recreating with data thehis Jungian conception of the collective unconscious. 
 
 Every wiki project, every bid data, computer learning, AI thing... had this promise of making sense of a huge amount of chaotic content. Extracting small glimpse of what could be or happen.
 
@@ -580,11 +585,11 @@ Even projects were I animate the prediction of 1700 satellites orbits.
 *LineOfSight*
 
 Note:
-Mapzen was different teams and services beside tangram and our set of vector tiles... we have open source search and routing.
+Mapzen was other teams beside the one I work on (the graphic one). We have a data team, a search engine and a routing engine. 
 
-This usually are very expensive develops so companies keep them close. That makes what every they are making as an investment... which means close. 
+This engines are very expensive to develop. So companies makes them as an investment... which means close... they implementing over and over again... keeping the innovation close and lost. 
 
-Thanks to the work coming from the search and routing teams, is the first time this engines are develop in the open, and regular people get to see them and study how they work.
+Thanks to the work coming from the search and routing teams, is the first time this engines are develop in the open, and regular people get to see them and study how they work. We feel that this will help by rising the ceilings on the industry. 
 
 As I said is a privilege to work in mapzen, not just because I get to work with thoughtful and talented people like
 
@@ -632,7 +637,7 @@ In the spirit of it I start my own book for those that want to learn shaders... 
 ![](imgs/TBoS-00.png)
 
 Note:
-I call it The Book of Shaders... because of The Book of Shadows.
+I call it The Book of Shaders... as a satiric reference to The Book of Shadows.
 In it I start dealing with questions about. Where to start? What's the best way to learn or teach code? How a shader "hello world" example should look like? What are the minimum requirements terms of equipment, conceptual and technical?
 
 --
@@ -665,7 +670,7 @@ This are some of the people that have join this project collaborating donating t
 I just so thanks full to them.
 They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
 
-Also talking to them is bringing new voices, start feeling like an organic strutted.
+Also talking to them is bringing new voices. I have this feeling that the project start having a life in it's own.
 
 --
 
@@ -679,7 +684,7 @@ Also talking to them is bringing new voices, start feeling like an organic strut
 Note:
 I love this images.
 
-Another project I somehow got weave with the book of shaders is  openFrame.
+Another project The Book got somehow got weave openFrame.
 
 ---
 
@@ -690,7 +695,7 @@ Another project I somehow got weave with the book of shaders is  openFrame.
 *by Ishac Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
 
 Note:
-Ishac and Jon are using glslViewer, a simple C++ program that runs shaders in different platforms including the console of the RaspberryPi. They are using it to run send and run shaders remotely to any of this Frames running a RaspberryPi.
+Ishac and Jon are using glslViewer. The first player I made on  C++ to live code shaders from any text editor. This program runs shaders in different platforms including the console of the RaspberryPi. They are using it to run artwork in glsl, that is pushed remotely from the web in this frames running a RaspberryPi. GlslViewer follow the same scheem of the embebed editor on the book. So it was easy to modify it to push content to openFrame.
 
 --
 
@@ -698,7 +703,7 @@ Ishac and Jon are using glslViewer, a simple C++ program that runs shaders in di
 ![](imgs/20160517_214941.jpg)
 
 Note:
-So I found a couple of Computer Screens on my basement I hook them up with a RaspberryPi. And I got this nice frame that I can push content directly from my book's editor.
+After founding some computer screens on my basement I hook them up with a RaspberryPi, I made this my own openFrame.
 
 --
 
@@ -711,7 +716,8 @@ So I found a couple of Computer Screens on my basement I hook them up with a Ras
 
 Note:
 Here is the frame on our livingroom.
-The fact of seen your work everyday, and constantly, have being changing the way I have been working
+
+Seen my work in daily bases had change my way of relating to it.
 
 --
 
@@ -719,7 +725,15 @@ The fact of seen your work everyday, and constantly, have being changing the way
 <iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="600" height="600" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
-Today I feel that the language of my choose are shaders. And this helps me to have a dialog on the daily bases. Also helps me that have lot of restrictions.
+Shaders is the language that I choose today.
+And in this format helps me mostly because of the restrictions.
+
+- RaspberryPi are slow and underpowered.
+- Shaders have a minimal API which mostly consist on mathematical operations
+- There are no libraries
+- There is no other output than images.
+
+In lot of way they are similar to 
 
 --
 
@@ -727,13 +741,7 @@ Today I feel that the language of my choose are shaders. And this helps me to ha
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
-
-- RaspberryPi are slow and underpowered.
-- Shaders have a minimal API which mostly consist on mathematical operations
-- There are no 
-- There is no other output than images.
-
-They are like HAIKUS... all you have to do is make images in a simple and efficient way.
+HAIKUS... all you have to do is describe in few sentences an image.
 
 --
 
@@ -745,6 +753,8 @@ For me this restrictions helps me to keep the focus.
 - a handy equation
 - an interesting animation
 
+Also because of the nature of the GPU arquetectual... forces me to re think algorithms from the perspective of the pixels... the atoms... the minimal components
+
 Jung used to do something similar but for introspection using mandalas. He use to sketch them all the time, as a way to check him self out.
 
 --
@@ -753,12 +763,12 @@ Jung used to do something similar but for introspection using mandalas. He use t
 ![](imgs/mandala-tibetan.jpg)
 
 Note:
-Mandalas are original from the Tibet. Monks use them as a meditation. And are in essence ephemeral. They are snapshots of a moment.
+Mandalas are originaly from the Tibet. Monks use them as a meditation. And are in essence ephemeral. They are snapshots of a moment.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/mandala-end.jpg)
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe>
 
 Note:
 Once they are done, they are erased.
