@@ -8,8 +8,8 @@ import:
     - https://tangrams.github.io/blocks/patterns/grid.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
     - https://tangrams.github.io/blocks/points/cross.yaml
-    - https://tangrams.github.io/blocks/elevation/stripes.yaml
     - https://tangrams.github.io/blocks/points/shape.yaml
+    - https://tangrams.github.io/blocks/elevation/stripes.yaml
 
 sources:
     osm:

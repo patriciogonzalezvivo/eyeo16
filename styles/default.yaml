@@ -5,7 +5,6 @@ import:
     - https://tangrams.github.io/blocks/patterns/grid.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
     - https://tangrams.github.io/blocks/points/cross.yaml
-    - https://tangrams.github.io/blocks/elevation/ramp.yaml
     - https://tangrams.github.io/blocks/elevation/stripes.yaml
 
 sources:
@@ -94,29 +93,18 @@ layers:
                 order: global.order
                 color: white
                 width: 1px
-    # places:
-    #     data: { source: osm }
-    #     filter: 
-    #         any:
-    #             - { capital: yes }
-    #             - { state_capital: yes }
-    #     draw:
-    #         points-cross:
-    #             color: white
-    #             size: 15px
-    #         text:
-    #             offset: [0,-16px]
-    #             font:
-    #                 # transform: uppercase
-    #                 typeface: Helvetica
-    #                 size:
-    #                 fill: white
 styles:
     elevation-ramp:
         raster: custom
         shaders:
             uniforms:
                 u_ramp: palette
+            blocks:
+                normal: |
+                    vec4 raster = sampleRaster(0);
+                    normal = (raster.rgb-.5)*2.;
+                color: |
+                    color = texture2D(u_ramp,vec2((1.-raster.a),.5));
 
     # ===========================================
     water:
