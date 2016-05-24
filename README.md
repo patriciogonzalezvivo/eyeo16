@@ -56,8 +56,9 @@ For Jung, the libido was not only sexual, and the unconscious was way deeper. Fo
 
 --
 
-![Arquetypes image]()
+![Arquetypes image](imgs/archetypes.png)
 
+Note:
 We can find archetypes by finding patterns and correlations in different mythologies, believe systems, novels, movies, etc. For Jung this are common psychological structures, that sue and share. [Something like an arcane human API.]
 
 Jungian therapy practices is based on the use of symbolic and mythological knowledge to amplify emerging archetypes. Helping them to emerge to conciseness.
@@ -68,7 +69,7 @@ Though he also open the doors to the use of ritual and expressive languages as n
 
 ![](imgs/lygia.jpg)
 
-Lydia Clark
+Lygia Clark
 
 Note:
 In the 70's groups like those Lygia Clark was running, incorporate rituals and sensorial stimulation to happenings... soon they were using it for healing. 
@@ -664,7 +665,8 @@ I have a close relationship with this tools, not only because I made it, but als
 
 --
 
-<iframe class='fit' width='100%' height='1000px' data-src='edit.html'></iframe>
+<!-- .slide: data-background="#272822" -->
+<iframe class='fit' width='100%' height='1000px' data-src='edit.html?multipleBuffers=false'></iframe>
 
 Note:
 The book of shaders also have open new chances of collaborating with others.
@@ -683,7 +685,6 @@ Also talking to them is bringing new voices. I have this feeling that **the proj
 
 --
 
-<!-- .slide: data-background="#000000" -->
 ![](imgs/lygia-00.jpg)
 ![](imgs/lygia-01.jpg)
 
@@ -707,16 +708,16 @@ The term mandalas can be use loosely to any symbolic circular forms that speaks 
 
 --
 
+
 ![](imgs/mandala-00.jpg)
 ![](imgs/mandala-01.gif)
 ![](imgs/mandala-02.jpg)
 ![](imgs/mandala-03.jpg)
-![](imgs/mandala-04.jpg) <!— {_class=“fragment”} —>
-![](imgs/mandala-05.jpg) <!— {_class=“fragment”} —>
+![](imgs/mandala-04.jpg) <!-- {_class="fragment"} -->
+![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
 Note:
 Jung it self use to draw mandalas daily as a way to check with him self. As a way to take "snapshots" of his inner self.
-
 
 --
 
@@ -735,6 +736,7 @@ Note:
 Once they are done, they are erased.
 
 Another project that The Book of shaders open was a collaboration
+
 ---
 
 ![](imgs/openframe.jpg)
@@ -745,6 +747,7 @@ Another project that The Book of shaders open was a collaboration
 
 Note:
 width Ishac and Jon. They are using some of the tools I made for the book to display shaders as artwork in their openFrame project.
+
 --
 
 <!-- .slide: data-background="#000000" -->
@@ -755,7 +758,11 @@ After repurposing some trashed screen monitors I found in my basement, and hooki
 
 --
 
-<iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+<!-- .slide: data-background="#000000" -->
+<iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="400" height="400" frameborder="0"></iframe>
+<iframe src="https://vine.co/v/iQZF2WdzWit/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/i0HIuixHxTv/embed/simple" width="400" height="400" frameborder="0"></iframe>
+
+<script src="https://platform.vine.co/static/scripts/embed.js">
 
 Note:
 I had my openFrame working, and since then I use it to
@@ -772,7 +779,9 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="600" height="600" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+<iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="400" height="400" frameborder="0"></iframe>
+<iframe src="https://vine.co/v/ixu6hBz7DaO/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/iEgmrx1YEwr/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/iEXrdqzJvM9/embed/simple" width="400" height="400" frameborder="0"></iframe>
+<script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 Note:
 Shaders is the language that I choose today.
@@ -832,6 +841,7 @@ I want to thanks them, for their random generosity.
 
 --
 
+<!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe>
 
 Note:
@@ -847,7 +857,7 @@ I don't know you, but I don' t trust big data, or machine learning... they kind 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
 
 Note:
 On the other hand, feel weave in a community, having friends and allays.
