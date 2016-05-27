@@ -4,14 +4,14 @@
 #
 
 import:
-    - https://patriciogonzalezvivo.github.io/eyeo16/styles/default.yaml
+    - default.yaml
     - https://tangrams.github.io/blocks/geometry/projections.yaml
     - https://tangrams.github.io/blocks/points/shape.yaml
 
 sources:
     places: 
         type: GeoJSON
-        url: https://patriciogonzalezvivo.github.io/eyeo16/data/places.json
+        url: ../data/places.json
        
 lights:
     dir:
@@ -21,13 +21,13 @@ lights:
     point:
         type: point
         position: [0,0, 10px]
-        diffuse: 1.9
+        diffuse: 5.
 layers:
     bue-nyc:
         data: { source: places }
         draw:
             flight:
-                color: [1.,1.,0.]
+                color: [0.991, 0.786, 1.000]
                 # width: [ [0, 4px], [20, 200]]
                 width: 10px
                 order: 1000
@@ -80,7 +80,7 @@ styles:
                     float trail = smoothstep(0.95,1.,abs(sin(st.x*3.1415)))*step(0.,-uv.y);
                     float spark = step(0.5,abs(sin(st.x*3.1415)))-step(.00005,st.y);
                     float dash = step(DASH_SIZE,fract(v_texcoord.y*DASH_SCALE));
-                    color.rgb = mix(color.rgb,vec3(0.880,0.865,0.748),spark);
+                    color.rgb = mix(color.rgb,vec3(1.),spark);
                     color.a *= max(spark,min(trail,dash));               
     points-shape:
         shaders:
@@ -113,6 +113,8 @@ styles:
         mix: [filter-grid, plane]
         lighting: fragment
         shaders:
+            defines:
+                GRID_AMOUNT: .4
             blocks:
                 color: |
                     point.position.xy -= u_map_position.xy;
