@@ -114,13 +114,6 @@ Lygia Clark
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-02.jpg)
 
-JUN 2011
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/puyehue-03.jpg)
-
 --
 
 <!-- .slide: data-background="#000000" -->
