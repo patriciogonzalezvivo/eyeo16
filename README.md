@@ -2,20 +2,89 @@
 <!-- .slide: data-background="#000000" -->
 # What are the chances?
 
----
+** Patricio Gonzalez Vivo **
 
-<!-- .slide: data-background="#FFFFFF" -->
-DEC 2009
+*patricio.io* | *@patriciogv*
+
+Note:
+Hello my name is Patricio Gonzalez Vivo.
+It's an honor been here... Thanks the organizer and Jen
+break the ice by showing something embarazing 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Note:
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
+
+Note:
+I'm a developer currently based on NY working on mapzen building a 3D Map engine and experimenting with maps & shaders.
+But 7 year ago I was a psychologist and expressive art therapist in Buenos Aires.
+I'm going to talk about the synchronicities that led me here.
+
+--
+
+
+<!-- .slide: data-background="#91AC99" -->
+<!-- <iframe data-src='https://web.archive.org/web/20100620130219/http://www.arteparasanarte.com.ar/'></iframe> -->
+
+![](imgs/arteparasanarte.gif)
+
+Note:
+So at the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my bussines. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I build it in Flash, and thanks to The Wayback Machine, I could recovery in GIF form : )
+This is the second of MANY embarrassing things I’m going to show you, but it’s appropriate because this talk is going to be something of a spiral 
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/processingXML.png)
 
+Note:
+While I was building my site, I needed to figure out how to work with XML files, so I searched for “processing XML,” and in the first of many synchronicities, I ended up here:
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/processing.png)
+
+Note:
+… to a webpage that I’m sure is familiar to a lot of us :)
+
+and it took me a while to understand what was going on here… that this was a community of people making ART with CODE. I felt like I’d tapped into a world of misfits like me; I wanted to use these tools for expressive arts therapy…
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/arttherapy-00.png)
+
+Note:
+…so let’s spiral back to arts therapy for a minute
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/arttherapy-05.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/arttherapy-01.png)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/arttherapy-movement.gif)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/arttherapy-03.png)
 
 --
 
@@ -51,28 +120,6 @@ Lygia Clark
 
 --
 
-<!-- .slide: data-background="#000000" -->
-![](imgs/DSC05498.jpg)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/a0431.jpg)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/movement.gif)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/IMG_4796.jpg)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/IMG_4889.jpg)
 
 --
 
@@ -89,10 +136,6 @@ Lygia Clark
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/20110217.jpg)
 
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
@@ -301,15 +344,13 @@ Lygia Clark
 
 *Tangram styles*
 
+
 --
 
 <!-- .slide: data-background="#1D1D1D" -->
 <iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
 
---
 
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
 
 2015 - *RandomCity*
 
