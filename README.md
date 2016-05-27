@@ -61,7 +61,7 @@ and it took me a while to understand what was going on here… that this was a c
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/arttherapy-00.png)
+![Art therapy in general](imgs/arttherapy-00.png)
 
 Note:
 …so let’s spiral back to arts therapy for a minute
@@ -69,12 +69,22 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/arttherapy-05.png)
+![Circle](imgs/arttherapy-01.png)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/arttherapy-01.png)
+![sculpture](imgs/arttherapy-03.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![sculpture](imgs/arttherapy-04.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![mandala](imgs/arttherapy-05.png)
 
 --
 
@@ -84,30 +94,12 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/arttherapy-03.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/freud.jpg)
-![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/ipa.jpg)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/archetypes.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
 ![](imgs/lygia.jpg)
 
 Lygia Clark
+
+Note:
+Elder
 
 --
 
@@ -120,37 +112,140 @@ Lygia Clark
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/crissugrue.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/openprocessing.png)
+<!-- .slide: data-background="#000000" -->
+![](imgs/interactivos.jpg)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/20091209.png)
+<!-- .slide: data-background="#000000" -->
+![calos](imgs/arttherapy-02.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/20110217.jpg)
+<!-- .slide: data-background="#000000" -->
+![communitas](imgs/communitas.png)
 
+Note:
+ritual around device that produces interaction between people and not alienation; technology has too much gravity - way kids and adults were interacting -> led to efecto mariposa - sensitive; natural; reacts badly if you interact with it in an aggressive way
 
----
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/efectomariposa.png)
+
+Note:
+Efecto mariposa
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/freud.jpg)
+![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
+
+Note:
+…back to psychology
+
+--
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/redbook-00.jpg)
+
+Note:
+Jung's dream drawings 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+maybe some jung quotes?
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/10PRINT.png)
+
+Note:
+while we tend to work v hard to get a “pure” random in our code, Jung [something something] synchronicity
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+Note:
+So I recode the famous 10 Print.
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='graph.html'></iframe>
+
+Note:
+Shaders don't have random native function... this is how is constructed
+
+--
+
+<!-- .slide: data-background="#14131A" -->
+<iframe data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
+
+Note:
+Weather project
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
+
+Note:
+Storing data into this image.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<canvas class='sandbox' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
+
+Note:
+Jung might approve of a random created from real data, like wind speed, direction, or temperature
+
+--
+
+<!-- .slide: data-background="#000000" -->
+back to collective unconscious 
+
+Note:
+Back to the collective unconcious
+reminder collective unconscious -> nightmares -> WWI
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/redbook-03.jpg)
 
+Note:
+floods
+
+--
+
+<!-- .slide: data-background="#000000" -->
+…or [insert other common jung nightmare pic here]
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/redbook-01.png)
+
+Note:
+volcanos
 
 --
 
@@ -179,17 +274,54 @@ Lygia Clark
 ![](imgs/puyehue-10.jpg) <!-- {_class="fragment"} -->
 ![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
+Note:
+… everything… felt… fragile.
+
 --
 
 <!-- .slide: data-background="#000000" -->
 <iframe src="https://player.vimeo.com/video/31940579" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Note:
+more efecto mariposa
+used ashes; community; interaction; learning how to build; learning the rules of the system?
+
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/efectomariposa.png)
+maybe more effect mariposa?
 
 --
+
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/redbook-03.jpg)
+
+Note:
+…sea levels rising; already happening in places like bangladesh and [insert island countries that are disappearing]
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
+
+Note:
+talk about this. flood terrain map
+
+from here I’m going to stay technical for a while and talk about how I came to make this map, and that comes down to Mapzen and [insert other open data / open source here???] and shaders
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/logo-mapzen.png)
+
+![](imgs/mapzen-team.gif)
+
+note:
+talk about the team that i get to work with every day
+
+--
+
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/ofxFX-00.gif)
@@ -197,6 +329,9 @@ Lygia Clark
 
 ![](imgs/ofxFX-02.gif)
 ![](imgs/ofxFX-03.gif)
+
+Note:
+open sourcing the efecto mariposa shaders
 
 --
 
@@ -206,6 +341,9 @@ Lygia Clark
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/20120103.jpg)
+
+Note:
+zach
 
 --
 
@@ -219,21 +357,6 @@ Lygia Clark
 <img src='imgs/clouds-03.gif' style='max-width: 50%;'> <img src='imgs/clouds-02.gif' style='max-width: 50%;'> 
 
 --
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1463075256574!6m8!1m7!1sp1dCLliwGRUAAAQZDaBD0w!2m2!1d40.72371832370289!2d-73.95171632224185!3f44.320821265143294!4f-15.56789776591117!5f0.7820865974627469" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
-
---
-
-<!-- .slide: data-background="#161616" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=sfc-nyc#5.47188/39.742/-99.548'></iframe>
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/20150405.jpg)
-
----
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/Skyline02.png)
@@ -301,16 +424,6 @@ Lygia Clark
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/14134184803_462bcbfbe7_o.png)
-
----
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/logo-mapzen.png)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/mapzen-team.gif)
 
 --
 
@@ -388,10 +501,6 @@ Lygia Clark
 ---
 
 ![](imgs/pcs201318f1.jpg)
-
---
-
-<iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 ---
 
