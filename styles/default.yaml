@@ -2,10 +2,11 @@ author: Patricio Gonzalez Vivo (@patriciogv) - 2016
 
 import:
     - https://tangrams.github.io/blocks/global.yaml
-    - https://tangrams.github.io/blocks/patterns/grid.yaml
+    - https://tangrams.github.io/blocks/filter/grid.yaml
     - https://tangrams.github.io/blocks/lines/dash.yaml
     - https://tangrams.github.io/blocks/points/cross.yaml
     - https://tangrams.github.io/blocks/elevation/stripes.yaml
+    - https://tangrams.github.io/blocks/elevation/ramp.yaml
 
 sources:
     osm:
@@ -51,21 +52,21 @@ layers:
                 color: gray
             lines:
                 order: global.order-top
-                color: white
+                color: [0.545, 0.990, 1.000]
                 width: 2px
     landuse:
         data: { source: osm }
         draw:
             landuse:
                 order: global.order
-                color: [.1,.1,.1]
+                color: [0.000, 1.000, 0.480]
     roads:
         data: { source: osm }
         filter: { not: { kind: [rail, ferry] } }
         draw:
             roads:
                 order: global.order
-                color: [0.988, 0.988, 0.988]
+                color: black
                 width: [[7,0.0px], [10, .5px], [15, .75px], [17, 5m]]
         highway:
             filter: { kind: highway }
@@ -91,7 +92,7 @@ layers:
         draw:
             lines-dash:
                 order: global.order
-                color: white
+                color: [0.000, 1.000, 1.000]
                 width: 1px
 styles:
     elevation-ramp:
@@ -99,23 +100,14 @@ styles:
         shaders:
             uniforms:
                 u_ramp: palette
-            blocks:
-                normal: |
-                    vec4 raster = sampleRaster(0);
-                    normal = (raster.rgb-.5)*2.;
-                color: |
-                    color = texture2D(u_ramp,vec2((1.-raster.a),.5));
-
     # ===========================================
     water:
         base: polygons
-        mix: [patterns-grid]
+        mix: [filter-grid]
         lighting: false
         shaders:
-            blocks:
-                color: |
-                    color += tileGrid()*.2;
-    
+            defines:
+                GRID_AMOUNT: .2
     earth:
         base: polygons
         mix: [elevation-ramp]
@@ -123,6 +115,11 @@ styles:
     landuse:
         base: polygons
         mix: [elevation-stripes]
+        shaders:
+            defines:
+                STRIPES_ALPHA: .5
+                STRIPES_SCALE: 4.
+                STRIPES_PCT: 1.7
                     
     roads:
         base: lines
