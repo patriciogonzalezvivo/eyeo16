@@ -4,22 +4,32 @@
 #
 
 import:
-    - default.yaml
+    - https://patriciogonzalezvivo.github.io/eyeo16/styles/default.yaml
     - https://tangrams.github.io/blocks/geometry/projections.yaml
     - https://tangrams.github.io/blocks/points/shape.yaml
 
 sources:
     places: 
         type: GeoJSON
-        url: ../data/places.json
-
+        url: https://patriciogonzalezvivo.github.io/eyeo16/data/places.json
+       
+lights:
+    dir:
+        type: directional
+        diffuse: .3
+        ambient: .1
+    point:
+        type: point
+        position: [0,0, 10px]
+        diffuse: 1.9
 layers:
     bue-nyc:
         data: { source: places }
         draw:
             flight:
                 color: [1.,1.,0.]
-                width: [ [0, 4px], [20, 200]]
+                # width: [ [0, 4px], [20, 200]]
+                width: 10px
                 order: 1000
     places:
         data: { source: places }
@@ -38,17 +48,40 @@ layers:
                     stroke: { color: black, width: 5 }
 
 styles:
-    flight:
-        blend: overlay
+    plane:
         animated: true
-        mix: [lines-dash, geometry-projections]
+        mix: [geometry-projections]
         shaders:
             blocks:
-                filter: |
+                color: |
+                    vec2 A = vec2(-58.450925, -34.642733);
+                    vec2 B = vec2(-73.96625, 40.78343);
+                    float pct = fract(u_time*0.1);
+                    vec2 plane_pos = mix(A,B,pct);
+               
+    flight:
+        base: lines
+        lighting: false
+        blend: overlay
+        animated: true
+        texcoords: true
+        mix: [plane]
+        shaders:
+            defines:
+                DASH_SIZE: .3
+                DASH_SCALE: 1.5
+            blocks:
+                color: |
                     vec2 pos = u_map_position.xy+v_position.xy;
-                    vec2 latlon = vec2(y2lat_m(pos.y),x2lon_m(pos.x)); // 90/180
-                    vec2 uv = (latlon.yx/vec2(180.,90.)+1.)*.5;
-                    color.a *= 1.-step(fract(u_time*0.1),uv.y);
+                    vec2 latlon = vec2(x2lon_m(pos.x),y2lat_m(pos.y));
+                    vec2 uv = (latlon-plane_pos)/vec2(180.,90.); 
+                    
+                    vec2 st = vec2(v_texcoord.x,dot(uv,uv)*2.);
+                    float trail = smoothstep(0.95,1.,abs(sin(st.x*3.1415)))*step(0.,-uv.y);
+                    float spark = step(0.5,abs(sin(st.x*3.1415)))-step(.00005,st.y);
+                    float dash = step(DASH_SIZE,fract(v_texcoord.y*DASH_SCALE));
+                    color.rgb = mix(color.rgb,vec3(0.880,0.865,0.748),spark);
+                    color.a *= max(spark,min(trail,dash));               
     points-shape:
         shaders:
             defines:
@@ -56,3 +89,33 @@ styles:
                 SHAPE_SIZE: 1.
                 SHAPE_BORDER_WIDTH: 0.2
                 SHAPE_BORDER_COLOR: vec3(1.)
+    
+    earth:
+        base: polygons
+        mix: [elevation-ramp, plane]
+        shaders:
+            blocks:
+                color: |
+                    point.position.xy -= u_map_position.xy;
+                    point.position.xy += vec2(lon2x_m(plane_pos.x),lat2y_m(plane_pos.y));
+    
+    lines-dash:
+        mix: plane
+        shaders:
+            defines:
+                DASH_SIZE: .5
+                DASH_SCALE: .3
+            blocks:
+                color: |
+                    point.position.xy -= u_map_position.xy;
+                    point.position.xy += vec2(lon2x_m(plane_pos.x),lat2y_m(plane_pos.y));
+    water:
+        mix: [filter-grid, plane]
+        lighting: fragment
+        shaders:
+            blocks:
+                color: |
+                    point.position.xy -= u_map_position.xy;
+                    point.position.xy += vec2(lon2x_m(plane_pos.x),lat2y_m(plane_pos.y));
+                    
+                    

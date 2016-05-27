@@ -50,7 +50,7 @@ layers:
             earth:
                 order: global.order
                 color: gray
-            lines:
+            earth_lines:
                 order: global.order-top
                 color: [0.545, 0.990, 1.000]
                 width: 2px
@@ -122,6 +122,9 @@ styles:
                 STRIPES_PCT: 1.7
                     
     roads:
+        base: lines
+        lighting: false
+    earth_lines:
         base: lines
         lighting: false
     lines-dash:
