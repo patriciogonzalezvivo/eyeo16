@@ -364,12 +364,7 @@ zach
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/13134041954_3a8794f2af_o.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/13370774844_ffa2bf2660_o.png)
+![](imgs/Skyline02-00.png)
 
 --
 
@@ -379,73 +374,79 @@ zach
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/13361944233_fa138198a1_o.png)
+![](imgs/Skyline02-01.png)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/13408749583_e427ed3814_o.png)
+![](imgs/Skyline02-02.png)
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/13387695845_e27904aee8_o.png)
+![](imgs/Skyline02-03.png)
+
+--
 
 <!-- .slide: data-background="#000000" -->
-<!-- <iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/pointcloudcity/wash-sq/'></iframe> -->
-<!-- <iframe src="https://player.vimeo.com/video/89982874" width="1280" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+![](imgs/Skyline02-04.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/13466577425_022da481a6_o.png)
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-05.png)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/13443449153_075c253e17_o.png)
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-06.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-07.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-08.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-09.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-10.png)
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/Skyline02-11.png)
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/13926884279_1c8e6e4dc3_o.png)
+Note:
+note that google api doesn’t have this depth info anymore; limited edition; fragility of working with proprietary tools
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/14110527105_2c1eb240a4_o.png)
+<!-- .slide: data-background="#1D1D1D" -->
+<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
 
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/14134184803_462bcbfbe7_o.png)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-<img src='imgs/labels05.gif' style='width: 40%;'> <img src='imgs/labels03.gif' style='width: 50%;'>
-
-[Experiments on **3D Labels** (C++)](https://vimeo.com/107190391)
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-<img src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
-
-[Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
+Note:
+mapzen -> open source ->
 
 --
 
 <img src='imgs/press.png' style='width: 45%;'> <img src='imgs/patterns.png' style='width: 45%;'>
 
 <img src='imgs/crosshatch.png' style='width: 45%;'> <img src='imgs/pericoli.png' style='width: 45%;'>
-
-[Tangram styles (WebGL)](patriciogonzalezvivo.github.io/tangram-sandbox/)
 
 --
 
@@ -455,18 +456,6 @@ zach
 
 <img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-matrix.gif' style='width: 45%'>
 
-*Tangram styles*
-
-
---
-
-<!-- .slide: data-background="#1D1D1D" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
-
-
-
-2015 - *RandomCity*
-
 --
 
 <!-- .slide: data-background="#020303" -->
@@ -475,76 +464,91 @@ zach
 
 <img src='imgs/lineofsight-03.gif' style='width: 30%;'> <img src='imgs/lineofsight-04.gif' style='width: 30%;'> <img src='imgs/lineofsight-06.gif' style='width: 30%;'>
 
-*Line of Sight*
-
 --
 
 <!-- .slide: data-background="#020303" -->
 <iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://patriciogonzalezvivo.github.io/LineOfSight/"></iframe>
 
-*LineOfSight*
+--
+
+<!-- .slide: data-background="#020303" -->
+other people’s maps w mapzen tools
+
+Note:
+open source is +++; builds community; 
 
 --
 
-![](imgs/geraldine.jpg)
-![](imgs/geraldine-work.jpg)
-
-**Geraldine** Sarmiento (@sensescape)
-
---
-
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/weili.jpg)
 ![](imgs/weili.gif)
 
 **Weili** Shi (@shiweili)
 
----
+--
 
-![](imgs/pcs201318f1.jpg)
-
----
-
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/shiffman.png)
 
+Note:
+how much of this community exists because of processing and this book?
+
 --
 
-![](imgs/book.png)
-
---
-
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-00.png)
 
+Note:
+openness and community as a defense against fragility
+
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-01.png)
 
 --
 
-<iframe class='fit' width='100%' height='1000px' data-src='http://thebookofshaders.com/05'></iframe>
+<!-- .slide: data-background="#FFFFFF" -->
+other people’s rad shaders they made after reading the book, part I
 
 --
 
-<!-- .slide: data-background="#272822" -->
-<iframe class='fit' width='100%' height='1000px' data-src='edit.html?multipleBuffers=false'></iframe>
+<!-- .slide: data-background="#FFFFFF" -->
+other people’s rad shaders they made after reading the book, part II
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
+other people’s rad shaders they made after reading the book, part III
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
---
-
-![](imgs/lygia-00.jpg)
-![](imgs/lygia-01.jpg)
-
-![](imgs/lygia-02.jpg)
-![](imgs/lygia-03.jpg)
+Note:
+talk about the translations
 
 --
 
-![](imgs/self.png)
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='http://thebookofshaders.com/06'></iframe>
+
+Note:
+live coding in the book
+talk about interactivity
 
 --
 
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+Note:
+shaders -> simple instructions -> haiku -> individual pixels -> harmony
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/mandala-00.jpg)
 ![](imgs/mandala-01.gif)
 ![](imgs/mandala-02.jpg)
@@ -552,96 +556,97 @@ zach
 ![](imgs/mandala-04.jpg) <!-- {_class="fragment"} -->
 ![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
+Note:
+spiral back to ex arts therapy / 
+
+mandala joke :)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/self.png)
+
+Note:
+back to jung ; collective unconscious
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/mandala-tibetan.jpg)
+
+Note:
+as a practice of fragility
 
 --
 
 <!-- .slide: data-background="#000000" -->
 <iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe>
 
----
-
-![](imgs/openframe.jpg)
-
-**[o]** openFrame.io 
-
-*by Ishac Bertran (@ishacbertran) & Jon Whol (@jonwohl)*
+Note:
+as a practice of fragility
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/20160517_214941.jpg)
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe src="https://vine.co/v/ixunMhF10EF/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/ixun5zIu2eq/embed/simple" width="400" height="400" frameborder="0"></iframe>
-<iframe src="https://vine.co/v/iQZF2WdzWit/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/i0HIuixHxTv/embed/simple" width="400" height="400" frameborder="0"></iframe>
-
-<script src="https://platform.vine.co/static/scripts/embed.js">
-
---
-
-<iframe class='fit' width='1270px' height='760px' data-src='gallery.html?logs=160219113536,160219113008,160219112614,160518160824,160226222825,160301005406,160518160746,160518160802,160518161206,160302101718,160518161234,160302101922,160518161258,160304202332,160518161324,160306112725,160308160958,160313020334,160313025607,160518161359,160518161425,160510011212,160506171132,160306213426'></iframe> 
+<iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 Note:
-- Sketch simple ideas
-- a handy equation
-- an interesting animation
+think about fragility; finding hope in openness, in open source, in communities
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe src="https://vine.co/v/ixuihjh1Un6/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/ixunethi9MB/embed/simple" width="400" height="400" frameborder="0"></iframe>
-<iframe src="https://vine.co/v/ixu6hBz7DaO/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/iEgmrx1YEwr/embed/simple" width="400" height="400" frameborder="0"></iframe><iframe src="https://vine.co/v/iEXrdqzJvM9/embed/simple" width="400" height="400" frameborder="0"></iframe>
-<script src="https://platform.vine.co/static/scripts/embed.js"></script>
+<iframe style='min-height: 800px;' data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+Note:
+that simple instructions can create harmony from individual pixels, 
+that an internet search 6 and a half years ago would lead me here:
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
+
+Note:
+
+--
+
+
+<!-- .slide: data-background="#000000" -->
+<iframe style='min-height: 800px;' data-src='edit.html?log=160301005406&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+
+Note:
+that that move, plus some other synchronicities, would lead me here
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160304203331'></iframe>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160313030533'></iframe>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160510011212'></iframe>
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe>
-
---
-
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
+
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/20150405.jpg)
+
+Note:
+baby pic
 
 --
 
 <!-- .slide: data-background="#000000" -->
 <iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
 
+Note:
+and that working in public would lead me here today. 
+
 --
 
-
 [BIG MAP OF all the people that helps me]
+
+Note:
+[something something] ask people to think about all the people and synchronicity that have helped them to be here; something something synchronicity vs random, openness, community, fragility
 
 ---
 
