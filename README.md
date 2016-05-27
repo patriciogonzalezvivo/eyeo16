@@ -20,13 +20,13 @@ DEC 2009
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/Sigmund_Freud_LIFE.jpg)
-![](imgs/carl_gustav_jung.jpg ) <!-- {_class="fragment"} -->
+![](imgs/freud.jpg)
+![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/Psychoanalitic_Congress.jpg)
+![](imgs/ipa.jpg)
 
 --
 
@@ -51,12 +51,12 @@ Lygia Clark
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/DSC05498.jpg)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/a0431.jpg)
 
 --
@@ -66,12 +66,12 @@ Lygia Clark
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/IMG_4796.jpg)
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/IMG_4889.jpg)
 
 --
