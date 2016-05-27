@@ -35,7 +35,7 @@ DEC 2009
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/lygia.jpg)
 
 Lygia Clark
@@ -148,7 +148,7 @@ Lygia Clark
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/ofxFX-00.gif)
 ![](imgs/ofxFX-01.gif)
 
