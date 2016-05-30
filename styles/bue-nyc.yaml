@@ -4,7 +4,7 @@
 #
 
 import:
-    - default.yaml
+    - puyehue.yaml
     - https://tangrams.github.io/blocks/geometry/projections.yaml
     - https://tangrams.github.io/blocks/points/shape.yaml
 
@@ -92,7 +92,7 @@ styles:
     
     earth:
         base: polygons
-        mix: [elevation-ramp, plane]
+        mix: [elevation-ramp, picture, plane]
         shaders:
             blocks:
                 color: |
@@ -110,7 +110,7 @@ styles:
                     point.position.xy -= u_map_position.xy;
                     point.position.xy += vec2(lon2x_m(plane_pos.x),lat2y_m(plane_pos.y));
     water:
-        mix: [filter-grid, plane]
+        mix: [filter-grid, picture, plane]
         lighting: fragment
         shaders:
             defines:

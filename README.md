@@ -1,15 +1,17 @@
 
 <!-- .slide: data-background="#000000" -->
-# What are the chances?
+<!-- # What are the chances?
 
 ** Patricio Gonzalez Vivo **
 
-*patricio.io* | *@patriciogv*
+*patricio.io* | *@patriciogv* -->
+
+![](imgs/Title.png)
 
 Note:
 Hello my name is Patricio Gonzalez Vivo.
-It's an honor been here... Thanks the organizer and Jen
-break the ice by showing something embarazing 
+It's an honor to be here. I want to **thanks the organizer for the invitation and to Jen Lowe** for helping me put together this presentation.
+I want to start by breaking the ice by showing something embarazing.
 
 --
 
@@ -17,6 +19,8 @@ break the ice by showing something embarazing
 <iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
+[Wait until finish]
+This is from 2011, a couple of months after the kinect came up... I was doing silly experiments like this.
 
 --
 
@@ -24,9 +28,9 @@ Note:
 <iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-I'm a developer currently based on NY working on mapzen building a 3D Map engine and experimenting with maps & shaders.
-But 7 year ago I was a psychologist and expressive art therapist in Buenos Aires.
-I'm going to talk about the synchronicities that led me here.
+I'm a **developer currently based on NY working on mapzen** building a 3D Map engine and experimenting with maps & shaders.
+But **7 year ago I was a psychologist and expressive art therapist in Buenos Aires**.
+I'm going to **talk about the synchronicities that led me here**.
 
 --
 
@@ -39,6 +43,7 @@ I'm going to talk about the synchronicities that led me here.
 Note:
 So at the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my bussines. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I build it in Flash, and thanks to The Wayback Machine, I could recovery in GIF form : )
 This is the second of MANY embarrassing things I’m going to show you, but it’s appropriate because this talk is going to be something of a spiral 
+While I was building my site, I **needed to figure out how to work with XML files**...
 
 --
 
@@ -46,7 +51,7 @@ This is the second of MANY embarrassing things I’m going to show you, but it�
 ![](imgs/processingXML.png)
 
 Note:
-While I was building my site, I needed to figure out how to work with XML files, so I searched for “processing XML,” and in the first of many synchronicities, I ended up here:
+...so I searched for “processing XML,” and in the first of many synchronicities, I ended up here...
 
 --
 
@@ -56,7 +61,8 @@ While I was building my site, I needed to figure out how to work with XML files,
 Note:
 … to a webpage that I’m sure is familiar to a lot of us :)
 
-and it took me a while to understand what was going on here… that this was a community of people making ART with CODE. I felt like I’d tapped into a world of misfits like me; I wanted to use these tools for expressive arts therapy…
+and it **took me a while to understand what was going on here…** 
+that this was a **community of people making ART with CODE**. I felt like I’d tapped into a **world of misfits like me**; I wanted to use these tools for expressive arts therapy…
 
 --
 
@@ -64,32 +70,54 @@ and it took me a while to understand what was going on here… that this was a c
 ![Art therapy in general](imgs/arttherapy-00.png)
 
 Note:
-…so let’s spiral back to arts therapy for a minute
+…so let’s spiral back to arts therapy for a minute.
 
---
-
-<!-- .slide: data-background="#000000" -->
-![Circle](imgs/arttherapy-01.png)
+The expressive art therapy approach use jumps between different artistic languages like music, painting, sculpture, dance, etc... to amplify discover, amplify and transfor mining in the body. Feels preaty much like been in a constant state of play... but this non verbal languages allows you to go very deep.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![sculpture](imgs/arttherapy-03.png)
 
+Note:
+Each different language have the ability to think and said things in different ways. 
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![sculpture](imgs/arttherapy-04.png)
+
+Note:
+Sculpture is about letting shape emerge
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![mandala](imgs/arttherapy-05.png)
 
+Note:
+While painting is more like a sedimental process where meaning depsit in layers... one after the other...
+
+[Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... ]
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/arttherapy-movement.gif)
+
+Note:
+Or movement that let you embody a feeling and transform it over time.
+
+[Movement for example, it fluctuates over time... was this ability to transform things.... you enter into an activity with an emotion and thought dance you can move it, transform it into something else....]
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![sculpture](imgs/arttherapy-01.png)
+
+Note:
+This is usually done together with others. Is a very experiential, organic and intense process...
+We can trace this kind of activities to the pioneer work of Lygia Clark
 
 --
 
@@ -99,7 +127,8 @@ Note:
 Lygia Clark
 
 Note:
-Elder
+[Say something about her and her work]
+
 
 --
 
@@ -110,20 +139,49 @@ Elder
 ![](imgs/lygia-02.jpg)
 ![](imgs/lygia-03.jpg)
 
+Note:
+[Say something about her and her work]
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/processing.png)
+
+Note:
+Back to me discovering this community, I was move of the use of CODE as an expressive language.
+I email all the artist involve in it...
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/crissugrue.png)
+
+Note:
+Only Criss Sugrue email back... 
+
+I follow what she said. I got in touch w Diego Albert.
+How suggest me to apply to interactivos Telefónica.
+Which I also did.
+
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/interactivos.jpg)
 
+Note:
+Here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin Aras, Javier Bilatz, then Jorge Crowe, Guido Corallo, Leo Solas and Cris Reinaga.
+In that time I was working with a group of kids at the communal center of CALOS
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![calos](imgs/arttherapy-02.png)
+
+Note:
+In expressive art therapy, is very commont to start exploring independent movement, cross throught different languages and end up constructing together a collective drawing... as a way to build the group and make the experience more shareble.
+
+Thats way...
 
 --
 
@@ -131,7 +189,9 @@ Elder
 ![communitas](imgs/communitas.png)
 
 Note:
-ritual around device that produces interaction between people and not alienation; technology has too much gravity - way kids and adults were interacting -> led to efecto mariposa - sensitive; natural; reacts badly if you interact with it in an aggressive way
+...in Interactivos I work in a colective drawing installation. The idea was to make a ritual around device that produces interaction between people and not alienation.
+from that I learn that technology has too much gravity. Adults were interacting in polites ways, almost with fear to break it... While kids were to discharge all their energy and anxiety. 
+This exploration led to efecto mariposa
 
 --
 
@@ -139,16 +199,31 @@ ritual around device that produces interaction between people and not alienation
 ![](imgs/efectomariposa.png)
 
 Note:
-Efecto mariposa
+Where I want to make a more sensitive installation... where techonolgy was a little more hided and the interdace were more natural. Using in that time, the new kinect, I did a realtime symulation of the different spheres of an ecosystem, programmed in such a way that invites the user to interact with it but by doind that the ecosystem suffers...
+It reacts badly if you interact with it in an aggressive way... 
+Forcing the user to wait unitl the system enter in some sort of balance again.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/freud.jpg)
+![](imgs/freud.jpg) <!-- {_class="fragment"} -->
 ![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
 …back to psychology
+
+I mention I was a misfit
+**Buenos Aires**, together with Paris and Upper West Side, is one of the last places on the world where people do (and like) **Psychoanalyst**.
+
+So while everybody was on to this guy:
+[FREUD]
+
+I was on to this other guy.
+
+[JUNG]
+… his archenemy. Carl Gustave Jung.
+
+Like most **archenemies**, they use to be friends. Jung, was in fact his favorite disciple. Freud even name him his sucesor at the head of the International Psychoanalytical Association.
 
 --
 
@@ -156,7 +231,21 @@ Note:
 ![](imgs/redbook-00.jpg)
 
 Note:
-Jung's dream drawings 
+Like was fashionable at the begining of last century between pschiatrist. Jung had a dream diary, were he not only write but also made drawings of their dreams.
+We was very interested in the mythological content of dreams, dispite what Freud thought about the unconsius content. Jung thoghuth that their content were deeper than personal memories... all personal uncouncoius goes deeper into a collective source of unconcius material... 
+
+Material that conform commons mental structures... know as archetipes.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/archetypes.png)
+
+Note:
+This idea of a collective unconcious... also serve as an explanation for significan events that seams not be connected by simple cause and effect.
+Like dreaming about an event before happening... or been whitness of something that seams the "world" is trying to speak with you.
+
+We want to differenciate this concept from mere chance by using the word synchronicity.
 
 --
 
@@ -169,15 +258,10 @@ maybe some jung quotes?
 ![](imgs/10PRINT.png)
 
 Note:
-while we tend to work v hard to get a “pure” random in our code, Jung [something something] synchronicity
+It's hard to say CHANCE or RANDOM with out pointing to the work of Casey Reas...
+Casey in this book, and some of his talks, points to the complexity behind perfect computer random.
 
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
-
-Note:
-So I recode the famous 10 Print.
+For example in GLSL Shaders, a parallel programing language designed to run in the graphic card, there is not a native function for random.
 
 --
 
@@ -185,7 +269,22 @@ So I recode the famous 10 Print.
 <iframe data-src='graph.html'></iframe>
 
 Note:
-Shaders don't have random native function... this is how is constructed
+So to get it is necesary to construct it from a sine wave.
+Like this
+[LIVE CODE: fract(sin(x)*1000000.)]
+Note that is not very well distrubuted... 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
+Note:
+So if I want to use it for example in the emblematic 10 PRINT maze algorithm looks like this
+
+If I would like to take this that looks like CHANCE, and push it closer to the concept of Jung's synchronicity... I could construct random from a more simbolic source... like the wind direction. 
+
+Luckyly I have been working on a simple visualization of wind over time using Mapzen Map Engine... tangram.
 
 --
 
@@ -193,7 +292,7 @@ Shaders don't have random native function... this is how is constructed
 <iframe data-src="http://tangrams.github.io/WeatherOverTime/"></iframe>
 
 Note:
-Weather project
+Here I collect the data from all this wether stations... by featching each day the last 24hs of where data from the NOAA serverce... to work efficiently with the WebGL context of our engine, the data of all the samples of all the stations is collected into an image.
 
 --
 
@@ -201,7 +300,9 @@ Weather project
 ![](https://rawgit.com/tangrams/WeatherOverTime/gh-pages/data/data.png)
 
 Note:
-Storing data into this image.
+this image.
+Each colum is an hour and the rows is a weather station.
+Any way... we can re use this data about wind to construct simbolic chance.
 
 --
 
@@ -220,11 +321,10 @@ Jung might approve of a random created from real data, like wind speed, directio
 --
 
 <!-- .slide: data-background="#000000" -->
-back to collective unconscious 
+![](imgs/redbook-02.png)
 
 Note:
-Back to the collective unconcious
-reminder collective unconscious -> nightmares -> WWI
+Back to the collective unconcious... Jung was noticing that he was having recurrent vivid nightmares.
 
 --
 
@@ -232,12 +332,9 @@ reminder collective unconscious -> nightmares -> WWI
 ![](imgs/redbook-03.jpg)
 
 Note:
-floods
+To the point he was worried he was going pschisofrenic.
 
---
-
-<!-- .slide: data-background="#000000" -->
-…or [insert other common jung nightmare pic here]
+"I saw a terrible flood that covered all the northen and low-lying lands between the North Sea and the Alps. It reached from England up to Russia, and from the coast of the North Sea right up to theAlps. I saw yellow waves, swimming rubble and the death ofcountless thousands... Two weeks passed then the visions returned, still more violent than before and an inner voice spjoe: - Look at it, it is completely real, and it will come to pass. You cannot doubt this.- (Octover 1913)
 
 --
 
@@ -245,27 +342,51 @@ floods
 ![](imgs/redbook-01.png)
 
 Note:
-volcanos
+On July 31st, immediatly affter my lecture, I learned from the newspapers that war had broken out. Finally I understood. And when I disembarked in Holland on the next day, nobody was happier than I. Now I was sure that no schizoprenia was threatening me. I understood that my dreams and my visions came to me from the subsoil of the collective unconscius.(July 1914)"
+
+[maybe not read all... is kind of terrible that he was happy his theory was wright]
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-02.jpg)
 
+Note:
+In June 2011  (five years ago)...
+without any notice....
+and after 50 years of lying dormant a volcano at the south of Chile call Puyehue made eruption.
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-04.jpg)
+
+Note:
+This eruption ejected around one hundred million tons of ash, sand and pumice. 
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/puyehue-05.jpg)
 
+Note:
+View from the sky...
+
 --
 
 <!-- .slide: data-background="#161616" -->
-<iframe data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe>
+<!-- <iframe data-src='tangram.html?style=puyehue#6.81187/-37.148/-63.976'></iframe> -->
+<iframe data-src='tangram.html?style=puyehue#9.765/-40.6179/-72.0973'></iframe>
+
+Note:
+Wind, emboding chance again... move the volcanic plume handreds of kilometers a way.
+
+All the way to Buenos Aires, where I was living.
+In their way bring destruction, 
+cancelled airports during weeks,
+lack of products on the supermarket.
+
+Everybodys life was touch by chance that month...
 
 --
 
@@ -283,8 +404,13 @@ Note:
 <iframe src="https://player.vimeo.com/video/31940579" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-more efecto mariposa
-used ashes; community; interaction; learning how to build; learning the rules of the system?
+This happened while I was working in efecto mariposa.
+I used ashes for the installation.
+
+[community; interaction; learning how to build; learning the rules of the system? ]
+
+Not only made the work more singnificative for those that experience it, motivates me on working on the algortihms that simulates the different layers of an ecossytem to make it more complex... and less linear... more temperametan and sensitive to the interactions.
+Althought is made in openFrameworks, I had to learn how to code in GLSL shaders, in order to do the simulations in realtime.
 
 --
 
@@ -298,7 +424,7 @@ maybe more effect mariposa?
 ![](imgs/redbook-03.jpg)
 
 Note:
-…sea levels rising; already happening in places like bangladesh and [insert island countries that are disappearing]
+The visions of flood are also already happening in places like bangladesh and [insert island countries that are disappearing] where sea level rising is a reality
 
 --
 
@@ -306,9 +432,14 @@ Note:
 <iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 Note:
-talk about this. flood terrain map
+This is a visualization of sea level rising that I'm working on in Mapzen,
+Is constructed with our VectorTiles of OpenStreetMap data together with our new elevation raster tile.
 
-from here I’m going to stay technical for a while and talk about how I came to make this map, and that comes down to Mapzen and [insert other open data / open source here???] and shaders
+Is possible to construct a terrain with world coverage and see what areas are afected by the sea level rising.
+
+from here I’m going to stay technical for a while and talk about how I came to make this map, 
+and that comes down to Mapzen and the priviledge I have of working there, 
+not just because everything we do is totally in the open...
 
 --
 
@@ -318,7 +449,10 @@ from here I’m going to stay technical for a while and talk about how I came to
 ![](imgs/mapzen-team.gif)
 
 note:
-talk about the team that i get to work with every day
+but also I had the priviledge of working width a stellar line up the best professionals in the feald, doing what I love the most... shaders.
+
+So back to efecto mariposa... My first openSource contribution I think was ofxFX. 
+Where I grab all this layers of simulations I was doing with shaders.
 
 --
 
@@ -331,30 +465,39 @@ talk about the team that i get to work with every day
 ![](imgs/ofxFX-03.gif)
 
 Note:
-open sourcing the efecto mariposa shaders
+I break them into modules... and put them together into an openFrameworks addon.
 
 --
 
-![](imgs/20111210.png)
+![](imgs/ofxfx.png)
+
+Note:
+It got very popular and help others to incorporate shaders into their work.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/20120103.jpg)
+![](imgs/zach.jpg)
 
 Note:
-zach
+Also thank to it I meet zach
 
 --
 
 <!-- .slide: data-background="#161616" -->
 <iframe data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
+Note:
+And thanks to him, I apply to parsons, flight to NYC and meet my wife : )
+
 --
 
 <!-- .slide: data-background="#000000" -->
 <img src='imgs/clouds-00.gif' style='max-width: 50%;'> <img src='imgs/clouds-04.gif' style='max-width: 50%;'> 
 <img src='imgs/clouds-03.gif' style='max-width: 50%;'> <img src='imgs/clouds-02.gif' style='max-width: 50%;'> 
+
+Note:
+Thanks of been on NYC I got to contribute with CLOUDS doing several visual systems
 
 --
 
@@ -540,8 +683,8 @@ talk about interactivity
 
 --
 
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='edit.html?log=160519125734&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<!-- .slide: data-background="#OOOOOO" -->
+<iframe style='min-height: 800px;' data-src='edit.html?log=160528172431&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
 
 Note:
 shaders -> simple instructions -> haiku -> individual pixels -> harmony
@@ -580,7 +723,8 @@ as a practice of fragility
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Note:
 as a practice of fragility
@@ -605,7 +749,7 @@ that an internet search 6 and a half years ago would lead me here:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
+<iframe data-src='tangram.html?style=tilt-ikeda-orig#15/40.7076/-74.0146'></iframe>
 
 Note:
 
@@ -613,7 +757,7 @@ Note:
 
 
 <!-- .slide: data-background="#000000" -->
-<iframe style='min-height: 800px;' data-src='edit.html?log=160301005406&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe>
 
 
 Note:
