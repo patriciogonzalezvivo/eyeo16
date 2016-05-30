@@ -504,45 +504,74 @@ Thanks of been on NYC I got to contribute with CLOUDS doing several visual syste
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/Skyline02.png)
 
+Note:
+In 2014, for my thesis...
+I was working on a series of **projects about awareness and the tools we use to see the world around us**.
+This machine in particularly prints a large-scale horizon showing the transition between the city and the mountains.
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-00.png)
 
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/cb-view-depth-map.png)
+Note:
+To construct this continues horizon I was scrapping google street view data.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-01.png)
 
+Note:
+Finding ways to **stitch the panoramic** images together.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/cb-view-depth-map.png)
+
+Note:
+Then I found this **depth data in their API**
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-02.png)
+
+Note:
+Having z allows me to add up point clouds.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-03.png)
 
+Note:
+The results were for me like inventing **photography** again.
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-04.png)
+
+Note:
+I have to choose a location, put my camera in focus, and then **wait for the calls to come back with points of light**.
 
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-05.png)
 
+Note:
+**This public spaces emerge slowly from the deepness of this private databases**.
+
 --
 
 <!-- .slide: data-background="#000000" -->
 ![](imgs/Skyline02-06.png)
+
+Note:
+I work with the style until I felt the result were more honest about the nature of the process.
 
 --
 
@@ -551,45 +580,80 @@ Thanks of been on NYC I got to contribute with CLOUDS doing several visual syste
 
 --
 
-<!-- .slide: data-background="#000000" -->
-![](imgs/Skyline02-08.png)
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
---
+Note:
+I try to prepare some point clouds for this talk. Only to find out that the API change.
 
-<!-- .slide: data-background="#000000" -->
-![](imgs/Skyline02-09.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/Skyline02-10.png)
-
---
-
-<!-- .slide: data-background="#000000" -->
-![](imgs/Skyline02-11.png)
+[note that google api doesn’t have this depth info anymore; limited edition; fragility of working with proprietary tools]
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1400px; position: absolute; top: 0px; right: 0px;' data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
+![](imgs/Skyline02-08.png)
 
 Note:
-note that google api doesn’t have this depth info anymore; limited edition; fragility of working with proprietary tools
+This images, becomes limited editions. 
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/Skyline02-09.png)
+
+Note:
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/Skyline02-10.png)
+
+Note:
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/Skyline02-11.png)
+
+Note:
+There is an intrinsic fragility of working with proprietary tools
 
 --
 
 <!-- .slide: data-background="#1D1D1D" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
+<iframe data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
 
 Note:
-mapzen -> open source ->
+At mapzen we work with open standars... using community mantain data... like openStreetMap data...
+Everything we do is open source
 
 --
+
+<img src='imgs/labels05.gif' style='width: 40%;'> <img src='imgs/labels03.gif' style='width: 50%;'>
+
+[Experiments on **3D Labels** (C++)](https://vimeo.com/107190391)
+
+Note:
+Our experiments are done in the open 
+
+--
+
+<img src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
+
+[Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
+
+Note:
+to empower others... 
+
+--
+
 
 <img src='imgs/press.png' style='width: 45%;'> <img src='imgs/patterns.png' style='width: 45%;'>
 
 <img src='imgs/crosshatch.png' style='width: 45%;'> <img src='imgs/pericoli.png' style='width: 45%;'>
+
+Note:
+Pushing the limits
 
 --
 
@@ -599,6 +663,9 @@ mapzen -> open source ->
 
 <img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-matrix.gif' style='width: 45%'>
 
+Note:
+Of what can be done with maps
+
 --
 
 <!-- .slide: data-background="#020303" -->
@@ -607,18 +674,9 @@ mapzen -> open source ->
 
 <img src='imgs/lineofsight-03.gif' style='width: 30%;'> <img src='imgs/lineofsight-04.gif' style='width: 30%;'> <img src='imgs/lineofsight-06.gif' style='width: 30%;'>
 
---
-
-<!-- .slide: data-background="#020303" -->
-<iframe class='fit' width="100%" height="100%" style='min-height: 1000px;' data-src="http://patriciogonzalezvivo.github.io/LineOfSight/"></iframe>
-
---
-
-<!-- .slide: data-background="#020303" -->
-other people’s maps w mapzen tools
-
 Note:
-open source is +++; builds community; 
+And with open data
+Our goal is to provide tools to others. 
 
 --
 
@@ -627,6 +685,21 @@ open source is +++; builds community;
 ![](imgs/weili.gif)
 
 **Weili** Shi (@shiweili)
+
+Note:
+[open source is +++; builds community;]
+OpenSource helps builds community.
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/TylerGreen.jpg)
+![](imgs/tyler.jpg)
+
+**Tyler** Green (@greent_tyler)
+
+Note:
+[Community ....]
 
 --
 
@@ -642,35 +715,72 @@ how much of this community exists because of processing and this book?
 ![](imgs/TBoS-00.png)
 
 Note:
-openness and community as a defense against fragility
+[openness and community as a defense against fragility]
+
+This relationship between Openness and community...
+is a solution to fragility.
+
+That's why together with Jen, we wrote The Book of Shaders...
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/TBoS-01.png)
 
+Note:
+So people don't need to replicate my hard and esoteric process of self-teach your shaders.
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 other people’s rad shaders they made after reading the book, part I
+
+Note:
+
+https://twitter.com/genarthackparty/status/711000906632994816
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 other people’s rad shaders they made after reading the book, part II
 
+Note:
+
+
+https://twitter.com/wxswxs/status/708091280337797120
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
 other people’s rad shaders they made after reading the book, part III
 
+Note:
+
+https://twitter.com/jfire/status/698692411048919040
+
+Or like Joseph Fiola work
+http://twitter.com/vjzef
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 1000px;' data-src='tangram.html?style=collaborators#3/20/10'></iframe>
+<iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
 
 Note:
-talk about the translations
+Also there is ppl using the editor in their daily bases
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='tangram.html?style=collaborators#3/20/10'></iframe>
+
+Note:
+This are some of the people that have join this project collaborating donating time and effort helping others to learn.
+
+I just so **thanksful** to them.
+They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
+
+Also talking to them is bringing new voices. I have this feeling that **the project start having a life in it's own**.
 
 --
 
@@ -678,16 +788,45 @@ talk about the translations
 <iframe data-src='http://thebookofshaders.com/06'></iframe>
 
 Note:
-live coding in the book
-talk about interactivity
+[live coding in the book; talk about interactivity]
+
+So together with the crafting of good metaphors that helps to explain concept. I found my self developing tools around the book. An ecosystem of apps that allows student to live code... helps them understand by tweaking and changing. Also tools that help them store, share and show their work.
+
+The live coding editor, was crucial. Let's people have a tangible experience of what they are doing.
+
+Also the fact that can be embebed was very important. Reducing the distance between the reading of a concept and the trying of it in code. 
+
+The helpers to tweak and change variables was very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
+
+I have a close relationship with this tools, not only because I made it, but also because I use a stand alone instance of it, in my regular bases.
 
 --
 
 <!-- .slide: data-background="#OOOOOO" -->
-<iframe style='min-height: 800px;' data-src='edit.html?log=160528172431&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
+<iframe data-src='edit.html?log=160528172431&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
 
 Note:
-shaders -> simple instructions -> haiku -> individual pixels -> harmony
+[shaders -> simple instructions -> haiku -> individual pixels -> harmony]
+
+I love shaders because the constrains and the simplicity.
+
+- There are no libraries
+- just mathematical functions
+- There input is images... and the output is images...
+
+Is just code from the perspective of the pixels... the individual elements that compose an image.
+
+In lot of way they are similar to haikus.  all you have to do is describe in few sentences an image.
+
+This forces me to think algorithms from the perspective of the pixels... the atoms... the minimal components.
+
+--
+
+<!-- .slide: data-background="#OOOOOO" -->
+![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
+
+Note:
+Since I have been writing shaders for openFrame, also I found a challenge on producing with them armony.
 
 --
 
