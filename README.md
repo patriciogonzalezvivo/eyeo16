@@ -1,10 +1,16 @@
+<!-- .slide: data-background="#000000" -->
+
+--
 
 <!-- .slide: data-background="#000000" -->
+
 # What are the chances?
 
 ** Patricio Gonzalez Vivo **
 
 *patricio.io* | *@patriciogv*
+
+<iframe class="background" src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0#t=18" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <!-- ![](imgs/Title.png) -->
 
@@ -17,13 +23,6 @@ Hello my name is Patricio Gonzalez Vivo.
 It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today.
 **video autoplay at 00:24; no sound**
 I thought I'd start by showing my most embarrassing video on the internet, and getting it out of the way.
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Note:
 
 --
 
@@ -267,7 +266,7 @@ For example in GLSL Shaders, a parallel programing language designed to run in t
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-<iframe data-src='graph.html'></iframe>
+<iframe data-src='graph.html' ></iframe>
 
 Note:
 So to get it is necesary to construct it from a sine wave.
@@ -742,26 +741,56 @@ So people don't need to replicate my difficult and esoteric process of teach-you
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part I
+<iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
 
 Note:
+ppl are using the editor everyday
 
-https://twitter.com/genarthackparty/status/711000906632994816
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part II
+<iframe data-src='http://player.thebookofshaders.com/?log=160521110641'></iframe>
 
 Note:
-
-
-https://twitter.com/wxswxs/status/708091280337797120
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part III
+<iframe data-src='http://player.thebookofshaders.com/?log=160520155224'></iframe>
+
+Note:
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='http://player.thebookofshaders.com/?log=160503150353'></iframe>
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='http://player.thebookofshaders.com/?log=160422145437'></iframe>
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe class='background' src="https://player.vimeo.com/video/144096450" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Nitcha Tothong (@hellofamefamous)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='https://www.interactiveshaderformat.com/u/VJZEF'></iframe>
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src='http://player.thebookofshaders.com/?log=160531184625'></iframe>
+
+--
+
+https://vimeo.com/144096450
 
 Note:
 
@@ -769,14 +798,6 @@ https://twitter.com/jfire/status/698692411048919040
 
 Or like Joseph Fiola work
 http://twitter.com/vjzef
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-<iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
-
-Note:
-ppl are using the editor everyday
 
 --
 

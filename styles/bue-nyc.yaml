@@ -7,6 +7,7 @@ import:
     - puyehue.yaml
     - https://tangrams.github.io/blocks/geometry/projections.yaml
     - https://tangrams.github.io/blocks/points/shape.yaml
+    - https://tangrams.github.io/blocks/generative/random.yaml
 
 sources:
     places: 
@@ -17,19 +18,19 @@ lights:
     dir:
         type: directional
         diffuse: .3
-        ambient: .1
+        ambient: .0
     point:
         type: point
         position: [0,0, 10px]
         diffuse: 5.
+        ambient: .0
 layers:
     bue-nyc:
         data: { source: places }
         draw:
             flight:
-                color: [0.991, 0.786, 1.000]
-                # width: [ [0, 4px], [20, 200]]
-                width: 10px
+                color: white
+                width: [ [0, 10px], [20, 50px]]
                 order: 1000
     places:
         data: { source: places }
@@ -56,8 +57,8 @@ styles:
                 color: |
                     vec2 A = vec2(-58.450925, -34.642733);
                     vec2 B = vec2(-73.96625, 40.78343);
-                    float pct = fract(u_time*0.1);
-                    vec2 plane_pos = mix(A,B,pct);
+                    float pct = sin(fract(u_time*.5)*3.1415*.5);
+                    vec2 plane_pos = mix(A,B,pct*pct);
                
     flight:
         base: lines
@@ -65,7 +66,8 @@ styles:
         blend: overlay
         animated: true
         texcoords: true
-        mix: [plane]
+        mix: [plane, generative-random]
+
         shaders:
             blocks:
                 global: |
@@ -84,10 +86,19 @@ styles:
                     
                     vec2 st = vec2(v_texcoord.x,dot(uv,uv)*2.);
                     
+                    float t = u_time*0.005;
+                    vec2 ipos = floor(v_texcoord*vec2(5.,10.));
+ 
+                   
+                    float rnd = mix(random(ipos+vec2(0.,t)),
+                                    random(ipos+vec2(0.,t+1.)),
+                                    smoothstep(0.,1., fract(t)) );
+                    
                     color.rgb = mix(vec3(1.),
                                     hsb2rgb(vec3(-0.068+st.x*0.956,1.,1.)),
                                     step(.00005,st.y));
-                    color.a *= step(0.,-uv.y);              
+                    color.rgb *= .5+rnd*0.5;
+                    color.a *= step(0.,-uv.y)*cos(st.y*3.1415);    
     points-shape:
         shaders:
             defines:
