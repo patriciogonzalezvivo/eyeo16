@@ -749,48 +749,42 @@ ppl are using the editor everyday
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 <iframe data-src='http://player.thebookofshaders.com/?log=160521110641'></iframe>
 
 Note:
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 <iframe data-src='http://player.thebookofshaders.com/?log=160520155224'></iframe>
 
 Note:
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160503150353'></iframe>
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 <iframe data-src='http://player.thebookofshaders.com/?log=160422145437'></iframe>
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 <iframe class='background' src="https://player.vimeo.com/video/144096450" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Nitcha Tothong (@hellofamefamous)
+**Nitcha** Tothong (@hellofamefamous)
+
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-<iframe data-src='https://www.interactiveshaderformat.com/u/VJZEF'></iframe>
+<!-- .slide: data-background="#000000" -->
+**Udit** Mahajan (@mahajan_udit)
+
+<iframe class='background' src="https://player.vimeo.com/video/149247683" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-background="#000000" -->
 <iframe data-src='http://player.thebookofshaders.com/?log=160531184625'></iframe>
-
---
-
-https://vimeo.com/144096450
 
 Note:
 
