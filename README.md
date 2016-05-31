@@ -1,17 +1,22 @@
 
 <!-- .slide: data-background="#000000" -->
-<!-- # What are the chances?
+# What are the chances?
 
 ** Patricio Gonzalez Vivo **
 
-*patricio.io* | *@patriciogv* -->
+*patricio.io* | *@patriciogv*
 
-![](imgs/Title.png)
+<!-- ![](imgs/Title.png) -->
 
 Note:
+**Lygia Clark**
+**comunitas -> efecto mariposa**
+
+**first slide should either autoplay video OR have a background that's hotshit and recognizeable as your work**
 Hello my name is Patricio Gonzalez Vivo.
-It's an honor to be here. I want to **thanks the organizer for the invitation and to Jen Lowe** for helping me put together this presentation.
-I want to start by breaking the ice by showing something embarazing.
+It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today.
+**video autoplay at 00:24; no sound**
+I thought I'd start by showing my most embarrassing video on the internet, and getting it out of the way.
 
 --
 
@@ -19,8 +24,6 @@ I want to start by breaking the ice by showing something embarazing.
 <iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-[Wait until finish]
-This is from 2011, a couple of months after the kinect came up... I was doing silly experiments like this.
 
 --
 
@@ -28,7 +31,7 @@ This is from 2011, a couple of months after the kinect came up... I was doing si
 <iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-I'm a **developer currently based on NY working on mapzen** building a 3D Map engine and experimenting with maps & shaders.
+I'm a **developer currently based in NY working at mapzen** building a 3D Map engine and experimenting with maps & shaders.
 But **7 year ago I was a psychologist and expressive art therapist in Buenos Aires**.
 I'm going to **talk about the synchronicities that led me here**.
 
@@ -41,9 +44,8 @@ I'm going to **talk about the synchronicities that led me here**.
 ![](imgs/arteparasanarte.gif)
 
 Note:
-So at the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my bussines. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I build it in Flash, and thanks to The Wayback Machine, I could recovery in GIF form : )
-This is the second of MANY embarrassing things I’m going to show you, but it’s appropriate because this talk is going to be something of a spiral 
-While I was building my site, I **needed to figure out how to work with XML files**...
+At the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
+This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because this talk is going to be something of a spiral. 
 
 --
 
@@ -51,6 +53,7 @@ While I was building my site, I **needed to figure out how to work with XML file
 ![](imgs/processingXML.png)
 
 Note:
+While I was building my website, I **needed to figure out how to work with XML files**...
 ...so I searched for “processing XML,” and in the first of many synchronicities, I ended up here...
 
 --
@@ -59,10 +62,11 @@ Note:
 ![](imgs/processing.png)
 
 Note:
+**zoom this slide**
 … to a webpage that I’m sure is familiar to a lot of us :)
 
-and it **took me a while to understand what was going on here…** 
-that this was a **community of people making ART with CODE**. I felt like I’d tapped into a **world of misfits like me**; I wanted to use these tools for expressive arts therapy…
+and it **took me a while to understand what was going on on this page...** 
+that this was a **community of people making ART with CODE**. I felt like I’d tapped into a **world of misfits like me**, and I wanted to use these tools for expressive art therapy…
 
 --
 
@@ -70,9 +74,13 @@ that this was a **community of people making ART with CODE**. I felt like I’d 
 ![Art therapy in general](imgs/arttherapy-00.png)
 
 Note:
-…so let’s spiral back to arts therapy for a minute.
+…so let’s spiral back to art therapy for a minute.
 
-The expressive art therapy approach use jumps between different artistic languages like music, painting, sculpture, dance, etc... to amplify discover, amplify and transfor mining in the body. Feels preaty much like been in a constant state of play... but this non verbal languages allows you to go very deep.
+The expressive art therapy approach flows between different artistic languages like music, painting, sculpture, and dance... to discover, amplify, and transform emotions and processes in the body. 
+
+It feels like being in a state of play... but these non verbal languages allow you to dive very deep.
+
+Each different language gives you the ability to express your interior landscape in a different way. 
 
 --
 
@@ -80,7 +88,7 @@ The expressive art therapy approach use jumps between different artistic languag
 ![sculpture](imgs/arttherapy-03.png)
 
 Note:
-Each different language have the ability to think and said things in different ways. 
+Sculpture is about letting shape emerge...
 
 --
 
@@ -88,17 +96,7 @@ Each different language have the ability to think and said things in different w
 ![sculpture](imgs/arttherapy-04.png)
 
 Note:
-Sculpture is about letting shape emerge
-
---
-
-<!-- .slide: data-background="#000000" -->
-![mandala](imgs/arttherapy-05.png)
-
-Note:
-While painting is more like a sedimental process where meaning depsit in layers... one after the other...
-
-[Painting is more like a sedimental process... you bring something and you put it on paper... then you add more and more stuff... ]
+While painting is more like a sedimental process where meaning deposits in layers... one after another...
 
 --
 
@@ -106,9 +104,7 @@ While painting is more like a sedimental process where meaning depsit in layers.
 ![](imgs/arttherapy-movement.gif)
 
 Note:
-Or movement that let you embody a feeling and transform it over time.
-
-[Movement for example, it fluctuates over time... was this ability to transform things.... you enter into an activity with an emotion and thought dance you can move it, transform it into something else....]
+Or movement which lets you embody a feeling and transform it over time.
 
 --
 
@@ -116,8 +112,15 @@ Or movement that let you embody a feeling and transform it over time.
 ![sculpture](imgs/arttherapy-01.png)
 
 Note:
-This is usually done together with others. Is a very experiential, organic and intense process...
-We can trace this kind of activities to the pioneer work of Lygia Clark
+Expressive art therapy is usually done together with others. It is a very experiential, organic and intense process...
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![mandala](imgs/arttherapy-05.png)
+
+Note:
+often we end up constructing a collective mandala... as a way to tie the individual experience to the group.
 
 --
 
@@ -127,6 +130,7 @@ We can trace this kind of activities to the pioneer work of Lygia Clark
 Lygia Clark
 
 Note:
+We can trace this kind of activities to the pioneer work of Lygia Clark
 [Say something about her and her work]
 
 
@@ -148,8 +152,8 @@ Note:
 ![](imgs/processing.png)
 
 Note:
-Back to me discovering this community, I was move of the use of CODE as an expressive language.
-I email all the artist involve in it...
+**zoom this slide**
+Because I was already working with all of these expressive languages, when I discovered the Processing community, I was moved by the use of CODE as an expressive language.
 
 --
 
@@ -157,12 +161,14 @@ I email all the artist involve in it...
 ![](imgs/crissugrue.png)
 
 Note:
-Only Criss Sugrue email back... 
+**zoom to just the text**
+I emailed all the artists I could find who were working in new media, asking them if they knew anyone working in Argentina...
 
-I follow what she said. I got in touch w Diego Albert.
-How suggest me to apply to interactivos Telefónica.
-Which I also did.
+And Chris Sugrue **spelling** emailed back, introducing me to Diego Alberti... 
 
+I got in touch w Diego, and he suggested that I should apply to interactivos Telefónica. 
+
+(At the time, Telefónica was the Eyebeam of Buenos Aires.)
 
 --
 
@@ -170,8 +176,7 @@ Which I also did.
 ![](imgs/interactivos.jpg)
 
 Note:
-Here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin Aras, Javier Bilatz, then Jorge Crowe, Guido Corallo, Leo Solas and Cris Reinaga.
-In that time I was working with a group of kids at the communal center of CALOS
+I applied, and here we are in interactivos 2010. I made great friends there, like Tomas Rawski, Joaquin Aras, Javier Bilatz, then Jorge Crowe, Guido Corallo, Leo Solas and Cris Reinaga.
 
 --
 
@@ -179,9 +184,7 @@ In that time I was working with a group of kids at the communal center of CALOS
 ![calos](imgs/arttherapy-02.png)
 
 Note:
-In expressive art therapy, is very commont to start exploring independent movement, cross throught different languages and end up constructing together a collective drawing... as a way to build the group and make the experience more shareble.
-
-Thats way...
+At that time I was also working as an art therapist with a group of kids at the CALOS community center, and that really influenced the project I made at Interactivos...
 
 --
 
@@ -189,9 +192,9 @@ Thats way...
 ![communitas](imgs/communitas.png)
 
 Note:
-...in Interactivos I work in a colective drawing installation. The idea was to make a ritual around device that produces interaction between people and not alienation.
-from that I learn that technology has too much gravity. Adults were interacting in polites ways, almost with fear to break it... While kids were to discharge all their energy and anxiety. 
-This exploration led to efecto mariposa
+...with the kids in mind, at Interactivos I worked on a collective drawing installation. I made a device to try to promote interaction between people instead of alienation.
+
+**from that I learn that technology has too much gravity. Adults were interacting in polites ways, almost with fear to break it... While kids were to discharge all their energy and anxiety. This exploration led to efecto mariposa**
 
 --
 
@@ -199,9 +202,7 @@ This exploration led to efecto mariposa
 ![](imgs/efectomariposa.png)
 
 Note:
-Where I want to make a more sensitive installation... where techonolgy was a little more hided and the interdace were more natural. Using in that time, the new kinect, I did a realtime symulation of the different spheres of an ecosystem, programmed in such a way that invites the user to interact with it but by doind that the ecosystem suffers...
-It reacts badly if you interact with it in an aggressive way... 
-Forcing the user to wait unitl the system enter in some sort of balance again.
+**Where I want to make a more sensitive installation... where techonolgy was a little more hided and the interdace were more natural. Using in that time, the new kinect, I did a realtime symulation of the different spheres of an ecosystem, programmed in such a way that invites the user to interact with it but by doind that the ecosystem suffers... It reacts badly if you interact with it in an aggressive way... Forcing the user to wait unitl the system enter in some sort of balance again. Forced a gentle experimentation with the system**
 
 --
 
@@ -210,7 +211,7 @@ Forcing the user to wait unitl the system enter in some sort of balance again.
 ![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
-…back to psychology
+…spiraling back to psychology
 
 I mention I was a misfit
 **Buenos Aires**, together with Paris and Upper West Side, is one of the last places on the world where people do (and like) **Psychoanalyst**.
@@ -388,6 +389,8 @@ lack of products on the supermarket.
 
 Everybodys life was touch by chance that month...
 
+WHAT ARE THE CHANCES???
+
 --
 
 <!-- .slide: data-background="#000000" -->
@@ -432,10 +435,15 @@ The visions of flood are also already happening in places like bangladesh and [i
 <iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 Note:
+**start zoomed out more - rotate to be classic jesus view**
 This is a visualization of sea level rising that I'm working on in Mapzen,
 Is constructed with our VectorTiles of OpenStreetMap data together with our new elevation raster tile.
 
 Is possible to construct a terrain with world coverage and see what areas are afected by the sea level rising.
+
+**mention lack of OSM data - add slide of jesus view then go back to the rio map**
+
+**nyc flood map**
 
 from here I’m going to stay technical for a while and talk about how I came to make this map, 
 and that comes down to Mapzen and the priviledge I have of working there, 
@@ -449,7 +457,7 @@ not just because everything we do is totally in the open...
 ![](imgs/mapzen-team.gif)
 
 note:
-but also I had the priviledge of working width a stellar line up the best professionals in the feald, doing what I love the most... shaders.
+but also I had the priviledge of working width a stellar line up of some of the best professionals in the feald, doing what I love the most... shaders.
 
 So back to efecto mariposa... My first openSource contribution I think was ofxFX. 
 Where I grab all this layers of simulations I was doing with shaders.
@@ -715,6 +723,7 @@ how much of this community exists because of processing and this book?
 ![](imgs/TBoS-00.png)
 
 Note:
+**edit BoS to include Jen as author and re-screen capture for this slide**
 [openness and community as a defense against fragility]
 
 This relationship between Openness and community...
@@ -728,7 +737,7 @@ That's why together with Jen, we wrote The Book of Shaders...
 ![](imgs/TBoS-01.png)
 
 Note:
-So people don't need to replicate my hard and esoteric process of self-teach your shaders.
+So people don't need to replicate my difficult and esoteric process of teach-yourself-shaders.
 
 --
 
@@ -767,7 +776,7 @@ http://twitter.com/vjzef
 <iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
 
 Note:
-Also there is ppl using the editor in their daily bases
+ppl are using the editor everyday
 
 --
 
@@ -775,6 +784,7 @@ Also there is ppl using the editor in their daily bases
 <iframe data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
+**change the stroke color to something bright and add jitter to the locations so all the people display**
 This are some of the people that have join this project collaborating donating time and effort helping others to learn.
 
 I just so **thanksful** to them.
@@ -790,13 +800,11 @@ Also talking to them is bringing new voices. I have this feeling that **the proj
 Note:
 [live coding in the book; talk about interactivity]
 
-So together with the crafting of good metaphors that helps to explain concept. I found my self developing tools around the book. An ecosystem of apps that allows student to live code... helps them understand by tweaking and changing. Also tools that help them store, share and show their work.
+So together with the crafting the didactic metaphors. I found my self developing tools around the book.
 
-The live coding editor, was crucial. Let's people have a tangible experience of what they are doing.
+The embebed live coding editor, was crucial. Shorts the distance from the reading of a concept to the trying it on code.
 
-Also the fact that can be embebed was very important. Reducing the distance between the reading of a concept and the trying of it in code. 
-
-The helpers to tweak and change variables was very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
+Also the little helpers to tweak and change variables was very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
 
 I have a close relationship with this tools, not only because I made it, but also because I use a stand alone instance of it, in my regular bases.
 
@@ -882,6 +890,7 @@ think about fragility; finding hope in openness, in open source, in communities
 <iframe style='min-height: 800px;' data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
+**make this a mandala shader**
 that simple instructions can create harmony from individual pixels, 
 that an internet search 6 and a half years ago would lead me here:
 
@@ -900,13 +909,8 @@ Note:
 
 
 Note:
+**make these mandalas circular and move a touch faster**
 that that move, plus some other synchronicities, would lead me here
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
-
 
 --
 
@@ -919,10 +923,17 @@ baby pic
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
 
 Note:
 and that working in public would lead me here today. 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
+Note:
+**this slide isn't necessary now**
 
 --
 
