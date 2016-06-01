@@ -13,7 +13,7 @@ It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to sh
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class="background" data-src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0#t=18" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="background" data-src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0#t=19" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
 **video autoplay at 00:24; no sound**
@@ -209,7 +209,7 @@ I wanted to make a more sensitive installation, where techonology was hidden ben
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/efectomariposa.gif)
+<img src="imgs/efectomariposa.gif" height="800px">
 
 Note:
 The kinect was new back in those days, and I did a realtime simulation of the different spheres of an ecosystem, 
@@ -217,16 +217,17 @@ The kinect was new back in those days, and I did a realtime simulation of the di
 --
 
 <!-- .slide: data-background="#000000" -->
+
 <video width="1920" controls>
-  <source data-src="video/IMG_1133.mp4" type="video/mp4">
+  <source src="videos/out.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 
 Note:
 **add slides of pics of people and hands playing with the system**
 
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... **Then they had to wait until the system regained balance to interact with it again.** 
-
 This forced a gentle experimentation with the system
 
 --
@@ -382,7 +383,7 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src="https://player.vimeo.com/video/31940579" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/31940579#t=80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
 This eruption happened while I was working in efecto mariposa.
@@ -764,7 +765,7 @@ I have a close relationship with this tools, not only because I made it, but als
 
 --
 
-<!-- .slide: data-background="#OOOOOO" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
@@ -773,14 +774,14 @@ Lately I've been writing shaders for an openFrame I made from a raspberryPi and 
 
 --
 
-<!-- .slide: data-background="#OOOOOO" -->
-** add back in the pic of the screens in the basement ***
+<!-- .slide: data-background="#000000" -->
+![](imgs/20160517_214941.jpg)
 
 Note:
 
 --
 
-<!-- .slide: data-background="#OOOOOO" -->
+<!-- .slide: data-background="#000000" -->
 ![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
@@ -797,9 +798,9 @@ I've been enjoying the challenge of making shaders harmonious enough to live in 
 ![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
 Note:
-**mandalas something something all cultures**
+He made this diagram of the psychic structure. Note how for him deliberated looks like a mandala.
 
-mandala joke :)
+The term mandalas can be use loosely to any symbolic circular forms that speaks refers to “the hole”. We can find them on all mayor religions.
 
 --
 
