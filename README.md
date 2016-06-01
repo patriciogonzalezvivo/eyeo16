@@ -38,7 +38,7 @@ I'm going to talk about the synchronicities that led me here.
 --
 
 
-<!-- .slide: data-background="#91AC99" -->
+<!-- .slide: data-background="#8CA28C" -->
 <!-- <iframe data-src='https://web.archive.org/web/20100620130219/http://www.arteparasanarte.com.ar/'></iframe> -->
 
 ![](imgs/arteparasanarte.gif)
@@ -904,8 +904,10 @@ Visions of flooding are already happening in worldwide, and scientists have pred
 
 --
 
+Rio de Janeiro
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
+
+<iframe class='background'  data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 Note:
 **start zoomed out more - rotate to be classic jesus view**
@@ -918,9 +920,30 @@ And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise e
 
 **mention lack of OSM data - add slide of jesus view then go back to the rio map**
 
+--
+
+Barcelona
+<!-- .slide: data-background="#000000" -->
+<iframe class='background'  data-src='tangram.html?/tangram.html?style=emerge#14.19854/41.3833/2.1655'></iframe>
+
+Note:
 **nyc flood map**
 
 **can you make a bangladesh flood map like this one from the nytimes? http://www.nytimes.com/2014/03/29/world/asia/facing-rising-seas-bangladesh-confronts-the-consequences-of-climate-change.html**
+
+--
+
+San Francisco
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='background'  data-src='tangram.html?style=emerge#14.85229/37.7958/-122.3980'></iframe>
+
+--
+
+New York
+
+<!-- .slide: data-background="#000000" -->
+<iframe class='background'  data-src='?style=emerge#15.42646/40.7055/-74.0116'></iframe>
 
 --
 

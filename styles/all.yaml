@@ -1,0 +1,127 @@
+# author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
+# 
+#   Collaborators of The Book of shaders by may 2016
+#
+
+import:
+    - bue-nyc.yaml
+    
+sources:
+    collab: 
+        type: GeoJSON
+        url: ../data/collaborators.json
+    helpers: 
+        type: GeoJSON
+        url: ../data/helpers.json
+        
+textures:
+    collab:
+        url: ../data/collaborators.png
+    helpers:
+        url: ../data/helpers.png
+
+lights:
+    dir:
+        type: directional
+        direction: [0.489,0.786,-0.379]
+        diffuse: .9
+        ambient: .5
+
+layers:
+    collaborators:
+        data: { source: collab }
+        draw:
+            avatars:
+                size: [[0,30px], [6,70px], [10,100px]]
+                collide: false
+                color: |
+                    function() {
+                        return [ feature.col/255 , feature.row/255, 0 ]; 
+                    }
+    helpers:
+        data: { source: helpers }
+        draw:
+            helpers:
+                size: [[0,30px], [6,70px], [10,100px]]
+                collide: false
+                color: |
+                    function() {
+                        return [ feature.col/255 , feature.row/255, 0 ]; 
+                    }
+                        
+styles:
+    avatars:
+        base: points
+        mix: [functions-aastep]
+        texcoords: true
+        animated: true
+        shaders:
+            defines:
+                COLS: 8
+                ROWS: 5
+                TWO_PI: 6.2831853071795864769252867665590
+                HALF_PI: 1.57079632679
+                TILT_IN: 7.
+                TILT_OUT: 11.
+                TILT_MAX_ZOOM: 13.
+            uniforms:
+                u_sprite: collab
+            blocks:
+                global: |
+                    vec2 getOffset (vec3 color) {
+                        vec2 st = v_texcoord.xy;
+                        vec2 uv = 1./vec2(COLS,ROWS);
+                        uv.x *= color.r*255.;
+                        uv.y *= ROWS-(color.g*255.)-1.;
+                        return uv + st/vec2(COLS,ROWS);
+                    }
+                    
+                    vec3 sphereNormals(in vec2 uv) {
+                        uv = fract(uv)*2.0-1.0; 
+                        vec3 ret;
+                        ret.xy = sqrt(uv * uv) * sign(uv);
+                        ret.z = sqrt(abs(1.0 - dot(ret.xy,ret.xy)));
+                        ret = ret * 0.5 + 0.5;    
+                        return mix(vec3(0.0), ret, smoothstep(1.0,0.98,dot(uv,uv)) );
+                    }
+
+                    float random (vec3 p) { return fract(sin(dot(p.xyz, vec3(70.9898,78.233,32.4355)))* 43758.5453123); }
+
+                color: |
+                    vec2 st = v_texcoord.xy;
+                    
+                    vec2 offset = 1./vec2(COLS,ROWS);
+                    offset.x *= color.r*255.;
+                    offset.y *= ROWS-(color.g*255.)-1.;
+                    
+                    vec2 i_pos = floor(offset*vec2(COLS,ROWS));
+                    
+                    float t = u_time*0.25;
+                    float pct = mix(random(vec3(i_pos, floor(t))), 
+                                    random(vec3(i_pos, floor(t+1.))),
+                                    smoothstep(0., 1., fract(t)));
+                    t += pct*TWO_PI;
+              
+                    st -= .5;
+                    float df = dot(st,st);
+                    st += .5;
+                    
+                    vec3 normal = sphereNormals(st);
+                    vec3 dir = vec3(cos(t-HALF_PI),0.0,sin(t-HALF_PI));
+                    
+                    float z = clamp(smoothstep(TILT_IN/TILT_MAX_ZOOM, TILT_OUT/TILT_MAX_ZOOM, max(u_map_position.z/TILT_MAX_ZOOM,0.)*0.9), 0., 1.);
+                    color = texture2D(u_sprite, offset+st/vec2(COLS,ROWS));
+                    color.a = mix( aastep(.2,(dot(normal, dir)*.5)+.5 ), 1., z);
+                    color.a *= 1.-aastep(0.192, df);
+                    color = mix(color,
+                                vec4(vec3(0.520,1.000,0.749),1.),
+                                (aastep(0.2,df)-aastep(0.25,df)));
+    helpers:
+        mix: avatars
+        shaders:
+            defines:
+                COLS: 2
+                ROWS: 1
+            uniforms:
+                u_sprite: helpers
+                                
