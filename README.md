@@ -289,8 +289,6 @@ For example in GLSL Shaders, a parallel programing language designed to run in t
 --
 
 <!-- .slide: data-background="#000000" -->
-**insert 10 print here if there's time**
-
 <iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
@@ -305,8 +303,6 @@ Luckyly I have been working on a simple visualization of wind over time using Ma
 --
 
 <!-- .slide: data-background="#000000" -->
-**insert Jungian 10 print here if there's time**
-
 <canvas class='sandbox' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
 
 <canvas class='sandbox' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
@@ -655,7 +651,7 @@ I have the privilege of working with a stellar line up of some of the best profe
 
 --
 
-<img src='imgs/labels05.gif' style='width: 40%;'> <img src='imgs/labels03.gif' style='width: 50%;'>
+<img data-src='imgs/labels05.gif' style='width: 40%;'> <img data-src='imgs/labels03.gif' style='width: 50%;'>
 
 [Experiments with **3D Labels** (C++)](https://vimeo.com/107190391)
 
@@ -664,7 +660,7 @@ Our experiments are done in the open
 
 --
 
-<img src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
+<img data-src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img data-src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
 
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
 
@@ -673,9 +669,9 @@ Note:
 --
 
 
-<img src='imgs/press.png' style='width: 45%;'> <img src='imgs/patterns.png' style='width: 45%;'>
+<img data-src='imgs/press.png' style='width: 45%;'> <img data-src='imgs/patterns.png' style='width: 45%;'>
 
-<img src='imgs/crosshatch.png' style='width: 45%;'> <img src='imgs/pericoli.png' style='width: 45%;'>
+<img data-src='imgs/crosshatch.png' style='width: 45%;'> <img data-src='imgs/pericoli.png' style='width: 45%;'>
 
 Note:
 Pushing the limits
@@ -684,9 +680,9 @@ Pushing the limits
 
 <!-- .slide: data-background="#000000" -->
 
-<img src='imgs/tilt-tron.gif' style='width: 45%'> <img src='imgs/tron.png' style='width: 45%;'>
+<img data-src='imgs/tilt-tron.gif' style='width: 45%'> <img data-src='imgs/tron.png' style='width: 45%;'>
 
-<img src='imgs/matrix.png' style='width: 45%;'> <img src='imgs/tilt-matrix.gif' style='width: 45%'>
+<img data-src='imgs/matrix.png' style='width: 45%;'> <img data-src='imgs/tilt-matrix.gif' style='width: 45%'>
 
 Note:
 Of what can be done with maps
@@ -695,9 +691,9 @@ Of what can be done with maps
 
 <!-- .slide: data-background="#020303" -->
 
-<img src='imgs/lineofsight-07.png' style='width: 91%;'>
+<img data-src='imgs/lineofsight-07.png' style='width: 91%;'>
 
-<img src='imgs/lineofsight-03.gif' style='width: 30%;'> <img src='imgs/lineofsight-04.gif' style='width: 30%;'> <img src='imgs/lineofsight-06.gif' style='width: 30%;'>
+<img data-src='imgs/lineofsight-03.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-04.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-06.gif' style='width: 30%;'>
 
 Note:
 Using open data
@@ -934,7 +930,7 @@ And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise e
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 **make this a mandala shader**
@@ -956,11 +952,10 @@ Note:
 
 
 <!-- .slide: data-background="#000000" -->
-<iframe style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160301005406'></iframe>
+<iframe style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160601150024'></iframe>
 
 
 Note:
-**make these mandalas circular and move a touch faster**
 I am in awe that the synchronicity of moving to new york, and being in Zach's class, would lead me here
 
 --
@@ -973,17 +968,10 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160601151757'></iframe>
 
 Note:
 and that working in public with open source tools would lead me here today. 
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
-Note:
-**this slide isn't necessary now**
 
 --
 
