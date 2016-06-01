@@ -920,30 +920,26 @@ And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise e
 
 **mention lack of OSM data - add slide of jesus view then go back to the rio map**
 
---
-
-Barcelona
-<!-- .slide: data-background="#000000" -->
-<iframe class='background'  data-src='tangram.html?/tangram.html?style=emerge#14.19854/41.3833/2.1655'></iframe>
-
 Note:
 **nyc flood map**
 
 **can you make a bangladesh flood map like this one from the nytimes? http://www.nytimes.com/2014/03/29/world/asia/facing-rising-seas-bangladesh-confronts-the-consequences-of-climate-change.html**
 
---
+<!-- Barcelona
+<iframe class='background'  data-src='tangram.html?/tangram.html?style=emerge#14.19854/41.3833/2.1655'></iframe>
 
 San Francisco
-
-<!-- .slide: data-background="#000000" -->
 <iframe class='background'  data-src='tangram.html?style=emerge#14.85229/37.7958/-122.3980'></iframe>
+
+New York
+<iframe class='background'  data-src='?style=emerge#15.42646/40.7055/-74.0116'></iframe>
+ -->
 
 --
 
-New York
-
 <!-- .slide: data-background="#000000" -->
-<iframe class='background'  data-src='?style=emerge#15.42646/40.7055/-74.0116'></iframe>
+
+![](imgs/terrarium-02.gif) ![](imgs/terrarium-04.gif) ![](imgs/terrarium-05.gif)
 
 --
 

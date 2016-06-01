@@ -1,16 +1,13 @@
 # author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
-# 
-#   Collaborators of The Book of shaders by may 2016
-#
 
 import:
     - bue-nyc.yaml
     
 sources:
-    collab: 
+    collab:
         type: GeoJSON
         url: ../data/collaborators.json
-    helpers: 
+    helpers:
         type: GeoJSON
         url: ../data/helpers.json
         
@@ -117,11 +114,12 @@ styles:
                                 vec4(vec3(0.520,1.000,0.749),1.),
                                 (aastep(0.2,df)-aastep(0.25,df)));
     helpers:
+        base: points
         mix: avatars
         shaders:
             defines:
-                COLS: 2
-                ROWS: 1
+                COLS: 3
+                ROWS: 3
             uniforms:
                 u_sprite: helpers
                                 

@@ -10,7 +10,7 @@
             "properties": {
                 "name": "Chris Sugrue",
                 "twitter": "@chrissugrue",
-                "url": "http://csugrue.com/"
+                "url": "http://csugrue.com/",
                 "col": 1, "row": 0
             }
         },
@@ -26,6 +26,85 @@
                 "url": "http://thesystemis.com/",
                 "col": 0, "row": 0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -58, -35 ]
+            },
+            "properties": {
+                "name": "Emiliano Causa",
+                "col": 2, "row": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -70.58024, -33.46069]
+            },
+            "properties": {
+                "name": "Ricardo Vega",
+                "col": 1, "row": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -71.41617, 42.27926 ]
+            },
+            "properties": {
+                "name": "Lynn Cerny",
+                "col": 2, "row": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -68.611239, -34.607519 ]
+            },
+            "properties": {
+                "name": "Jorge Crowe",
+                "col": 0, "row": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -58.37723, -34.61315 ]
+            },
+            "properties": {
+                "name": "Tomas Rawski",
+                "col": 2, "row": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -58.390849, -34.588396 ]
+            },
+            "properties": {
+                "name": "Rodrigo Alonzo",
+                "col": 0, "row": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -62.27243, -38.71959 ]
+            },
+            "properties": {
+                "name": "Diego Alberti",
+                "col": 1, "row": 1
+            }
         }
+
+
     ]
 }
