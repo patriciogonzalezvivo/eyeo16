@@ -920,9 +920,7 @@ And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise e
 
 **mention lack of OSM data - add slide of jesus view then go back to the rio map**
 
-Note:
 **nyc flood map**
-
 **can you make a bangladesh flood map like this one from the nytimes? http://www.nytimes.com/2014/03/29/world/asia/facing-rising-seas-bangladesh-confronts-the-consequences-of-climate-change.html**
 
 <!-- Barcelona
@@ -939,7 +937,10 @@ New York
 
 <!-- .slide: data-background="#000000" -->
 
-![](imgs/terrarium-02.gif) ![](imgs/terrarium-04.gif) ![](imgs/terrarium-05.gif)
+![](imgs/terrarium-02.gif)  ![](imgs/terrarium-05.gif)
+
+SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NYC
+<!-- ![](imgs/terrarium-04.gif) -->
 
 --
 
