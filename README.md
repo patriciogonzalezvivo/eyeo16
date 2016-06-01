@@ -6,20 +6,14 @@
 
 *patricio.io* | *@patriciogv*
 
-<!-- ![](imgs/Title.png) -->
-
 Note:
-**Lygia Clark**
-**comunitas -> efecto mariposa**
-
-**first slide should either autoplay video OR have a background that's hotshit and recognizeable as your work**
 Hello my name is Patricio Gonzalez Vivo.
 It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today. Also thanks to my wife, Jen Lowe, who is my collaborator in all things, including this talk.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="background" data-src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0#t=18" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
 **video autoplay at 00:24; no sound**
@@ -28,11 +22,10 @@ I thought I'd start by showing a bit of my most embarrassing work on the interne
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe>
+<!-- <iframe data-src='tangram.html?style=randomCity&animate=true#15/40.7076/-74.0146'></iframe> -->
+<iframe data-src='tangram.html?style=tilt-pericoli&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-**maybe change this map to something less black & white?**
-
 I'm a developer currently based in NY working at Mapzen, helping to build a 3D Map engine and experimenting with maps & shaders.
 
 But 7 years ago I was a psychologist and expressive art therapist in Buenos Aires.
@@ -66,7 +59,6 @@ While I was building my website, I needed to figure out how to work with XML fil
 ![](imgs/processing.png)
 
 Note:
-**zoom this slide**
 … to a webpage that I’m sure is familiar to a lot of us :)
 
 and it took me a while to understand what was going on on this page... 
@@ -155,7 +147,6 @@ often we end up constructing a collective mandala... as a way to tie the individ
 ![](imgs/processing.png)
 
 Note:
-**zoom this slide**
 Because I was already working with all of these expressive languages, when I discovered the Processing community, I was moved by the use of CODE as an expressive language.
 
 --
@@ -164,10 +155,9 @@ Because I was already working with all of these expressive languages, when I dis
 ![](imgs/crissugrue.png)
 
 Note:
-**zoom to just the text**
 I emailed all the artists I could find who were working in new media, asking them if they knew anyone working in Argentina...
 
-And Chris Sugrue **spelling** emailed back, introducing me to Diego Alberti... 
+And Chris Sugrue emailed back, introducing me to Diego Alberti... 
 
 I got in touch w Diego, and he suggested that I should apply to interactivos Telefónica. 
 
@@ -215,10 +205,24 @@ These reflections led me to make my next project, efecto mariposa (or "the butte
 
 I wanted to make a more sensitive installation, where techonology was hidden beneath a more natural interface.
 
-**add a slide, starting at 2:45, ending at 3:45 on the video on http://patriciogonzalezvivo.com/2011/efectomariposa/ **
 
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/efectomariposa.gif)
+
+Note:
 The kinect was new back in those days, and I did a realtime simulation of the different spheres of an ecosystem, 
 
+--
+
+<!-- .slide: data-background="#000000" -->
+<video width="1920" controls>
+  <source data-src="video/IMG_1133.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Note:
 **add slides of pics of people and hands playing with the system**
 
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... **Then they had to wait until the system regained balance to interact with it again.** 
@@ -299,10 +303,19 @@ Nightmares about volcanoes. He worried that he was becoming schizophrenic. **He 
 
 <!-- .slide: data-background="#000000" -->
 
-** On July 31st, immediatly affter my lecture, I learned from the newspapers that war had broken out. Finally I understood. And when I disembarked in Holland on the next day, nobody was happier than I. Now I was sure that no schizoprenia was threatening me. I understood that my dreams and my visions came to me from the subsoil of the collective unconscius. (July 1914) **
+"On July 31st, immediatly affter my lecture, I learned from the newspapers 
+
+that **war had broken out**. Finally I understood. And when I disembarked in 
+
+Holland on the next day, **nobody was happier than I**. Now I was sure that 
+
+no schizoprenia was threatening me. I understood that **my dreams and my** 
+
+**visions came to me from the subsoil of the collective unconscius**." 
+
+(July 1914)
 
 Note:
-**highlight the important parts of the quote above, and just generally fix the text alignment and stuff**
 **Jung... not really a great guy. But these collective nightmares he was noticing became his support for the idea of a collective unconscious, tapping into some future vision that war was coming.**
 
 --
@@ -369,7 +382,7 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe src="https://player.vimeo.com/video/31940579" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/31940579" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
 This eruption happened while I was working in efecto mariposa.
@@ -808,7 +821,7 @@ Tibetan monk mandalas
 
 <!-- .slide: data-background="#000000" -->
 <!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Note:
 **start this at 1:50**
@@ -860,7 +873,7 @@ Is possible to construct a terrain with world coverage and see what areas are af
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe style='min-height: 800px;' data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<iframe data-src='edit.html?log=160302101618&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
 
 Note:
 **make this a mandala shader**
@@ -899,7 +912,7 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160503001527'></iframe>
 
 Note:
 and that working in public with open source tools would lead me here today. 
@@ -907,7 +920,7 @@ and that working in public with open source tools would lead me here today.
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe class='fit' width='100%' height='100%' style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160523135652'></iframe>
 Note:
 **this slide isn't necessary now**
 
