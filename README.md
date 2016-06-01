@@ -10,7 +10,8 @@ Note:
 Hola, Buenos Dias, Hello, my name is Patricio Gonzalez Vivo.
 It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today. Also thanks to my wife, Jen Lowe, who is my collaborator in all things, including this talk.
 
-**make sure sound is on**
+[**make sure sound is on**]
+
 I thought I'd start by showing a bit of my most embarrassing work on the internet, just to get it out of the way. 
 
 --
@@ -28,8 +29,6 @@ Ok, that's enough of that.
 <iframe data-src='tangram.html?style=tilt-pericoli&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-**fix the camera swoop on this**
-
 I'm a developer currently based in New York City working at Mapzen, where I'm helping to build a 3D Map engine and experimenting with maps & shaders.
 
 But 7 years ago I was a psychologist and expressive art therapist in Buenos Aires.
@@ -293,12 +292,9 @@ For example in GLSL Shaders, a parallel programing language designed to run in t
 
 Note:
 
-So if I want to use it for example in the emblematic 10 PRINT maze algorithm looks like this
+Here is a recode of 10 PRINT maze algorithm in GLSL... here you can see how I'm constructing pseudo random from a sine wave. Not particularly simbolic.
 
-If I would like to take this that looks like CHANCE, and push it closer to the concept of Jung's synchronicity... I could construct random from a more simbolic source... like the wind direction. 
-
-Luckyly I have been working on a simple visualization of wind over time using Mapzen Map Engine... tangram.
-
+If I want to push this random closer to the concept of Jung's synchronicity, I should use a simbolical source to be more open to the collective... like the wind direction. 
 
 --
 
@@ -312,7 +308,8 @@ Luckyly I have been working on a simple visualization of wind over time using Ma
 wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
 
 Note:
-Jung might approve of a random created from real data, like wind speed, direction, or temperature
+These 3 mazes are constructed using wind direction, wind speed and temperature of the last few months.
+I would like to thing that, Jung might approve these.
 
 --
 
@@ -632,7 +629,7 @@ This is an intrinsic fragility in working with proprietary tools.
 --
 
 <!-- .slide: data-background="#1D1D1D" -->
-<iframe data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
+<iframe data-src="tangram.html?style=tilt-gotham-orig#16/40.7076/-74.0146"></iframe>
 
 Note:
 At Mapzen we work with open standards... using community created and mantained data... like openStreetMap data...
@@ -870,11 +867,9 @@ Traditional Tibetan Buddhist mandalas are made from grains of sand.
 --
 
 <!-- .slide: data-background="#000000" -->
-<!-- <iframe width="853" height="480" data-src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
-<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0&t=1m50s" frameborder="0" allowfullscreen></iframe>
+<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?start=90&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
-**start this at 1:50**
 They are ritualistically created and destroyed.
 
 This seems like a practice of fragility.
@@ -944,7 +939,7 @@ that doing an internet search for XML 6 and a half years ago would lead me here:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=tilt-ikeda-orig#15/40.7076/-74.0146'></iframe>
+<iframe data-src='tangram.html?style=tilt-ikeda-orig#16/40.7076/-74.0146'></iframe>
 
 Note:
 
