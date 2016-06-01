@@ -993,7 +993,8 @@ and that working in public with open source tools would lead me here today.
 
 --
 
-[BIG MAP OF all the people who helped me]
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='tangram.html?style=all#3/20/10'></iframe>
 
 Note:
 **thank you to everyone and every synchronicity that helped me get here**
