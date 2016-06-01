@@ -220,9 +220,9 @@ The kinect was new back in those days, and I did a realtime simulation of the di
 
 <!-- .slide: data-background="#000000" -->
 
-<video controls> 
-    <source data-src="http://localhost:8000/videos/IMG_1133.m4v" type="video/m4v">
-    <source data-src="http://localhost:8000/videos/IMG_1133.mp4" type="video/mp4">
+<video controls>
+    <source data-src="videos/efectomariposa-00.mp4" type="video/mp4">
+    <source data-src="videos/efectomariposa-00.webm" type="video/webm">
 </video>
 
 Note:
@@ -277,17 +277,46 @@ He differentiates this concept from chance, or randomness, by using the word **s
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/10PRINT.png)
+
+Note:
+It's hard to say CHANCE or RANDOM with out pointing to the work of Casey Reas...
+Casey in this book, and some of his talks, points to the complexity behind perfect computer random.
+
+For example in GLSL Shaders, a parallel programing language designed to run in the graphic card, there is not a native function for random.
+
+--
+
 <!-- .slide: data-background="#000000" -->
 **insert 10 print here if there's time**
 
+<iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+
 Note:
+
+So if I want to use it for example in the emblematic 10 PRINT maze algorithm looks like this
+
+If I would like to take this that looks like CHANCE, and push it closer to the concept of Jung's synchronicity... I could construct random from a more simbolic source... like the wind direction. 
+
+Luckyly I have been working on a simple visualization of wind over time using Mapzen Map Engine... tangram.
+
 
 --
 
 <!-- .slide: data-background="#000000" -->
 **insert Jungian 10 print here if there's time**
 
+<canvas class='sandbox' data-fragment-url='shaders/10print-wind_dir.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox' data-fragment-url='shaders/10print-wind_speed.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+<canvas class='sandbox' data-fragment-url='shaders/10print-temp.frag' data-textures='shaders/data.png' width='500px' height='900px' ></canvas>
+
+wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
+
 Note:
+Jung might approve of a random created from real data, like wind speed, direction, or temperature
 
 --
 
@@ -678,13 +707,11 @@ Using open data
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-![](imgs/weili.jpg)
 ![](imgs/weili.gif)
 
 **Weili** Shi (@shiweili)
 
 Note:
-**take face off of slide**
 working with open source helps build community. 
 
 these are some projects made using mapzen's tools.
@@ -692,18 +719,16 @@ these are some projects made using mapzen's tools.
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-![](imgs/TylerGreen.jpg)
 ![](imgs/tyler.jpg)
 
 **Tyler** Green (@greent_tyler)
 
 Note:
-**take face off of slide**
 
 --
 
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/shiffman.png)
+<!-- .slide: data-background="#000000" -->
+![](imgs/shiffman.jpg)
 
 Note:
 how much of the community in this room right now exists because of processing and this book?
@@ -850,7 +875,7 @@ Traditional Tibetan Buddhist mandalas are made from grains of sand.
 
 <!-- .slide: data-background="#000000" -->
 <!-- <iframe width="853" height="480" data-src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
-<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0&t=1m50s" frameborder="0" allowfullscreen></iframe>
 
 Note:
 **start this at 1:50**
