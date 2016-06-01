@@ -269,7 +269,6 @@ Jung believed that every person's unconscious goes deeper into a collective sour
 ![](imgs/collective-unc.png)
 
 Note:
-**this needs a different visual, archetypes makes no sense**
 Jung also used this idea of a collective unconcious to explain significant events that seem to be connected by more than simple cause and effect.
 
 Like dreaming about an event before it happens... or witnessing something where it seems the "world" is trying to speak with you.
