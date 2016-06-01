@@ -7,8 +7,11 @@
 *patricio.io* | *@patriciogv*
 
 Note:
-Hello my name is Patricio Gonzalez Vivo.
+Hola, Buenos Dias, Hello, my name is Patricio Gonzalez Vivo.
 It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today. Also thanks to my wife, Jen Lowe, who is my collaborator in all things, including this talk.
+
+**make sure sound is on**
+I thought I'd start by showing a bit of my most embarrassing work on the internet, just to get it out of the way. 
 
 --
 
@@ -16,8 +19,7 @@ It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to sh
 <iframe class="background" data-src="https://player.vimeo.com/video/23659674?title=0&byline=0&portrait=0#t=19" width="1200" height="750" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-**video autoplay at 00:24; no sound**
-I thought I'd start by showing a bit of my most embarrassing work on the internet, just to get it out of the way. **this is circa 200?**
+Ok, that's enough of that.
 
 --
 
@@ -26,7 +28,9 @@ I thought I'd start by showing a bit of my most embarrassing work on the interne
 <iframe data-src='tangram.html?style=tilt-pericoli&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-I'm a developer currently based in NY working at Mapzen, helping to build a 3D Map engine and experimenting with maps & shaders.
+**fix the camera swoop on this**
+
+I'm a developer currently based in New York City working at Mapzen, where I'm helping to build a 3D Map engine and experimenting with maps & shaders.
 
 But 7 years ago I was a psychologist and expressive art therapist in Buenos Aires.
 
@@ -42,7 +46,7 @@ I'm going to talk about the synchronicities that led me here.
 
 Note:
 At the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
-This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because this talk is going to be something of a spiral. 
+This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because this talk is also going to spiral. 
 
 --
 
@@ -62,7 +66,7 @@ Note:
 … to a webpage that I’m sure is familiar to a lot of us :)
 
 and it took me a while to understand what was going on on this page... 
-that this was a **community of people making ART with CODE**. I felt like I’d tapped into a world of misfits like me, and I wanted to use these tools for expressive art therapy…
+that this was a community of people making ART with CODE. I felt like I’d tapped into a world of misfits like me, and I wanted to use these tools for expressive art therapy…
 
 --
 
@@ -110,8 +114,7 @@ And movement lets you embody a feeling and transform it over time.
 Lygia Clark
 
 Note:
-We can trace this kind of activities to the pioneer work of Lygia Clark
-[Say something about her and her work]
+In South America, we can trace these kinds of activities to the pioneering work of Brazilian artist Lygia Clark.
 
 --
 
@@ -123,7 +126,7 @@ We can trace this kind of activities to the pioneer work of Lygia Clark
 ![](imgs/lygia-03.jpg)
 
 Note:
-[Say something about her and her work]
+In the 1970s she created interactive works that directly involved museum goers in collaborative sensory experiences. In the late 70s, she shifted from creating artworks to working as an art therapist.
 
 --
 
@@ -161,7 +164,7 @@ And Chris Sugrue emailed back, introducing me to Diego Alberti...
 
 I got in touch w Diego, and he suggested that I should apply to interactivos Telefónica. 
 
-(At the time, Telefónica was the Eyebeam of Buenos Aires.)
+(At the time, Telefónica was like the Eyebeam of Buenos Aires.)
 
 --
 
@@ -193,7 +196,7 @@ Adults were interacting in polite ways, almost afraid to break the table...
 
 While kids used it to discharge all their energy and anxiety. 
 
-I felt that the technological feel of the installation had too much gravity - people interacted much differently with this technical collective mandala than they did when painting a collective mandala on paper.
+I felt that the technological feel of the installation had too much gravity - people interacted much differently with this digital collective mandala than they did when painting a collective mandala on paper.
 
 --
 
@@ -204,7 +207,6 @@ Note:
 These reflections led me to make my next project, efecto mariposa (or "the butterfly effect")
 
 I wanted to make a more sensitive installation, where techonology was hidden beneath a more natural interface.
-
 
 --
 
@@ -240,11 +242,11 @@ Another synchronicity happened while I was making Efecto Mariposa, but to explai
 
 I'm from Buenos Aires, which, together with Paris and the Upper East Side, is one of the last places in the world where people do Psychoanalysis.
 
-Among Buenos Aires psychologists, everyone was into this guy:
+Among Buenos Aires psychoanalysts, everyone was into this guy:
 
 FREUD.
 
-But I was into this other guy.
+But I was into this other guy,
 
 … his archenemy. Carl Gustave Jung.
 
@@ -256,12 +258,12 @@ Like most archenemies, they use to be friends. Jung was Freud's favorite student
 ![](imgs/redbook-00.jpg)
 
 Note:
-At the begining of the 1900s it was fashionable for psychiatrists to keep dream diaries. Jung had a dream diary, where he drew his dreams.
-Jung was very interested in the mythological content of dreams. Freud thought the unconsious content of dreams came from personal memories, but Jung thoghuth that the unconscious content came from a place deeper than personal memories... 
+At the begining of the 1900s it was fashionable for psychiatrists to keep dream diaries. Jung had a dream diary, where he wrote about and drew his dreams.
+Jung was very interested in the mythological content of dreams. 
 
-Jung believed that every person's unconscious goes deeper into a collective source of unconscious material... 
+Freud thought the unconsious content of dreams came from **personal** memories, but Jung believed that the unconscious content came from a place deeper than personal memories... 
 
-That collective source material makes our common mental structures... called Jungian archetypes.
+Jung believed that every person's unconscious goes deeper into a collective source of unconscious material, the *collective unconscious*
 
 --
 
@@ -270,10 +272,25 @@ That collective source material makes our common mental structures... called Jun
 
 Note:
 **this needs a different visual, archetypes makes no sense**
-This idea of a collective unconcious... also serve as an explanation for significan events that seams not be connected by simple cause and effect.
-Like dreaming about an event before happening... or been whitness of something that seams the "world" is trying to speak with you.
+Jung also used this idea of a collective unconcious to explain significant events that seem to be connected by more than simple cause and effect.
 
-We want to differenciate this concept from mere chance by using the word synchronicity.
+Like dreaming about an event before it happens... or witnessing something where it seems the "world" is trying to speak with you.
+
+He differentiates this concept from chance, or randomness, by using the word **synchronicity**.
+
+--
+
+<!-- .slide: data-background="#000000" -->
+**insert 10 print here if there's time**
+
+Note:
+
+--
+
+<!-- .slide: data-background="#000000" -->
+**insert Jungian 10 print here if there's time**
+
+Note:
 
 --
 
@@ -281,7 +298,7 @@ We want to differenciate this concept from mere chance by using the word synchro
 ![](imgs/redbook-02.png)
 
 Note:
-Back to the collective unconcious... Jung was noticing that he was having recurrent vivid nightmares.
+Back to the collective unconcious... Jung was noticing that he was having recurring vivid nightmares.
 
 --
 
@@ -297,26 +314,42 @@ Nightmares about floods.
 ![](imgs/redbook-01.png)
 
 Note:
-Nightmares about volcanoes. He worried that he was becoming schizophrenic. **He also noticed that many of his patients were having similar nightmares, and was worried that he was somehow "infecting" them with his own nightmares.**
+Nightmares about volcanoes. 
+
+He worried that he was becoming schizophrenic. 
+
+He also noticed that many of his patients were having similar nightmares, and he worried that he was somehow "infecting" his patients with his own nightmares. 
+
+When World War I started, he found another explanation for the collective nightmares...
 
 --
 
 <!-- .slide: data-background="#000000" -->
 
-"On July 31st, immediatly affter my lecture, I learned from the newspapers 
+"On July 31st, immediately after my lecture,
 
-that **war had broken out**. Finally I understood. And when I disembarked in 
+I learned from the newspapers that 
 
-Holland on the next day, **nobody was happier than I**. Now I was sure that 
+**war had broken out**.
 
-no schizoprenia was threatening me. I understood that **my dreams and my** 
+Finally I understood.
 
-**visions came to me from the subsoil of the collective unconscius**." 
+And when I disembarked in Holland on the next day, 
 
-(July 1914)
+**nobody was happier than I**.
+
+Now I was sure that no schizoprenia was threatening me. 
+
+I understood that **my dreams and my visions came to me from the subsoil of the collective unconscious**."
+
+*C. G. Jung, July 1914*
 
 Note:
-**Jung... not really a great guy. But these collective nightmares he was noticing became his support for the idea of a collective unconscious, tapping into some future vision that war was coming.**
+Jung... super happy about war breaking out... not really a great guy.
+
+These collective nightmares he was noticing became his support for the idea of a collective unconscious.
+
+The increase in nightmares came from the collective unconsious, tapping in to a future vision that war was coming.
 
 --
 
@@ -325,8 +358,10 @@ Note:
 
 Note:
 In June 2011  (five years ago)...
-without any notice....
-and after 50 years of lying dormant a volcano at the south of Chile call Puyehue made eruption.
+
+after 50 years of lying dormant, and without any notice,
+
+a volcano in southern Chile called Puyehue erupted.
 
 --
 
@@ -349,7 +384,7 @@ Note:
 ![](imgs/puyehue-05.jpg)
 
 Note:
-View from the sky...
+A satellite view.
 
 --
 
@@ -358,16 +393,15 @@ View from the sky...
 <iframe data-src='tangram.html?style=puyehue#9.765/-40.6179/-72.0973'></iframe>
 
 Note:
-Wind, emboding chance again... move the volcanic plume handreds of kilometers a way.
+Wind, embodying chance... moves the volcanic plume handreds of kilometers away.
 
 All the way to Buenos Aires, where I was living.
+
 WHAT ARE THE CHANCES???
 
-In their way bring destruction, 
-cancelled airports during weeks,
-lack of products on the supermarket.
-
-Everybodys life was touch by chance that month...
+The ash brought destruction, 
+airports were closed for weeks,
+supermarket shelves emptied.
 
 --
 
@@ -377,7 +411,7 @@ Everybodys life was touch by chance that month...
 ![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
 Note:
-… everything… felt… fragile.
+everything… felt… fragile.
 
 --
 
@@ -385,12 +419,13 @@ Note:
 <iframe data-src="https://player.vimeo.com/video/31940579#t=80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Note:
-This eruption happened while I was working in efecto mariposa.
-I used ashes for the installation.
+This eruption happened while I was making efecto mariposa.
 
-Not only made the work more singnificative for those that experience it, motivates me on working on the algortihms that simulates the different layers of an ecossytem to make it more complex... and less linear... more temperametan and sensitive to the interactions. **influenced by the synchronicity of the volcano, both in the form of the installation, and in creating it's function, to react in unexpected ways.**
+I had planned to use sand for the installation, but instead I used Puyehue's ashes.
 
-Althought is made in openFrameworks, I had to learn how to code in GLSL shaders, in order to do the simulations in realtime.
+The ashes made the work more significant for those who experienced it, and the eruption motivated me to tune the algorithms simulating different layers of the ecosystem to make it more complex... and less linear... more temperamental and sensitive to interactions. The synchronicity of the volcano influenced both the form of the installation and its function; it reacted in unexpected ways.
+
+To make Efecto Mariposa, I had to learn how to code in GLSL shaders, in order to do the simulations in realtime.
 
 --
 
@@ -400,17 +435,17 @@ Althought is made in openFrameworks, I had to learn how to code in GLSL shaders,
 Note:
 I absolutely fell in love with shaders. 
 
-I love shaders because the constrains and the simplicity.
+I love shaders because of their constraints and simplicity.
 
 - There are no libraries
-- just mathematical functions
-- There input is images... and the output is images...
+- only mathematical functions
+- The input is images... and the output is images...
 
-Is just code from the perspective of the pixels... the individual elements that compose an image.
+It is code from the perspective of the pixels... the individual elements that compose an image.
 
-In lot of way they are similar to haikus.  all you have to do is describe in few sentences an image.
+I think of them as similar to haikus. All you have to do is describe an image in a few sentences of code.
 
-This forces me to think algorithms from the perspective of the pixels... the atoms... the minimal components.
+This forces me to think of algorithms from the perspective of the pixels... the atoms... the minimal components.
 
 And I'm not there yet, but I think this simplicity can be an expressive language.
 
@@ -424,8 +459,10 @@ And I'm not there yet, but I think this simplicity can be an expressive language
 ![](imgs/ofxFX-03.gif)
 
 Note:
-So anyway, I grabbed all this layers of simulations I was doing with shaders for efecto mariposa.
-I break them into modules... and put them together into an openFrameworks addon.
+So anyway, I grabbed all the layers of simulations I was doing with shaders for efecto mariposa.
+
+I broke them into modules... and put them together into an openFrameworks addon.
+
 My first openSource contribution was ofxFX. 
 
 --
@@ -433,7 +470,7 @@ My first openSource contribution was ofxFX.
 ![](imgs/ofxfx.png)
 
 Note:
-It got very popular and help others to incorporate shaders into their work.
+It got very popular and helped others to incorporate shaders into their work.
 
 --
 
@@ -441,7 +478,7 @@ It got very popular and help others to incorporate shaders into their work.
 ![](imgs/zach.jpg)
 
 Note:
-Also thank to it I meet zach
+Thanks to that addon, I met Zach Lieberman.
 
 --
 
@@ -449,7 +486,7 @@ Also thank to it I meet zach
 <iframe data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
 Note:
-And thanks to him, I applied to parsons, and moved to NYC : )
+And thanks to Zach, I applied to parsons, and moved to NYC : )
 
 --
 
@@ -457,9 +494,11 @@ And thanks to him, I applied to parsons, and moved to NYC : )
 ![](imgs/Skyline02.png)
 
 Note:
-In 2014, for my thesis...
-I was working on a series of **projects about awareness and the tools we use to see the world around us**.
-This machine in particularly prints a large-scale horizon showing the transition between the city and the mountains.
+Fast forward two years and in 2014, for my thesis...
+
+I was working on a series of projects about awareness and the tools we use to see the world around us.
+
+This machine in particular prints a large-scale horizon showing the transition between the city and the mountains.
 
 --
 
@@ -467,7 +506,7 @@ This machine in particularly prints a large-scale horizon showing the transition
 ![](imgs/Skyline02-00.png)
 
 Note:
-To construct this continues horizon I was scrapping google street view data.
+To construct a continuous horizon I was scraping google street view data.
 
 --
 
@@ -475,7 +514,7 @@ To construct this continues horizon I was scrapping google street view data.
 ![](imgs/Skyline02-01.png)
 
 Note:
-Finding ways to **stitch the panoramic** images together.
+Finding ways to stitch the panoramic images together.
 
 --
 
@@ -483,7 +522,7 @@ Finding ways to **stitch the panoramic** images together.
 ![](imgs/cb-view-depth-map.png)
 
 Note:
-Then I found this **depth data in their API**
+Then I found this depth data in their API
 
 --
 
@@ -499,7 +538,7 @@ Having z allows me to add up point clouds.
 ![](imgs/Skyline02-03.png)
 
 Note:
-The results were for me like inventing **photography** again.
+The results were for me like inventing photography again...
 
 --
 
@@ -507,7 +546,7 @@ The results were for me like inventing **photography** again.
 ![](imgs/Skyline02-04.png)
 
 Note:
-I have to choose a location, put my camera in focus, and then **wait for the calls to come back with points of light**.
+I have to choose a location, put my camera in focus, and then wait for the calls to come back with points of light.
 
 --
 
@@ -515,7 +554,7 @@ I have to choose a location, put my camera in focus, and then **wait for the cal
 ![](imgs/Skyline02-05.png)
 
 Note:
-**This public spaces emerge slowly from the deepness of this private databases**.
+These images of public spaces emerged slowly from the depth of a private database.
 
 --
 
@@ -523,7 +562,7 @@ Note:
 ![](imgs/Skyline02-06.png)
 
 Note:
-I work with the style until I felt the result were more honest about the nature of the process.
+I worked with the style until I felt the results were honest about the nature of the process.
 
 --
 
@@ -536,9 +575,7 @@ I work with the style until I felt the result were more honest about the nature 
 <iframe data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
 Note:
-I try to prepare some point clouds for this talk. Only to find out that the API change.
-
-[note that google api doesn’t have this depth info anymore; limited edition; fragility of working with proprietary tools]
+I tried to prepare some new point clouds for this talk, and found that Google's changed their API and it no longer has depth data.
 
 --
 
@@ -546,7 +583,7 @@ I try to prepare some point clouds for this talk. Only to find out that the API 
 ![](imgs/Skyline02-08.png)
 
 Note:
-This images, becomes limited editions. 
+So sometime since 2014, Google made these images into limited editions. 
 
 --
 
@@ -568,7 +605,7 @@ Note:
 ![](imgs/Skyline02-11.png)
 
 Note:
-There is an intrinsic fragility of working with proprietary tools
+This is an intrinsic fragility in working with proprietary tools.
 
 --
 
@@ -576,7 +613,8 @@ There is an intrinsic fragility of working with proprietary tools
 <iframe data-src="tangram.html?style=tilt-gotham-orig#15/40.7076/-74.0146"></iframe>
 
 Note:
-At mapzen we work with open standars... using community mantain data... like openStreetMap data...
+At Mapzen we work with open standards... using community created and mantained data... like openStreetMap data...
+
 Everything we do is open source
 
 --
@@ -587,7 +625,7 @@ Everything we do is open source
 ![](imgs/mapzen-team.gif)
 
 note:
-I have the priviledge of working width a stellar line up of some of the best professionals in the feald, doing what I love the most... shaders.
+I have the privilege of working with a stellar line up of some of the best professionals in the field, doing what I love the most... shaders.
 
 --
 
@@ -605,7 +643,6 @@ Our experiments are done in the open
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
 
 Note:
-to empower others... 
 
 --
 
@@ -637,8 +674,9 @@ Of what can be done with maps
 <img src='imgs/lineofsight-03.gif' style='width: 30%;'> <img src='imgs/lineofsight-04.gif' style='width: 30%;'> <img src='imgs/lineofsight-06.gif' style='width: 30%;'>
 
 Note:
-And with open data
-Our goal is to provide tools to others. 
+Using open data
+
+**(This project shows all the satellites overhead at a given moment.)**
 
 --
 
@@ -649,8 +687,10 @@ Our goal is to provide tools to others.
 **Weili** Shi (@shiweili)
 
 Note:
-[open source is +++; builds community;]
-OpenSource helps builds community.
+**take face off of slide**
+working with open source helps build community. 
+
+these are some projects made using mapzen's tools.
 
 --
 
@@ -661,7 +701,7 @@ OpenSource helps builds community.
 **Tyler** Green (@greent_tyler)
 
 Note:
-[Community ....]
+**take face off of slide**
 
 --
 
@@ -669,7 +709,7 @@ Note:
 ![](imgs/shiffman.png)
 
 Note:
-how much of the community in this room exists because of processing and this book?
+how much of the community in this room right now exists because of processing and this book?
 
 --
 
@@ -677,13 +717,11 @@ how much of the community in this room exists because of processing and this boo
 ![](imgs/TBoS-00.png)
 
 Note:
-**edit BoS to include Jen as author and re-screen capture for this slide**
-[openness and community as a defense against fragility]
+This relationship between openness and community... 
 
-This relationship between Openness and community...
 is a solution to fragility.
 
-That's why I wrote The Book of Shaders, together with my wife, Jen...
+That's why I wrote The Book of Shaders, together with my wife Jen...
 
 --
 
@@ -691,7 +729,7 @@ That's why I wrote The Book of Shaders, together with my wife, Jen...
 ![](imgs/TBoS-01.png)
 
 Note:
-So people don't need to replicate my difficult and esoteric process of teach-yourself-shaders.
+So other people don't need to replicate my difficult and esoteric process of teach-yourself-shaders.
 
 --
 
@@ -739,12 +777,13 @@ ppl are using the editor everyday
 
 Note:
 **change the stroke color to something bright and add jitter to the locations so all the people display**
-This are some of the people that have join this project collaborating donating time and effort helping others to learn.
+These are some of the people who have joined this project, donating time and effort to help others learn.
 
-I just so **thanksful** to them.
-They had translate the book of shaders to Japanise, Korean, Spanish and French. The italian translation is on the way.
+I'm just so **thankful** to them.
 
-Also talking to them is bringing new voices. I have this feeling that **the project start having a life in it's own**.
+They've translated the book of shaders to Japanese, Korean, Spanish and French. The Italian translation is on the way.
+
+Also talking to them is bringing new voices to the project. I have this feeling that the book is starting to have a life of its own.
 
 --
 
@@ -752,15 +791,11 @@ Also talking to them is bringing new voices. I have this feeling that **the proj
 <iframe data-src='http://thebookofshaders.com/06'></iframe>
 
 Note:
-[live coding in the book; talk about interactivity]
+So along with writing the teaching metaphors, I found my self developing tools for the book.
 
-So together with the crafting the didactic metaphors. I found my self developing tools around the book.
+The embedded live coding editor is crucial. It decreases the distance from reading of a concept to trying it in code.
 
-The embebed live coding editor, was crucial. Shorts the distance from the reading of a concept to the trying it on code.
-
-Also the little helpers to tweak and change variables was very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
-
-I have a close relationship with this tools, not only because I made it, but also because I use a stand alone instance of it, in my regular bases. **this is weird**
+Also the little helpers to tweak and change variables are very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
 
 --
 
@@ -768,7 +803,6 @@ I have a close relationship with this tools, not only because I made it, but als
 ![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
-**this transition is weird**
 Lately I've been writing shaders for an openFrame I made from a raspberryPi and some garbage in my apartment basement
 
 --
@@ -797,9 +831,7 @@ I've been enjoying the challenge of making shaders harmonious enough to live in 
 ![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
 Note:
-He made this diagram of the psychic structure. Note how for him deliberated looks like a mandala.
-
-The term mandalas can be use loosely to any symbolic circular forms that speaks refers to “the hole”. We can find them on all mayor religions.
+"Mandala" refers loosely to any symbolic circular form that refers to “the whole”. We can find them in all major religions. :)
 
 --
 
@@ -807,7 +839,7 @@ The term mandalas can be use loosely to any symbolic circular forms that speaks 
 ![](imgs/self.png)
 
 Note:
-back to jung ; collective unconscious
+Jung's diagram of the psychic structure, including the collective unconscious. Note how he deliberately made it look like a mandala.
 
 --
 
@@ -815,7 +847,7 @@ back to jung ; collective unconscious
 ![](imgs/mandala-tibetan.jpg)
 
 Note:
-Tibetan monk mandalas
+Traditional Tibetan Buddhist mandalas are made from grains of sand.
 
 --
 
@@ -825,7 +857,9 @@ Tibetan monk mandalas
 
 Note:
 **start this at 1:50**
-as a practice of fragility
+They are ritualistically created and destroyed.
+
+This seems like a practice of fragility.
 
 --
 
@@ -833,14 +867,19 @@ as a practice of fragility
 ![](imgs/redbook-03.jpg)
 
 Note:
-**Remember Jung's flood nightmares that came from the collective unconscious?**
+Remember Jung's flood nightmares that came from the collective unconscious?
 
 --
 
 <!-- .slide: data-background="#000000" -->
-**"I saw a terrible flood that covered all the northen and low-lying lands between the North Sea and the Alps. It reached from England up to Russia, and from the coast of the North Sea right up to theAlps. I saw yellow waves, swimming rubble and the death ofcountless thousands... Two weeks passed then the visions returned, still more violent than before and an inner voice spjoe: - Look at it, it is completely real, and it will come to pass. You cannot doubt this.- (Octover 1913)**
+"**I saw a terrible flood** that covered all the northen and low-lying lands between the North Sea and the Alps. It reached from England up to Russia, and from the coast of the North Sea right up to the Alps. I saw yellow waves, swimming rubble and the death of countless thousands... Two weeks passed then the visions returned, still more violent than before and an inner voice spoke: 
+
+Look at it, it is completely real, and it will come to pass. You cannot doubt this."
+
+*C. G. Jung, October 1913*
 
 Note:
+Jung's description of the flood nightmares.
 
 --
 
@@ -848,7 +887,7 @@ Note:
 ![](imgs/redbook-03.jpg)
 
 Note:
-The visions of flood are also already happening in places like bangladesh and [insert island countries that are disappearing] where sea level rising is a reality **It feels like we're living in a time of great fragility. (Make this better / less melodramatic)**
+Visions of flooding are already happening in worldwide, and scientists have predicted from about 0.5 meter to 1.5 meter sea level rise by 2100. These are fragile times.
 
 --
 
@@ -857,12 +896,12 @@ The visions of flood are also already happening in places like bangladesh and [i
 
 Note:
 **start zoomed out more - rotate to be classic jesus view**
-This is a visualization of sea level rising that I'm working on in Mapzen,
-Is constructed with our VectorTiles of OpenStreetMap data together with our new elevation raster tile.
+This is a visualization of sea level rising that we're working on at Mapzen,
+It is made with our VectorTiles of OpenStreetMap data together with our new elevation raster tiles.
 
-**And while it's not eyeo-shiny (yet), I think it might be useful. sea level rise estimates disagree, but a worldwide view of what different rises mean blah blah blah something something visualization. opensource. researchers.**
+It is possible to construct a terrain with world coverage and see what areas are affected by the sea level rising.
 
-Is possible to construct a terrain with world coverage and see what areas are afected by the sea level rising.
+And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise estimates disagree, but a worldwide visualization of what different estimates would look like could help with climate change communication.
 
 **mention lack of OSM data - add slide of jesus view then go back to the rio map**
 
