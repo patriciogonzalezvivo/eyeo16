@@ -209,7 +209,7 @@ I wanted to make a more sensitive installation, where techonology was hidden ben
 --
 
 <!-- .slide: data-background="#000000" -->
-<img src="imgs/efectomariposa.gif" height="800px">
+<img data-src="imgs/efectomariposa.gif" height="800px">
 
 Note:
 The kinect was new back in those days, and I did a realtime simulation of the different spheres of an ecosystem, 
@@ -218,11 +218,10 @@ The kinect was new back in those days, and I did a realtime simulation of the di
 
 <!-- .slide: data-background="#000000" -->
 
-<video width="1920" controls>
-  <source src="videos/out.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video controls> 
+    <source data-src="http://localhost:8000/videos/IMG_1133.m4v" type="video/m4v">
+    <source data-src="http://localhost:8000/videos/IMG_1133.mp4" type="video/mp4">
 </video>
-
 
 Note:
 **add slides of pics of people and hands playing with the system**
@@ -821,7 +820,7 @@ Tibetan monk mandalas
 --
 
 <!-- .slide: data-background="#000000" -->
-<!-- <iframe width="853" height="480" src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
+<!-- <iframe width="853" height="480" data-src="https://www.youtube.com/embed/LcJWazzEUKk" frameborder="0" allowfullscreen></iframe> -->
 <iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Note:
