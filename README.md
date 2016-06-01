@@ -217,15 +217,15 @@ The kinect was new back in those days, and I did a realtime simulation of the di
 --
 
 <!-- .slide: data-background="#000000" -->
+![](imgs/efectomariposa-00.jpg)
 
-<video controls> 
-    <source data-src="http://localhost:8000/videos/IMG_1133.m4v" type="video/m4v">
-    <source data-src="http://localhost:8000/videos/IMG_1133.mp4" type="video/mp4">
+--
+<!-- .slide: data-background="#000000" -->
+<video width='100%' controls>
+    <source data-src="videos/efectomariposa-00.webm" type="video/webm">
 </video>
 
 Note:
-**add slides of pics of people and hands playing with the system**
-
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... **Then they had to wait until the system regained balance to interact with it again.** 
 This forced a gentle experimentation with the system
 
@@ -265,11 +265,10 @@ That collective source material makes our common mental structures... called Jun
 
 --
 
-<!-- .slide: data-background="#000000" -->
-# slide that represents collective unconscious
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/collective-unc.png)
 
 Note:
-**this needs a different visual, archetypes makes no sense**
 This idea of a collective unconcious... also serve as an explanation for significan events that seams not be connected by simple cause and effect.
 Like dreaming about an event before happening... or been whitness of something that seams the "world" is trying to speak with you.
 
