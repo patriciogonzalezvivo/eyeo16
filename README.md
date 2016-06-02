@@ -636,18 +636,19 @@ Everything we do is open source
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-![](imgs/logo-mapzen.png)
+[![](imgs/logo-mapzen.png)](https://mapzen.com/)
 
-![](imgs/mapzen-team.gif)
+[![](imgs/mapzen-team.gif)](https://mapzen.com/about/#team)
 
 note:
 I have the privilege of working with a stellar line up of some of the best professionals in the field, doing what I love the most... shaders.
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
+<a href='https://vimeo.com/107190391'>
 <img data-src='imgs/labels05.gif' style='width: 40%;'> <img data-src='imgs/labels03.gif' style='width: 50%;'>
-
-[Experiments with **3D Labels** (C++)](https://vimeo.com/107190391)
+</a>
 
 Note:
 Our experiments are done in the open 
@@ -655,18 +656,21 @@ Our experiments are done in the open
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
+<a href='https://mapzen.com/blog/point-clouds'>
 <img data-src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img data-src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
-
-[Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
+Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)
+</a>
 
 Note:
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
+<a href='https://mapzen.com/projects/tangram/'>
 <img data-src='imgs/press.png' style='width: 45%;'> <img data-src='imgs/patterns.png' style='width: 45%;'>
 
 <img data-src='imgs/crosshatch.png' style='width: 45%;'> <img data-src='imgs/pericoli.png' style='width: 45%;'>
+</a>
 
 Note:
 Pushing the limits
@@ -674,9 +678,11 @@ Pushing the limits
 --
 
 <!-- .slide: data-background="#000000" -->
+<a href='https://mapzen.com/projects/tangram/'>
 <img data-src='imgs/tilt-tron.gif' style='width: 45%'> <img data-src='imgs/tron.png' style='width: 45%;'>
 
 <img data-src='imgs/matrix.png' style='width: 45%;'> <img data-src='imgs/tilt-matrix.gif' style='width: 45%'>
+</a>
 
 Note:
 Of what can be done with maps
@@ -685,9 +691,11 @@ Of what can be done with maps
 
 <!-- .slide: data-background="#020303" -->
 
+<a href='http://patriciogonzalezvivo.github.io/LineOfSight/?type=visible#3/0.00/0.00'>
 <img data-src='imgs/lineofsight-07.png' style='width: 91%;'>
 
 <img data-src='imgs/lineofsight-03.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-04.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-06.gif' style='width: 30%;'>
+</a>
 
 Note:
 Using open data
@@ -826,7 +834,9 @@ Also the little helpers to tweak and change variables are very helpful to make a
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
+![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) 
+
+![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
 Lately I've been writing shaders for an openFrame I made from a raspberryPi and some garbage in my apartment basement
@@ -841,7 +851,9 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
+![](imgs/openframe-01.gif) ![](imgs/openframe-03.gif) ![](imgs/openframe-07.gif) 
+
+![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
 I've been enjoying the challenge of making shaders harmonious enough to live in my house, and I've spiraled back around to mandalas, my old friends from art therapy.
@@ -947,7 +959,7 @@ New York
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/terrarium-02.gif)  ![](imgs/terrarium-05.gif)
+[![](imgs/terrarium-02.gif)](http://mapzen.github.io/seaLevel/?style=local#15.13537/37.7971/-122.3975)  [![](imgs/terrarium-05.gif)](http://mapzen.github.io/seaLevel/?style=local#15.59531/40.7187/-74.0121)
 
 SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NYC
 <!-- ![](imgs/terrarium-04.gif) -->

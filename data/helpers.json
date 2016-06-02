@@ -103,6 +103,39 @@
                 "name": "Diego Alberti",
                 "col": 1, "row": 1
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -8.4188, 43.37126 ]
+            },
+            "properties": {
+                "name": "Natxo Pedreira",
+                "col": 3, "row": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -58.4531, -34.545825 ]
+            },
+            "properties": {
+                "name": "Guido Corallo",
+                "col": 3, "row": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -0.125422, 51.501581 ]
+            },
+            "properties": {
+                "name": "Joel Gethin Lewis",
+                "col": 3, "row": 2
+            }
         }
 
 

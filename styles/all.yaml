@@ -118,7 +118,7 @@ styles:
         mix: avatars
         shaders:
             defines:
-                COLS: 3
+                COLS: 4
                 ROWS: 3
             uniforms:
                 u_sprite: helpers
