@@ -864,7 +864,7 @@ Traditional Tibetan Buddhist mandalas are made from grains of sand.
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?start=90&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?start=110&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
 They are ritualistically created and destroyed.
@@ -1001,10 +1001,3 @@ Note:
 
 [patricio.io](http://patricio.io) | [@patriciogv](https://twitter.com/patriciogv)
 
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-[**patriciogonzalezvivo**.github.io/**eyeo16**](http://patriciogonzalezvivo.github.io/eyeo16/)
-
-Note:
-here you can find this presentation.
