@@ -746,33 +746,47 @@ So other people don't need to replicate my difficult and esoteric process of tea
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part I
+![](imgs/parsons-00.gif) ![](imgs/parsons-01.gif)
+
+![](imgs/parsons-02.gif) ![](imgs/parsons-03.gif)
 
 Note:
-
-https://twitter.com/genarthackparty/status/711000906632994816
+this is work from my students at parsons
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part II
+![](imgs/parsons-00.gif) ![](imgs/parsons-01.gif)
+
+![](imgs/parsons-02.gif) ![](imgs/parsons-03.gif)
+
 
 Note:
-
-
-https://twitter.com/wxswxs/status/708091280337797120
+this is work from my students at parsons
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-other people’s rad shaders they made after reading the book, part III
+![](imgs/kynd-00.gif) ![](imgs/kynd-01.gif)
+
+![](imgs/kynd-02.gif) ![](imgs/kynd-03.gif)
+
+**Kenichi** Yoneda (@kyndinfo)
 
 Note:
+Some work of Kenichi Yoneda... which is one of the mayor contributors to the book.
 
-https://twitter.com/jfire/status/698692411048919040
+--
 
-Or like Joseph Fiola work
-http://twitter.com/vjzef
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/joseph-00.gif) ![](imgs/joseph-01.gif)
+
+![](imgs/joseph-03.gif) ![](imgs/joseph-02.gif)
+
+**Joseph** Fiola (@vjzef)
+
+Note:
+Joseph Fiola
 
 --
 
