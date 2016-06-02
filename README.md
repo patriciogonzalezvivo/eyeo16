@@ -219,10 +219,7 @@ The kinect was new back in those days, and I did a realtime simulation of the di
 
 <!-- .slide: data-background="#000000" -->
 
-<video controls>
-    <source data-src="videos/efectomariposa-00.mp4" type="video/mp4">
-    <source data-src="videos/efectomariposa-00.webm" type="video/webm">
-</video>
+<div class="video fit" data="videos/efectomariposa-00.webm" ></div>
 
 Note:
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... **Then they had to wait until the system regained balance to interact with it again.** 
@@ -268,7 +265,7 @@ Jung believed that every person's unconscious goes deeper into a collective sour
 ![](imgs/collective-unc.png)
 
 Note:
-Jung also used this idea of a collective unconcious to explain significant events that seem to be connected by more than simple cause and effect.
+Jung also used this idea of a collective unconcious to explain **meaningful coincidences** that seem to be connected by more than simple cause and effect.
 
 Like dreaming about an event before it happens... or witnessing something where it seems the "world" is trying to speak with you.
 
@@ -617,6 +614,7 @@ Note:
 ![](imgs/Skyline02-10.png)
 
 Note:
+This is an intrinsic fragility in working with proprietary tools.
 
 --
 
@@ -624,7 +622,6 @@ Note:
 ![](imgs/Skyline02-11.png)
 
 Note:
-This is an intrinsic fragility in working with proprietary tools.
 
 --
 
@@ -657,6 +654,7 @@ Our experiments are done in the open
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
 <img data-src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img data-src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
 
 [Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)](https://mapzen.com/blog/point-clouds)
@@ -665,7 +663,7 @@ Note:
 
 --
 
-
+<!-- .slide: data-background="#FFFFFF" -->
 <img data-src='imgs/press.png' style='width: 45%;'> <img data-src='imgs/patterns.png' style='width: 45%;'>
 
 <img data-src='imgs/crosshatch.png' style='width: 45%;'> <img data-src='imgs/pericoli.png' style='width: 45%;'>
@@ -676,7 +674,6 @@ Pushing the limits
 --
 
 <!-- .slide: data-background="#000000" -->
-
 <img data-src='imgs/tilt-tron.gif' style='width: 45%'> <img data-src='imgs/tron.png' style='width: 45%;'>
 
 <img data-src='imgs/matrix.png' style='width: 45%;'> <img data-src='imgs/tilt-matrix.gif' style='width: 45%'>
@@ -936,7 +933,6 @@ New York
 --
 
 <!-- .slide: data-background="#000000" -->
-
 ![](imgs/terrarium-02.gif)  ![](imgs/terrarium-05.gif)
 
 SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NYC
@@ -998,6 +994,7 @@ Note:
 
 ---
 
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/logo-gray.png)
 
 ## Thank you all
@@ -1006,6 +1003,7 @@ Note:
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
 [**patriciogonzalezvivo**.github.io/**eyeo16**](http://patriciogonzalezvivo.github.io/eyeo16/)
 
 Note:

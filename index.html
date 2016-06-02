@@ -105,6 +105,22 @@
                 var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
                 var height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
 
+                var video_elements = section.getElementsByClassName('video');
+                if (video_elements) {
+                    for (var i = 0; i < video_elements.length; i++ ) {
+                        var url = '';
+                        if (video_elements[i].hasAttribute('data')) {
+                            url = video_elements[i].getAttribute('data');
+                        } else if (video_elements[i].hasAttribute('data-src')) {
+                            url = video_elements[i].getAttribute('data-src');
+                        }
+
+                        var extention = url.split('.').pop();
+                        
+                        video_elements[i].innerHTML = '<video controls autoplay>\n<source src="'+url+'" type="video/'+extention+'">\n</video>';
+                    }
+                }
+
                 var fit_elements = section.getElementsByClassName('fit');
                 if (fit_elements) {
                     for (var i = 0; i < fit_elements.length; i++ ) {
