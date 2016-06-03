@@ -709,12 +709,15 @@ Note:
 <img data-src='imgs/lineofsight-03.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-04.gif' style='width: 30%;'> <img data-src='imgs/lineofsight-06.gif' style='width: 30%;'>
 </a>
 
+Line of Sight
+
 Note:
 **Using open data**
 
 (This project **shows all the satellites overhead** at a given moment.)
 
 Also working with open source helps build community. 
+
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
