@@ -129,8 +129,17 @@ styles:
         shaders:
             defines:
                 TILT_IN: 10.
-                TILT_OUT: 16.
-                TILT_ROTATE: false
+                TILT_OUT: 14.
+                TILT_ROTATE: true
+            blocks:
+                position: |
+                    float t = u_time*0.1; 
+                    float z = clamp(smoothstep(TILT_IN/TILT_MAX_ZOOM, TILT_OUT/TILT_MAX_ZOOM, max(u_map_position.z/TILT_MAX_ZOOM,0.)*0.9), 0., 1.);
+                    #ifdef TILT_ROTATE
+                    position.xyz = rotateX3D(z*HALF_PI) * rotateZ3D((PI*1.45-sin(t*0.01)*PI*1.45)*z) * position.xyz;
+                    #else
+                    position.xyz = rotateX3D(z*HALF_PI) * position.xyz;
+                    #endif
     offset:
         shaders:
             defines:
@@ -146,7 +155,7 @@ styles:
                     float offset_min = OFFSET_MIN;
                     float offset = u_offset;
                     if (u_offset == 0.) {
-                        offset = abs(cos(PI*u_time*0.1));
+                        offset = abs(sin(PI*u_time*0.01))-.05;
                     }
                     position.z += offset_pct*(offset_min+offset*offset_scale);
                 color: |
@@ -157,9 +166,6 @@ styles:
         shaders:
             uniforms:
                 u_ramp: ramp
-            blocks:
-                color: |
-                    color.rgb -= (1.-aastep(0.12,abs(sin((normal_elv_raster.a)*500.))))*0.3;
     flat_earth:
         base: polygons
         mix: [geometry-tilt, elevation-ramp]
@@ -177,10 +183,7 @@ styles:
     flat_water:
         base: polygons
         mix: [geometry-tilt, filter-grid]
-        shaders:
-            blocks:
-                filter: |
-                    color.rgb += vec3(.2)*tileGrid();
+
     elev_water:
         base: raster
         animated: true

@@ -799,7 +799,7 @@ Joseph Fiola. How use this patterns
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/joseph-04)
+![](imgs/joseph-04.jpg)
 
 **Joseph** Fiola (@vjzef)
 
@@ -952,11 +952,20 @@ These are **fragile times**.
 Rio de Janeiro
 <!-- .slide: data-background="#000000" -->
 
-<iframe class='background'  data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
+![](imgs/rio.jpg)
 
 Note:
-**add slide of jesus view then go back to the rio map**
-**start zoomed out more - rotate to be classic jesus view**
+
+This is rio, a paradise on earth
+
+--
+
+Rio de Janeiro
+<!-- .slide: data-background="#000000" -->
+
+<iframe class='background'  data-src='tangram.html?style=emerge#14.83106/-22.9731/-43.1661'></iframe>
+
+Note:
 
 **At Mapzen, we are working in this is a visualization of sea level rising**.
 It is made with our **VectorTiles** (made from OpenStreetMap data) together with our **new elevation raster tiles**.
