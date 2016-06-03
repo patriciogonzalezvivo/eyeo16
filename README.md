@@ -305,7 +305,7 @@ If I want to push this random closer to the concept of Jung's synchronicity, I s
 wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
 
 Note:
-These 3 mazes are constructed using wind direction, wind speed and temperature of the last few months.
+These 3 mazes are constructed using wind direction, wind speed and temperature of the last few months. **add where**
 I would like to thing that, Jung might approve these.
 
 --
@@ -361,7 +361,7 @@ I understood that **my dreams and my visions came to me from the subsoil of the 
 *C. G. Jung, July 1914*
 
 Note:
-Jung... super happy about war breaking out... not really a great guy.
+**fix this** Jung... super happy about war breaking out... not really a great guy.
 
 These collective nightmares he was noticing became his support for the idea of a collective unconscious.
 
@@ -494,7 +494,7 @@ It got very popular and helped others to incorporate shaders into their work.
 ![](imgs/zach.jpg)
 
 Note:
-Thanks to that addon, I met Zach Lieberman.
+Thanks to that addon, I met Zach Lieberman. **have to add Zach's wife's name here**	
 
 --
 
@@ -510,7 +510,7 @@ And thanks to Zach, I applied to parsons, and moved to NYC : )
 ![](imgs/Skyline02.png)
 
 Note:
-Fast forward two years and in 2014, for my thesis...
+Fast forward two years and in 2014 when I was working on my thesis...
 
 I was working on a series of projects about awareness and the tools we use to see the world around us.
 
@@ -591,7 +591,7 @@ I worked with the style until I felt the results were honest about the nature of
 <iframe data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
 Note:
-I tried to prepare some new point clouds for this talk, and found that Google's changed their API and it no longer has depth data.
+I tried to prepare some new point clouds for this talk, and found that Google's changed their API.
 
 --
 
@@ -802,7 +802,7 @@ Joseph Fiola
 <iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
 
 Note:
-ppl are using the editor everyday
+ppl are using the editor everyday. I like to enter here every day and see new things appear.
 
 --
 
@@ -939,12 +939,10 @@ It is made with our VectorTiles of OpenStreetMap data together with our new elev
 
 It is possible to construct a terrain with world coverage and see what areas are affected by the sea level rising.
 
-And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise estimates disagree, but a worldwide visualization of what different estimates would look like could help with climate change communication.
+**find something to say that sounds better to you** And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise estimates disagree, but a worldwide visualization of what different estimates would look like could help with climate change communication.
 
-**mention lack of OSM data - add slide of jesus view then go back to the rio map**
+**add slide of jesus view then go back to the rio map**
 
-**nyc flood map**
-**can you make a bangladesh flood map like this one from the nytimes? http://www.nytimes.com/2014/03/29/world/asia/facing-rising-seas-bangladesh-confronts-the-consequences-of-climate-change.html**
 
 <!-- Barcelona
 <iframe class='background'  data-src='tangram.html?/tangram.html?style=emerge#14.19854/41.3833/2.1655'></iframe>
@@ -976,7 +974,7 @@ Note:
 I won't lie: when the world seems too complicated or difficult (and it often does), I hide in shaders; I take comfort in simple instructions that can create harmony from individual pixels. 
 
 **insert transition here**
-that doing an internet search for XML 6 and a half years ago would lead me here:
+also I find refuge in synchronicity, in the fact that doing an internet search for XML 6 and a half years ago would lead me here:
 
 --
 
@@ -993,7 +991,7 @@ Note:
 
 
 Note:
-I am in awe that the synchronicity of moving to new york, and being in Zach's class, would lead me here
+**find something to say that works for you** I am in awe that the synchronicity of moving to new york, and being in Zach's class, would lead me here
 
 --
 
