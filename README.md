@@ -446,7 +446,7 @@ To make Efecto Mariposa, I had to learn how to code in GLSL shaders, in order to
 --
 
 <!-- .slide: data-background="#OOOOOO" -->
-<iframe data-src='edit.html?log=160528172431&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
+<iframe data-src='edit.html?log=160603004045&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
 
 Note:
 I absolutely fell in love with shaders. 
@@ -494,7 +494,7 @@ It got very popular and helped others to incorporate shaders into their work.
 ![](imgs/zach.jpg)
 
 Note:
-Thanks to that addon, I met Zach Lieberman. **have to add Zach's wife's name here**	
+Thanks to that addon, I met Molmol Kuo and Zach Lieberman. **have to add Zach's wife's name here**	
 
 --
 
@@ -810,7 +810,6 @@ ppl are using the editor everyday. I like to enter here every day and see new th
 <iframe data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
-**change the stroke color to something bright and add jitter to the locations so all the people display**
 These are some of the people who have joined this project, donating time and effort to help others learn.
 
 I'm just so **thankful** to them.
@@ -933,65 +932,64 @@ Rio de Janeiro
 <iframe class='background'  data-src='tangram.html?style=emerge#15.3023/-22.9476/-43.1791'></iframe>
 
 Note:
-**start zoomed out more - rotate to be classic jesus view**
-This is a visualization of sea level rising that we're working on at Mapzen,
-It is made with our VectorTiles of OpenStreetMap data together with our new elevation raster tiles.
-
-It is possible to construct a terrain with world coverage and see what areas are affected by the sea level rising.
-
-**find something to say that sounds better to you** And while it's not eyeo-shiny (yet), I think it will be useful. Sea level rise estimates disagree, but a worldwide visualization of what different estimates would look like could help with climate change communication.
-
 **add slide of jesus view then go back to the rio map**
+**start zoomed out more - rotate to be classic jesus view**
+At Mapzen, we are working in this is a visualization of sea level rising.
+It is made with our VectorTiles made from OpenStreetMap data together with our new elevation raster tiles.
 
+Combined it's possible to construct a terrain with world coverage and see what areas are affected by the sea level rising.
 
-<!-- Barcelona
-<iframe class='background'  data-src='tangram.html?/tangram.html?style=emerge#14.19854/41.3833/2.1655'></iframe>
-
-San Francisco
-<iframe class='background'  data-src='tangram.html?style=emerge#14.85229/37.7958/-122.3980'></iframe>
-
-New York
-<iframe class='background'  data-src='?style=emerge#15.42646/40.7055/-74.0116'></iframe>
- -->
+Althought sea-level-rise estimates disagree, and it's hard to find consensus on papers, this map will be useful to help with the communication arround climate change.
 
 --
 
 <!-- .slide: data-background="#000000" -->
-[![](imgs/terrarium-02.gif)](http://mapzen.github.io/seaLevel/?style=local#15.13537/37.7971/-122.3975)  [![](imgs/terrarium-05.gif)](http://mapzen.github.io/seaLevel/?style=local#15.59531/40.7187/-74.0121)
+![](imgs/terrarium-02.gif) ![](imgs/terrarium-05.gif)
 
-SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NYC
-<!-- ![](imgs/terrarium-04.gif) -->
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
-
-Note:
-**make this a mandala shader**
-**need a transition**
-**my interactive installations blah blah blah... something something... sea level rise visualization...**
-I won't lie: when the world seems too complicated or difficult (and it often does), I hide in shaders; I take comfort in simple instructions that can create harmony from individual pixels. 
-
-**insert transition here**
-also I find refuge in synchronicity, in the fact that doing an internet search for XML 6 and a half years ago would lead me here:
-
---
-
-<!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=tilt-ikeda-orig#16/40.7076/-74.0146'></iframe>
+SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 
 Note:
 
+Like efecto mariposa this are images of fragil and complex system fighting for balance...
+
+reacting non linearly... temperamentally... unpredictably
+
 --
 
-
 <!-- .slide: data-background="#000000" -->
-<iframe style='min-height: 800px;' data-src='http://player.thebookofshaders.com/?log=160601150024'></iframe>
-
+<iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
 
 Note:
-**find something to say that works for you** I am in awe that the synchronicity of moving to new york, and being in Zach's class, would lead me here
+I found in the ephimeral nature of mandalas, the harmony to accept fragility...
+
+To be gentle and listen the flow...
+
+To be open to others and the whole...
+
+I find refuge in synchronicity, in the fact that doing an internet search for XML 6 and a half years ago would lead me here:
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='tangram.html?style=tilt-ikeda-orig#16/40.7076/-74.0146' ></iframe>
+
+Note:
+
+[pause]
+
+Looking back...
+
+--
+
+<!-- .slide: data-background="#000000" -->
+<iframe data-src='http://player.thebookofshaders.com/?log=160601151757' ></iframe>
+
+Note:
+Synchronicity invites me to new york, 
+
+to be in Zach's class...
+
+that lead me to this moment
 
 --
 
@@ -999,14 +997,16 @@ Note:
 ![](imgs/20150405.jpg)
 
 Note:
+[pause]
 
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160601151757'></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160601150024'></iframe>
 
 Note:
-and that working in public with open source tools would lead me here today. 
+Also lead me to work in the open...
+which lead me here today.
 
 --
 
@@ -1014,7 +1014,7 @@ and that working in public with open source tools would lead me here today.
 <iframe data-src='tangram.html?style=all#3/20/10'></iframe>
 
 Note:
-**thank you to everyone and every synchronicity that helped me get here**
+**Thanks to every person and every event that weive a path, a network, a home a family... with me**
 
 ---
 
