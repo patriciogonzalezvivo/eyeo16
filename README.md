@@ -219,7 +219,7 @@ The kinect was new back in those days, and I did a realtime **simulation of the 
 
 <!-- .slide: data-background="#000000" -->
 
-<div class="video" data="videos/efectomariposa-00.webm" ></div>
+<div style="width: 100%; height: 100%;" class="video" data="videos/efectomariposa-00.webm" ></div>
 
 Note:
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... Then they had to **wait until the system regained balance** to interact with it again.
@@ -454,7 +454,7 @@ To make Efecto Mariposa, I had to **learn how to code in GLSL shaders**, in orde
 --
 
 <!-- .slide: data-background="#OOOOOO" -->
-<iframe data-src='edit.html?log=160603004045&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
+<iframe data-src='edit.html?log=160603004045&multipleBuffers=false&menu=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
 
 Note:
 I absolutely **fell in love** with shaders. 
@@ -1054,6 +1054,11 @@ Note:
 
 ---
 
+<!-- .slide: data-background="#000000" -->
+**patriciogonzalezvivo**.github.io/**eyeo16**
+
+---
+
 <!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/logo-gray.png)
 
@@ -1064,4 +1069,3 @@ Note:
 Note:
 
 Thanks you
-
