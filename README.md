@@ -8,11 +8,11 @@
 
 Note:
 Hola, Buenos Dias, Hello, my name is Patricio Gonzalez Vivo.
-It's an honor to be here. Big thanks to Dave, Jer, and Wes for inviting me to share my work today. Also thanks to my wife, Jen Lowe, who is my collaborator in all things, including this talk.
+It's an honor to be here. Big thanks to **Dave, Jer, Wes and Caitlin** for inviting me to share my work today. Also thanks to my wife, **Jen Lowe**, who is my collaborator in all things, including this talk.
 
 [**make sure sound is on**]
 
-I thought I'd start by showing a bit of my most embarrassing work on the internet, just to get it out of the way. 
+I thought I'd start by showing my most embarrassing work on the internet, just to get it out of the way. 
 
 --
 
@@ -29,9 +29,9 @@ Ok, that's enough of that.
 <iframe data-src='tangram.html?style=tilt-pericoli&animate=true#15/40.7076/-74.0146'></iframe>
 
 Note:
-I'm a developer currently based in New York City working at Mapzen, where I'm helping to build a 3D Map engine and experimenting with maps & shaders.
+I'm a **developer currently based in New York City working at Mapzen**, where I'm **helping to build a 3D Map engine** and experimenting with **maps & shaders**.
 
-But 7 years ago I was a psychologist and expressive art therapist in Buenos Aires.
+But **7 years ago I was a psychologist and expressive art therapist** in Buenos Aires.
 
 I'm going to talk about the synchronicities that led me here.
 
@@ -44,8 +44,8 @@ I'm going to talk about the synchronicities that led me here.
 ![](imgs/arteparasanarte.gif)
 
 Note:
-At the very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
-This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because this talk is also going to spiral. 
+At the **very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business**. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
+This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because **this talk is also going to spiral**. 
 
 --
 
@@ -54,7 +54,7 @@ This is the second of a few embarrassing things I’m going to show you, but it�
 
 Note:
 While I was building my website, I needed to figure out how to work with XML files...
-...so I searched for “processing XML,” and in the first of many synchronicities, I ended up here...
+...so I searched for “processing XML,” and in the **first of many synchronicities**, I ended up here...
 
 --
 
@@ -65,7 +65,7 @@ Note:
 … to a webpage that I’m sure is familiar to a lot of us :)
 
 and it took me a while to understand what was going on on this page... 
-that this was a community of people making ART with CODE. I felt like I’d tapped into a world of misfits like me, and I wanted to use these tools for expressive art therapy…
+that this was a **community of people making ART with CODE**. I felt like I’d tapped into a world of misfits like me, and I wanted to use these tools for expressive art therapy…
 
 --
 
@@ -75,11 +75,11 @@ that this was a community of people making ART with CODE. I felt like I’d tapp
 Note:
 …so let’s spiral back to art therapy for a minute.
 
-The expressive art therapy approach flows between different artistic languages like music, painting, sculpture, and dance... to discover, amplify, and transform emotions and processes in the body. 
+The expressive art therapy approach **flows between different artistic languages** like music, painting, sculpture, and dance... to **discover, amplify, and transform emotions and processes in the body**. 
 
-It feels like being in a state of play... but these non verbal languages allow you to dive very deep.
+It feels like being in a state of play... but these **non verbal languages allow you to dive very deep**.
 
-Each different language gives you the ability to express your interior landscape in a different way. 
+**Each different language gives you the ability to express your interior landscape in a different way**. 
 
 --
 
@@ -87,7 +87,7 @@ Each different language gives you the ability to express your interior landscape
 ![sculpture](imgs/arttherapy-03.png)
 
 Note:
-Sculpture is about letting shape emerge...
+Sculpture is about **letting shape emerge**...
 
 --
 
@@ -95,7 +95,7 @@ Sculpture is about letting shape emerge...
 ![sculpture](imgs/arttherapy-04.png)
 
 Note:
-While painting is more like a sedimental process where meaning deposits in layers... one after another...
+While painting is more like a **sedimental process where meaning deposits in layers**... one after another...
 
 --
 
@@ -103,7 +103,7 @@ While painting is more like a sedimental process where meaning deposits in layer
 ![](imgs/arttherapy-movement.gif)
 
 Note:
-And movement lets you embody a feeling and transform it over time.
+And movement lets you **embody a feeling and transform it** over time.
 
 --
 
@@ -113,7 +113,7 @@ And movement lets you embody a feeling and transform it over time.
 Lygia Clark
 
 Note:
-In South America, we can trace these kinds of activities to the pioneering work of Brazilian artist Lygia Clark.
+In South America, we can trace these kinds of activities to the pioneering work of Brazilian artist **Lygia Clark**.
 
 --
 
@@ -125,7 +125,7 @@ In South America, we can trace these kinds of activities to the pioneering work 
 ![](imgs/lygia-03.jpg)
 
 Note:
-In the 1970s she created interactive works that directly involved museum goers in collaborative sensory experiences. In the late 70s, she shifted from creating artworks to working as an art therapist.
+In the 1970s she created **interactive works that directly involved museum goers in collaborative sensory experiences**. In the late 70s, she shifted from creating artworks to working as an art therapist.
 
 --
 
@@ -133,7 +133,7 @@ In the 1970s she created interactive works that directly involved museum goers i
 ![sculpture](imgs/arttherapy-01.png)
 
 Note:
-Expressive art therapy is usually done together with others. It is a very experiential, organic and intense process...
+Expressive art therapy is usually done together **with others**. It is a very **experiential, organic and intense** process...
 
 --
 
@@ -149,7 +149,7 @@ often we end up constructing a collective mandala... as a way to tie the individ
 ![](imgs/processing.png)
 
 Note:
-Because I was already working with all of these expressive languages, when I discovered the Processing community, I was moved by the use of CODE as an expressive language.
+Because I was already working with all of these expressive languages, when I discovered the Processing community, I was **moved by the use of CODE as an expressive language**.
 
 --
 
@@ -179,7 +179,7 @@ I applied, and here we are in interactivos 2010. I made great friends there, lik
 ![calos](imgs/arttherapy-02.png)
 
 Note:
-At that time I was also working as an art therapist with a group of kids at the CALOS community center, and that really influenced the project I made at Interactivos...
+At that time I was also working as an art therapist with a group of kids at the **CALOS community center**, and that really influenced the project I made at Interactivos...
 
 --
 
@@ -187,7 +187,7 @@ At that time I was also working as an art therapist with a group of kids at the 
 ![communitas](imgs/communitas.png)
 
 Note:
-...with the kids in mind, at Interactivos I worked on a collective drawing installation. I made a device to try to promote interaction between people instead of alienation.
+...**with the kids in mind, at Interactivos I worked on a collective drawing installation**. I made a device to try to **promote interaction** between people instead of alienation.
 
 But I found that the installation didn't get people to interact in the ways I'd imagined...
 
@@ -195,7 +195,7 @@ Adults were interacting in polite ways, almost afraid to break the table...
 
 While kids used it to discharge all their energy and anxiety. 
 
-I felt that the technological feel of the installation had too much gravity - people interacted much differently with this digital collective mandala than they did when painting a collective mandala on paper.
+I felt that the **technological feel of the installation had too much gravity** - people interacted much differently with this digital collective mandala than they did when painting a collective mandala on paper.
 
 --
 
@@ -203,9 +203,9 @@ I felt that the technological feel of the installation had too much gravity - pe
 ![](imgs/efectomariposa.png)
 
 Note:
-These reflections led me to make my next project, efecto mariposa (or "the butterfly effect")
+**These reflections led me to make my next project**, efecto mariposa (or "the butterfly effect")
 
-I wanted to make a more sensitive installation, where techonology was hidden beneath a more natural interface.
+I wanted to make a more **sensitive** installation, where **techonology was hidden beneath a more natural interface**.
 
 --
 
@@ -213,17 +213,17 @@ I wanted to make a more sensitive installation, where techonology was hidden ben
 <img data-src="imgs/efectomariposa.gif" height="800px">
 
 Note:
-The kinect was new back in those days, and I did a realtime simulation of the different spheres of an ecosystem, 
+The kinect was new back in those days, and I did a realtime **simulation of the different spheres of an ecosystem**, 
 
 --
 
 <!-- .slide: data-background="#000000" -->
 
-<div class="video fit" data="videos/efectomariposa-00.webm" ></div>
+<div class="video" data="videos/efectomariposa-00.webm" ></div>
 
 Note:
-programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... **Then they had to wait until the system regained balance to interact with it again.** 
-This forced a gentle experimentation with the system
+programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... Then they had to **wait until the system regained balance** to interact with it again.
+This forced a **gentle experimentation with the system**.
 
 --
 
@@ -232,11 +232,11 @@ This forced a gentle experimentation with the system
 ![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
-Another synchronicity happened while I was making Efecto Mariposa, but to explain it, and to explain what I mean by synchronicity, I'm going to spiral back to psychology
+**Another synchronicity** happened while I was making Efecto Mariposa, but to explain it, and to **explain what I mean by synchronicity**, I'm going to **spiral back to psychology**
 
 I'm from Buenos Aires, which, together with Paris and the Upper East Side, is one of the last places in the world where people do Psychoanalysis.
 
-Among Buenos Aires psychoanalysts, everyone was into this guy:
+Among Buenos Aires therapist, everyone was into this guy:
 
 FREUD.
 
@@ -244,7 +244,7 @@ But I was into this other guy,
 
 … his archenemy. Carl Gustave Jung.
 
-Like most archenemies, they use to be friends. Jung was Freud's favorite student. 
+Like most archenemies, they use to be friends. In fact, Jung was Freud's favorite student. 
 
 --
 
@@ -252,12 +252,12 @@ Like most archenemies, they use to be friends. Jung was Freud's favorite student
 ![](imgs/redbook-00.jpg)
 
 Note:
-At the begining of the 1900s it was fashionable for psychiatrists to keep dream diaries. Jung had a dream diary, where he wrote about and drew his dreams.
+At the begining of the **1900s it was fashionable for psychiatrists to keep dream diaries**. Jung had one where he wrote about and drew his dreams.
 Jung was very interested in the mythological content of dreams. 
 
 Freud thought the unconsious content of dreams came from **personal** memories, but Jung believed that the unconscious content came from a place deeper than personal memories... 
 
-Jung believed that every person's unconscious goes deeper into a collective source of unconscious material, the *collective unconscious*
+Jung believed that every **person's unconscious goes deeper into a collective source of unconscious material**, the **collective unconscious**
 
 --
 
@@ -277,10 +277,10 @@ He differentiates this concept from chance, or randomness, by using the word **s
 ![](imgs/10PRINT.png)
 
 Note:
-It's hard to say CHANCE or RANDOM with out pointing to the work of Casey Reas...
-Casey in this book, and some of his talks, points to the complexity behind perfect computer random.
+It's hard to say CHANCE or RANDOM with out pointing to the work of **Casey Reas**...
+Casey in this book, together with his collaborators points to the complexity behind perfect computer random.
 
-For example in GLSL Shaders, a parallel programing language designed to run in the graphic card, there is not a native function for random.
+For example in **GLSL Shaders, a parallel programing language designed to run in the graphic card, there is not a native function for random**.
 
 --
 
@@ -289,9 +289,9 @@ For example in GLSL Shaders, a parallel programing language designed to run in t
 
 Note:
 
-Here is a recode of 10 PRINT maze algorithm in GLSL... here you can see how I'm constructing pseudo random from a sine wave. Not particularly simbolic.
+Here is a **recode of 10 PRINT** maze algorithm in to a shader... between lines 14 and 16 you can see how I'm constructing a pseudo random from a sine wave. Not particularly simbolic.
 
-If I want to push this random closer to the concept of Jung's synchronicity, I should use a simbolical source to be more open to the collective... like the wind direction. 
+But if I want to **open this random to the Jungiang concept of synchronicity**, I should use more a simbolical source than a sine wave... something that's more **open to the complexity and serendipity of the collective**... like the wind. 
 
 --
 
@@ -305,8 +305,8 @@ If I want to push this random closer to the concept of Jung's synchronicity, I s
 wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
 
 Note:
-These 3 mazes are constructed using wind direction, wind speed and temperature of the last few months. **add where**
-I would like to thing that, Jung might approve these.
+Here I **modify the previus code to use** last months data of: **wind direction, wind speed and temperature**.
+I would like to thing that Jung will like this **gesture**.
 
 --
 
@@ -314,7 +314,7 @@ I would like to thing that, Jung might approve these.
 ![](imgs/redbook-02.png)
 
 Note:
-Back to the collective unconcious... Jung was noticing that he was having recurring vivid nightmares.
+Back to the collective unconcious... Jung was noticing that he was having **recurring vivid nightmares**.
 
 --
 
@@ -322,7 +322,7 @@ Back to the collective unconcious... Jung was noticing that he was having recurr
 ![](imgs/redbook-03.jpg)
 
 Note:
-Nightmares about floods. 
+Nightmares about **floods**. 
 
 --
 
@@ -330,13 +330,13 @@ Nightmares about floods.
 ![](imgs/redbook-01.png)
 
 Note:
-Nightmares about volcanoes. 
+Nightmares about **volcanoes**. 
 
-He worried that he was becoming schizophrenic. 
+To the point he worried that he was becoming **schizophrenic**.
 
-He also noticed that many of his patients were having similar nightmares, and he worried that he was somehow "infecting" his patients with his own nightmares. 
+He also noticed that many of his patients were having similar nightmares, and he worried that he was somehow **"infecting"** his patients with his own nightmares. 
 
-When World War I started, he found another explanation for the collective nightmares...
+When **the first World War** started, he found another explanation for the collective nightmares...
 
 --
 
@@ -361,11 +361,11 @@ I understood that **my dreams and my visions came to me from the subsoil of the 
 *C. G. Jung, July 1914*
 
 Note:
-**fix this** Jung... super happy about war breaking out... not really a great guy.
+Yep... Jung wasn't a great guy... All happy about his discoveries while war breaking out... 
 
-These collective nightmares he was noticing became his support for the idea of a collective unconscious.
+These collective nightmares he was noticing became his **support for the idea of a collective unconscious**.
 
-The increase in nightmares came from the collective unconsious, tapping in to a future vision that war was coming.
+For him, this nightmares were feed by **the subsoil of the collective unconsious**, tapping in to a future vision that war was coming.
 
 --
 
@@ -373,11 +373,11 @@ The increase in nightmares came from the collective unconsious, tapping in to a 
 ![](imgs/redbook-01.png)
 
 Note:
-In June 2011  (five years ago)...
+In **June 2011** (five years ago)...
 
-after 50 years of lying dormant, and without any notice,
+**after 50 years of lying dormant, and without any notice,**
 
-a volcano in southern Chile called Puyehue erupted.
+a volcano in southern Chile called **Puyehue** erupted.
 
 --
 
@@ -385,7 +385,7 @@ a volcano in southern Chile called Puyehue erupted.
 ![](imgs/puyehue-02.jpg)
 
 Note:
-This eruption ejected around one hundred million tons of ash, sand and pumice. 
+This eruption ejected around **one hundred million tons of ash, sand and pumice**. 
 
 --
 
@@ -409,14 +409,16 @@ A satellite view.
 <iframe data-src='tangram.html?style=puyehue#9.765/-40.6179/-72.0973'></iframe>
 
 Note:
-Wind, embodying chance... moves the volcanic plume handreds of kilometers away.
+**Wind, embodying chance...**
 
-All the way to Buenos Aires, where I was living.
+**moves the volcanic plume handreds of kilometers away.**
 
-WHAT ARE THE CHANCES???
+**All the way to Buenos Aires**, where I was living.
+
+**WHAT ARE THE CHANCES** that this happen?? right?
 
 The ash brought destruction, 
-airports were closed for weeks,
+the airports were closed for weeks,
 supermarket shelves emptied.
 
 --
@@ -427,7 +429,11 @@ supermarket shelves emptied.
 ![](imgs/puyehue-11.jpg) <!-- {_class="fragment"} -->
 
 Note:
-everything… felt… fragile.
+**everything**...
+
+**felt**...
+
+**fragile**.
 
 --
 
@@ -437,11 +443,13 @@ everything… felt… fragile.
 Note:
 This eruption happened while I was making efecto mariposa.
 
-I had planned to use sand for the installation, but instead I used Puyehue's ashes.
+I had **planned to use sand for the installation, but instead I used Puyehue's ashes**.
 
-The ashes made the work more significant for those who experienced it, and the eruption motivated me to tune the algorithms simulating different layers of the ecosystem to make it more complex... and less linear... more temperamental and sensitive to interactions. The synchronicity of the volcano influenced both the form of the installation and its function; it reacted in unexpected ways.
+The ashes made the work more significant for those who experienced it, and the eruption **motivated me to tune the algorithms** simulating different layers of the ecosystem to make it **more complex**... and **less linear**... **more temperamental and sensitive to interactions**. 
 
-To make Efecto Mariposa, I had to learn how to code in GLSL shaders, in order to do the simulations in realtime.
+**The synchronicity of the volcano influenced both the form of the installation and its function**; it **reacted in unexpected ways**.
+
+To make Efecto Mariposa, I had to **learn how to code in GLSL shaders**, in order to do the simulations in realtime.
 
 --
 
@@ -449,19 +457,19 @@ To make Efecto Mariposa, I had to learn how to code in GLSL shaders, in order to
 <iframe data-src='edit.html?log=160603004045&multipleBuffers=false&theme=neo&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
 
 Note:
-I absolutely fell in love with shaders. 
+I absolutely **fell in love** with shaders. 
 
-I love shaders because of their constraints and simplicity.
+I love shaders because of their **constraints and simplicity**.
 
-- There are no libraries
-- only mathematical functions
-- The input is images... and the output is images...
+- There are **no libraries**
+- only **mathematical functions**
+- The input is images... and the **output is images**...
 
-It is code from the perspective of the pixels... the individual elements that compose an image.
+It is **code from the perspective of the pixels**... the **individual elements that compose an image**.
 
-I think of them as similar to haikus. All you have to do is describe an image in a few sentences of code.
+I think of them as similar to **haikus**. All you have to do is **describe an image in a few sentences** of code.
 
-This forces me to think of algorithms from the perspective of the pixels... the atoms... the minimal components.
+This **forces me to think of algorithms from the perspective of the pixels**... the **atoms**... the **minimal components**.
 
 And I'm not there yet, but I think this simplicity can be an expressive language.
 
@@ -475,9 +483,9 @@ And I'm not there yet, but I think this simplicity can be an expressive language
 ![](imgs/ofxFX-03.gif)
 
 Note:
-So anyway, I grabbed all the layers of simulations I was doing with shaders for efecto mariposa.
+So anyway, I **grabbed all the layers of simulations I was doing with shaders** for efecto mariposa.
 
-I broke them into modules... and put them together into an openFrameworks addon.
+I broke them into **modules**... and put them together into an **openFrameworks addon**.
 
 My first openSource contribution was ofxFX. 
 
@@ -494,7 +502,7 @@ It got very popular and helped others to incorporate shaders into their work.
 ![](imgs/zach.jpg)
 
 Note:
-Thanks to that addon, I met Molmol Kuo and Zach Lieberman. **have to add Zach's wife's name here**	
+Thanks to that addon, I met **Molmol Kuo and Zach Lieberman**.
 
 --
 
@@ -502,7 +510,7 @@ Thanks to that addon, I met Molmol Kuo and Zach Lieberman. **have to add Zach's 
 <iframe data-src='tangram.html?style=bue-nyc#3.8/5.83/-62.89'></iframe>
 
 Note:
-And thanks to Zach, I applied to parsons, and moved to NYC : )
+And **thanks to Zach, I applied to parsons**, and **moved to NYC** : )
 
 --
 
@@ -510,11 +518,11 @@ And thanks to Zach, I applied to parsons, and moved to NYC : )
 ![](imgs/Skyline02.png)
 
 Note:
-Fast forward two years and in 2014 when I was working on my thesis...
+**Fast forward two years and in 2014** when I was working on my **thesis**...
 
-I was working on a series of projects about awareness and the tools we use to see the world around us.
+I was working on a series of **projects about awareness and the tools we use to see the world around us**.
 
-This machine in particular prints a large-scale horizon showing the transition between the city and the mountains.
+This machine in particular prints a **large-scale horizon showing the transition between the city and the mountains**.
 
 --
 
@@ -530,7 +538,7 @@ To construct a continuous horizon I was scraping google street view data.
 ![](imgs/Skyline02-01.png)
 
 Note:
-Finding ways to stitch the panoramic images together.
+Finding ways to **stitch the panoramic images** together.
 
 --
 
@@ -538,7 +546,7 @@ Finding ways to stitch the panoramic images together.
 ![](imgs/cb-view-depth-map.png)
 
 Note:
-Then I found this depth data in their API
+Then I found this depthmap data in their API
 
 --
 
@@ -554,7 +562,7 @@ Having z allows me to add up point clouds.
 ![](imgs/Skyline02-03.png)
 
 Note:
-The results were for me like inventing photography again...
+The results were for me like **inventing photography** again...
 
 --
 
@@ -562,7 +570,7 @@ The results were for me like inventing photography again...
 ![](imgs/Skyline02-04.png)
 
 Note:
-I have to choose a location, put my camera in focus, and then wait for the calls to come back with points of light.
+I have to **choose a location, put my camera in focus**, and **then wait for the calls to come back from the server with points of light**.
 
 --
 
@@ -570,7 +578,7 @@ I have to choose a location, put my camera in focus, and then wait for the calls
 ![](imgs/Skyline02-05.png)
 
 Note:
-These images of public spaces emerged slowly from the depth of a private database.
+These **images of public spaces emerged slowly from the depth of a private database**.
 
 --
 
@@ -578,7 +586,7 @@ These images of public spaces emerged slowly from the depth of a private databas
 ![](imgs/Skyline02-06.png)
 
 Note:
-I worked with the style until I felt the results were honest about the nature of the process.
+I worked with the style until I felt the results were **honest about the nature of the process**.
 
 --
 
@@ -591,7 +599,9 @@ I worked with the style until I felt the results were honest about the nature of
 <iframe data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
 Note:
-I tried to prepare some new point clouds for this talk, and found that Google's changed their API.
+[interact with it... show arround]
+
+I tried to prepare some new point clouds for this talk, and found that **Google's changed their API**.
 
 --
 
@@ -599,7 +609,7 @@ I tried to prepare some new point clouds for this talk, and found that Google's 
 ![](imgs/Skyline02-08.png)
 
 Note:
-So sometime since 2014, Google made these images into limited editions. 
+So **sometime since 2014, Google made these images into limited editions**. 
 
 --
 
@@ -614,7 +624,7 @@ Note:
 ![](imgs/Skyline02-10.png)
 
 Note:
-This is an intrinsic fragility in working with proprietary tools.
+**This is an intrinsic fragility in working with proprietary tools**.
 
 --
 
@@ -629,9 +639,11 @@ Note:
 <iframe data-src="tangram.html?style=tilt-gotham-orig#16/40.7076/-74.0146"></iframe>
 
 Note:
-At Mapzen we work with open standards... using community created and mantained data... like openStreetMap data...
+**At Mapzen we work with open standards**... 
 
-Everything we do is open source
+**using community created and mantained data**... like openStreetMap data...
+
+**Everything we do is open source**
 
 --
 
@@ -641,7 +653,7 @@ Everything we do is open source
 [![](imgs/mapzen-team.gif)](https://mapzen.com/about/#team)
 
 note:
-I have the privilege of working with a stellar line up of some of the best professionals in the field, doing what I love the most... shaders.
+I have the **privilege of working with a stellar line up of some of the best professionals in the field**, doing what I love the most... shaders.
 
 --
 
@@ -673,7 +685,7 @@ Note:
 </a>
 
 Note:
-Pushing the limits
+**Pushing the limits**
 
 --
 
@@ -685,7 +697,7 @@ Pushing the limits
 </a>
 
 Note:
-Of what can be done with maps
+**Of what can be done with maps**
 
 --
 
@@ -698,10 +710,11 @@ Of what can be done with maps
 </a>
 
 Note:
-Using open data
+**Using open data**
 
-**(This project shows all the satellites overhead at a given moment.)**
+(This project **shows all the satellites overhead** at a given moment.)
 
+Also working with open source helps build community. 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
@@ -710,8 +723,6 @@ Using open data
 **Weili** Shi (@shiweili)
 
 Note:
-working with open source helps build community. 
-
 these are some projects made using mapzen's tools.
 
 --
@@ -729,7 +740,7 @@ Note:
 ![](imgs/shiffman.jpg)
 
 Note:
-how much of the community in this room right now exists because of processing and this book?
+how much of **the community in this room** exists because of **processing and this book**?
 
 --
 
@@ -737,11 +748,11 @@ how much of the community in this room right now exists because of processing an
 ![](imgs/TBoS-00.png)
 
 Note:
-This relationship between openness and community... 
+**This relationship between openness and community**... 
 
-is a solution to fragility.
+**is a solution to fragility**.
 
-That's why I wrote The Book of Shaders, together with my wife Jen...
+**That's why I wrote The Book of Shaders, together with my wife Jen**...
 
 --
 
@@ -749,7 +760,7 @@ That's why I wrote The Book of Shaders, together with my wife Jen...
 ![](imgs/TBoS-01.png)
 
 Note:
-So other people don't need to replicate my difficult and esoteric process of teach-yourself-shaders.
+So other people don't need to **replicate my difficult and esoteric process of teach-yourself-shaders**.
 
 --
 
@@ -759,18 +770,7 @@ So other people don't need to replicate my difficult and esoteric process of tea
 ![](imgs/parsons-02.gif) ![](imgs/parsons-03.gif)
 
 Note:
-this is work from my students at parsons
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
-![](imgs/parsons-00.gif) ![](imgs/parsons-01.gif)
-
-![](imgs/parsons-02.gif) ![](imgs/parsons-03.gif)
-
-
-Note:
-this is work from my students at parsons
+this is work from my **students at parsons**
 
 --
 
@@ -782,7 +782,7 @@ this is work from my students at parsons
 **Kenichi** Yoneda (@kyndinfo)
 
 Note:
-Some work of Kenichi Yoneda... which is one of the mayor contributors to the book.
+This is some work of Kenichi Yoneda... which is one of the mayor contributors to the book.
 
 --
 
@@ -794,7 +794,18 @@ Some work of Kenichi Yoneda... which is one of the mayor contributors to the boo
 **Joseph** Fiola (@vjzef)
 
 Note:
-Joseph Fiola
+Joseph Fiola. How use this patterns 
+
+--
+
+<!-- .slide: data-background="#000000" -->
+![](imgs/joseph-04)
+
+**Joseph** Fiola (@vjzef)
+
+Note:
+on his VJ performance.
+This happen in the begining of this year in Montreal 
 
 --
 
@@ -802,7 +813,9 @@ Joseph Fiola
 <iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
 
 Note:
-ppl are using the editor everyday. I like to enter here every day and see new things appear.
+Like this artist, **ppl are using the book's editor everyday**. 
+
+I like to enter here every day and see new things appear.
 
 --
 
@@ -810,11 +823,11 @@ ppl are using the editor everyday. I like to enter here every day and see new th
 <iframe data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
-These are some of the people who have joined this project, donating time and effort to help others learn.
+These are some of the **people who have joined this project**, donating time and effort to help others learn.
 
 I'm just so **thankful** to them.
 
-They've translated the book of shaders to Japanese, Korean, Spanish and French. The Italian translation is on the way.
+They've **translated the book of shaders to Japanese, Korean, Spanish and French**. The Italian translation is on the way.
 
 Also talking to them is bringing new voices to the project. I have this feeling that the book is starting to have a life of its own.
 
@@ -824,11 +837,13 @@ Also talking to them is bringing new voices to the project. I have this feeling 
 <iframe data-src='http://thebookofshaders.com/06'></iframe>
 
 Note:
-So along with writing the teaching metaphors, I found my self developing tools for the book.
+So **along with writing the teaching metaphors**, I found my self **developing tools** for the book.
 
-The embedded live coding editor is crucial. It decreases the distance from reading of a concept to trying it in code.
+The **embedded live coding editor is crucial**. It **decreases the distance** from reading of a concept to trying it in code.
 
-Also the little helpers to tweak and change variables are very helpful to make abstract concept more tangible. For example a vec3 can be a color, a position or direction. This concept are interchangeable in the shader. Because shaders are basically mathematical functions and vectors have that plasticity.
+Also the little helpers to tweak and change variables are very helpful to **make abstract concept more tangible**. 
+
+For example a **vec3 can be a color, a position or direction**. This concept are **interchangeable in the shader**. **Because shaders are basically mathematical functions and vectors have that plasticity**.
 
 --
 
@@ -838,7 +853,7 @@ Also the little helpers to tweak and change variables are very helpful to make a
 ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
-Lately I've been writing shaders for an openFrame I made from a raspberryPi and some garbage in my apartment basement
+Lately I've been **writing shaders for an openFrame I made from a raspberryPi and some garbage** in my apartment basement
 
 --
 
@@ -855,7 +870,7 @@ Note:
 ![](imgs/openframe-08.gif) ![](imgs/openframe-09.gif) ![](imgs/openframe-10.gif)
 
 Note:
-I've been enjoying the challenge of making shaders harmonious enough to live in my house, and I've spiraled back around to mandalas, my old friends from art therapy.
+I've been **enjoying the challenge of making shaders harmonious enough** to live in my house, and I've **spiraled back around to mandalas**, my old friends from art therapy.
 
 --
 
@@ -868,7 +883,13 @@ I've been enjoying the challenge of making shaders harmonious enough to live in 
 ![](imgs/mandala-05.jpg) <!-- {_class="fragment"} -->
 
 Note:
-"Mandala" refers loosely to any symbolic circular form that refers to “the whole”. We can find them in all major religions. :)
+**"Mandala" refers loosely to any symbolic circular form that refers to “the whole”**. 
+
+**We can find them in all major religions**. 
+
+[double press here]
+
+:)
 
 --
 
@@ -876,7 +897,7 @@ Note:
 ![](imgs/self.png)
 
 Note:
-Jung's diagram of the psychic structure, including the collective unconscious. Note how he deliberately made it look like a mandala.
+**Jung's diagram of the psychic structure**, including the collective unconscious. Note how he **deliberately made it look like a mandala**.
 
 --
 
@@ -884,7 +905,7 @@ Jung's diagram of the psychic structure, including the collective unconscious. N
 ![](imgs/mandala-tibetan.jpg)
 
 Note:
-Traditional Tibetan Buddhist mandalas are made from grains of sand.
+**Traditional Tibetan Buddhist mandalas are made from grains of sand**.
 
 --
 
@@ -892,9 +913,9 @@ Traditional Tibetan Buddhist mandalas are made from grains of sand.
 <iframe data-src="https://www.youtube.com/embed/LcJWazzEUKk?start=110&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 Note:
-They are ritualistically created and destroyed.
+They are **ritualistically created and destroyed**.
 
-This seems like a practice of fragility.
+This seems like a **practice of fragility**.
 
 --
 
@@ -914,7 +935,7 @@ Look at it, it is completely real, and it will come to pass. You cannot doubt th
 *C. G. Jung, October 1913*
 
 Note:
-Jung's description of the flood nightmares.
+**Jung's description** of the flood nightmares.
 
 --
 
@@ -922,7 +943,9 @@ Jung's description of the flood nightmares.
 ![](imgs/redbook-03.jpg)
 
 Note:
-Visions of flooding are already happening in worldwide, and scientists have predicted from about 0.5 meter to 1.5 meter sea level rise by 2100. These are fragile times.
+**Visions of flooding are already happening in worldwide**, and scientists have predicted from about 0.5 meter to 1.5 meter sea level rise by 2100. 
+
+These are **fragile times**.
 
 --
 
@@ -934,12 +957,13 @@ Rio de Janeiro
 Note:
 **add slide of jesus view then go back to the rio map**
 **start zoomed out more - rotate to be classic jesus view**
-At Mapzen, we are working in this is a visualization of sea level rising.
-It is made with our VectorTiles made from OpenStreetMap data together with our new elevation raster tiles.
 
-Combined it's possible to construct a terrain with world coverage and see what areas are affected by the sea level rising.
+**At Mapzen, we are working in this is a visualization of sea level rising**.
+It is made with our **VectorTiles** (made from OpenStreetMap data) together with our **new elevation raster tiles**.
 
-Althought sea-level-rise estimates disagree, and it's hard to find consensus on papers, this map will be useful to help with the communication arround climate change.
+**Combined it's possible to construct a terrain with world coverage** and see **what areas are affected by the sea level rising**.
+
+Althought sea-level-rise **estimates disagree**, and it's hard to find consensus on papers, this map will be useful to **help with the communication arround climate change**.
 
 --
 
@@ -950,9 +974,9 @@ SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 Note:
 
-Like efecto mariposa this are images of fragil and complex system fighting for balance...
+Like efecto mariposa this are images of **fragil and complex system fighting for balance**...
 
-reacting non linearly... temperamentally... unpredictably
+**reacting non linearly... temperamentally... unpredictably**
 
 --
 
@@ -960,13 +984,13 @@ reacting non linearly... temperamentally... unpredictably
 <iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
 
 Note:
-I found in the ephimeral nature of mandalas, the harmony to accept fragility...
+I found in the **ephimeral nature of mandalas, the harmony to accept fragility**...
 
-To be gentle and listen the flow...
+To be **gentle and listen the flow**...
 
-To be open to others and the whole...
+To be **open to others and the whole**...
 
-I find refuge in synchronicity, in the fact that doing an internet search for XML 6 and a half years ago would lead me here:
+I find **refuge in synchronicity**, in the fact that doing an internet search for XML 6 and a half years ago would lead me here:
 
 --
 
@@ -1006,7 +1030,7 @@ Note:
 
 Note:
 Also lead me to work in the open...
-which lead me here today.
+which lead me here today with you.
 
 --
 
@@ -1014,7 +1038,7 @@ which lead me here today.
 <iframe data-src='tangram.html?style=all#3/20/10'></iframe>
 
 Note:
-**Thanks to every person and every event that weive a path, a network, a home a family... with me**
+**Thanks to every person and every event that interweave a path, a network, a home a family**... with me
 
 ---
 
@@ -1024,4 +1048,8 @@ Note:
 ## Thank you all
 
 [patricio.io](http://patricio.io) | [@patriciogv](https://twitter.com/patriciogv)
+
+Note:
+
+Thanks you
 
