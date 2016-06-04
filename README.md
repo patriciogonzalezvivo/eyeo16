@@ -2,13 +2,15 @@
 <!-- .slide: data-background="#000000" -->
 # What are the chances?
 
-** Patricio Gonzalez Vivo **
+** Patricio González Vivo **
 
 *patricio.io* | *@patriciogv*
 
 Note:
-Hola, Buenos Dias, Hello, my name is Patricio Gonzalez Vivo.
-It's an honor to be here. Big thanks to **Dave, Jer, Wes and Caitlin** for inviting me to share my work today. Also thanks to my wife, **Jen Lowe**, who is my collaborator in all things, including this talk.
+Hola, EYEO! Mi nombre es Patricio Gonzalez Vivo. Es un honor esta acá con ustedes...
+Hello, my name is Patricio Gonzalez Vivo. It's an honor to be here. 
+
+Big thanks to **Dave, Jer, Wes and Caitlin** for inviting me to share my work today. Also thanks to my wife, **Jen Lowe**, who is my collaborator in all things, including this talk.
 
 [**make sure sound is on**]
 
@@ -44,7 +46,7 @@ I'm going to talk about the synchronicities that led me here.
 ![](imgs/arteparasanarte.gif)
 
 Note:
-At the **very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business**. The site was "arte para sanarte", which is a worldplay meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
+At the **very end of 2009, I was an expressive art therapist in Buenos Aires building a website for my business**. The site was "arte para sanarte", which is a world-play meaning "art to heal". I built it in Flash, and thanks to The Wayback Machine, I recovered it here in GIF form : )
 This is the second of a few embarrassing things I’m going to show you, but it’s appropriate because **this talk is also going to spiral**. 
 
 --
@@ -191,9 +193,9 @@ Note:
 
 But I found that the installation didn't get people to interact in the ways I'd imagined...
 
-Adults were interacting in polite ways, almost afraid to break the table... 
+Kids used it to discharge all their energy and anxiety. 
 
-While kids used it to discharge all their energy and anxiety. 
+While grownups were interacting in polite ways, almost afraid to break the table... 
 
 I felt that the **technological feel of the installation had too much gravity** - people interacted much differently with this digital collective mandala than they did when painting a collective mandala on paper.
 
@@ -205,7 +207,7 @@ I felt that the **technological feel of the installation had too much gravity** 
 Note:
 **These reflections led me to make my next project**, efecto mariposa (or "the butterfly effect")
 
-I wanted to make a more **sensitive** installation, where **techonology was hidden beneath a more natural interface**.
+I wanted to make a more **sensitive** installation, where **technology was hidden beneath a more natural interface**.
 
 --
 
@@ -225,6 +227,8 @@ Note:
 programmed in such a way that the ecosystem suffers if people interact with it in an aggressive way... Then they had to **wait until the system regained balance** to interact with it again.
 This forced a **gentle experimentation with the system**.
 
+**Another synchronicity** happened while I was making Efecto Mariposa, but to explain it, and to **explain what I mean by synchronicity**, I'm going to **spiral back to psychology**
+
 --
 
 <!-- .slide: data-background="#000000" -->
@@ -232,7 +236,6 @@ This forced a **gentle experimentation with the system**.
 ![](imgs/jung.jpg ) <!-- {_class="fragment"} -->
 
 Note:
-**Another synchronicity** happened while I was making Efecto Mariposa, but to explain it, and to **explain what I mean by synchronicity**, I'm going to **spiral back to psychology**
 
 I'm from Buenos Aires, which, together with Paris and the Upper East Side, is one of the last places in the world where people do Psychoanalysis.
 
@@ -252,20 +255,21 @@ Like most archenemies, they use to be friends. In fact, Jung was Freud's favorit
 ![](imgs/redbook-00.jpg)
 
 Note:
-At the begining of the **1900s it was fashionable for psychiatrists to keep dream diaries**. Jung had one where he wrote about and drew his dreams.
+At the beginning of the **1900s it was fashionable for psychiatrists to keep dream diaries**. Jung had one where he wrote about and drew his dreams.
 Jung was very interested in the mythological content of dreams. 
 
-Freud thought the unconsious content of dreams came from **personal** memories, but Jung believed that the unconscious content came from a place deeper than personal memories... 
+Freud thought the unconscious content of dreams came from **personal** memories, but Jung believed that the unconscious content came from a place deeper than personal memories... 
 
 Jung believed that every **person's unconscious goes deeper into a collective source of unconscious material**, the **collective unconscious**
 
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-![](imgs/collective-unc.png)
+<!-- ![](imgs/collective-unc.png) -->
+![](imgs/flammarion.jpg)
 
 Note:
-Jung also used this idea of a collective unconcious to explain **meaningful coincidences** that seem to be connected by more than simple cause and effect.
+Jung also used this idea of a collective unconscious to explain **meaningful coincidences** that seem to be connected by more than simple cause and effect.
 
 Like dreaming about an event before it happens... or witnessing something where it seems the "world" is trying to speak with you.
 
@@ -289,9 +293,9 @@ For example in **GLSL Shaders, a parallel programing language designed to run in
 
 Note:
 
-Here is a **recode of 10 PRINT** maze algorithm in to a shader... between lines 14 and 16 you can see how I'm constructing a pseudo random from a sine wave. Not particularly simbolic.
+Here is a **recode of 10 PRINT** maze algorithm in to a shader... between lines 14 and 16 you can see how I'm constructing a pseudo random from a sine wave. Not particularly symbolic.
 
-But if I want to **open this random to the Jungiang concept of synchronicity**, I should use more a simbolical source than a sine wave... something that's more **open to the complexity and serendipity of the collective**... like the wind. 
+But if I want to **open this random to the Jungiang concept of synchronicity**, I should use more a symbolical source than a sine wave... something that's more **open to the complexity and serendipity of the collective**... like the wind. 
 
 --
 
@@ -305,7 +309,7 @@ But if I want to **open this random to the Jungiang concept of synchronicity**, 
 wind direction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; wind speed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; temperature
 
 Note:
-Here I **modify the previus code to use** last months data of: **wind direction, wind speed and temperature**.
+Here I **modify the previous code to use wind direction, wind speed and temperature**. Collected from the US NOA servers during the last two months.
 I would like to thing that Jung will like this **gesture**.
 
 --
@@ -314,7 +318,7 @@ I would like to thing that Jung will like this **gesture**.
 ![](imgs/redbook-02.png)
 
 Note:
-Back to the collective unconcious... Jung was noticing that he was having **recurring vivid nightmares**.
+Back to the collective unconscious... Jung was noticing that he was having **recurring vivid nightmares**.
 
 --
 
@@ -354,7 +358,7 @@ And when I disembarked in Holland on the next day,
 
 **nobody was happier than I**.
 
-Now I was sure that no schizoprenia was threatening me. 
+Now I was sure that no schizophrenia was threatening me. 
 
 I understood that **my dreams and my visions came to me from the subsoil of the collective unconscious**."
 
@@ -365,7 +369,7 @@ Yep... Jung wasn't a great guy... All happy about his discoveries while war brea
 
 These collective nightmares he was noticing became his **support for the idea of a collective unconscious**.
 
-For him, this nightmares were feed by **the subsoil of the collective unconsious**, tapping in to a future vision that war was coming.
+For him, this nightmares were feed by **the subsoil of the collective unconscious**, tapping in to a future vision that war was coming.
 
 --
 
@@ -385,7 +389,7 @@ a volcano in southern Chile called **Puyehue** erupted.
 ![](imgs/puyehue-02.jpg)
 
 Note:
-This eruption ejected around **one hundred million tons of ash, sand and pumice**. 
+This eruption ejected around **one hundred million tons of ash and sand**. 
 
 --
 
@@ -411,7 +415,7 @@ A satellite view.
 Note:
 **Wind, embodying chance...**
 
-**moves the volcanic plume handreds of kilometers away.**
+**moves the volcanic plume hundreds of kilometers away.**
 
 **All the way to Buenos Aires**, where I was living.
 
@@ -447,6 +451,8 @@ I had **planned to use sand for the installation, but instead I used Puyehue's a
 
 The ashes made the work more significant for those who experienced it, and the eruption **motivated me to tune the algorithms** simulating different layers of the ecosystem to make it **more complex**... and **less linear**... **more temperamental and sensitive to interactions**. 
 
+[stop the video]
+
 **The synchronicity of the volcano influenced both the form of the installation and its function**; it **reacted in unexpected ways**.
 
 To make Efecto Mariposa, I had to **learn how to code in GLSL shaders**, in order to do the simulations in realtime.
@@ -471,7 +477,7 @@ I think of them as similar to **haikus**. All you have to do is **describe an im
 
 This **forces me to think of algorithms from the perspective of the pixels**... the **atoms**... the **minimal components**.
 
-And I'm not there yet, but I think this simplicity can be an expressive language.
+And I'm not there yet, but I think **the simplicity of shaders can be an expressive language**.
 
 --
 
@@ -599,7 +605,7 @@ I worked with the style until I felt the results were **honest about the nature 
 <iframe data-src='http://patriciogonzalezvivo.com/2014/skylines/queensboro/'></iframe>
 
 Note:
-[interact with it... show arround]
+[interact with it... show around]
 
 I tried to prepare some new point clouds for this talk, and found that **Google's changed their API**.
 
@@ -633,6 +639,8 @@ Note:
 
 Note:
 
+[Drink water]
+
 --
 
 <!-- .slide: data-background="#1D1D1D" -->
@@ -641,7 +649,7 @@ Note:
 Note:
 **At Mapzen we work with open standards**... 
 
-**using community created and mantained data**... like openStreetMap data...
+**using community created and maintained data**... like openStreetMap data...
 
 **Everything we do is open source**
 
@@ -653,7 +661,8 @@ Note:
 [![](imgs/mapzen-team.gif)](https://mapzen.com/about/#team)
 
 note:
-I have the **privilege of working with a stellar line up of some of the best professionals in the field**, doing what I love the most... shaders.
+I have the **privilege of working with a stellar line up of some of the best professionals in the field**.
+There I work as a graphic engineer.
 
 --
 
@@ -663,7 +672,7 @@ I have the **privilege of working with a stellar line up of some of the best pro
 </a>
 
 Note:
-Our experiments are done in the open 
+doing experiments in the open 
 
 --
 
@@ -802,13 +811,15 @@ Joseph Fiola. How use this patterns
 --
 
 <!-- .slide: data-background="#000000" -->
-![](imgs/joseph-04.jpg)
+<!-- ![](imgs/joseph-04.jpg) -->
+
+<div class="video fit" data="videos/josepth-00.webm" ></div>
 
 **Joseph** Fiola (@vjzef)
 
 Note:
 on his VJ performance.
-This happen in the begining of this year in Montreal 
+This happen in the beginning of this year in Montreal 
 
 --
 
@@ -830,7 +841,7 @@ These are some of the **people who have joined this project**, donating time and
 
 I'm just so **thankful** to them.
 
-They've **translated the book of shaders to Japanese, Korean, Spanish and French**. The Italian translation is on the way.
+They've **translated the book of shaders to Japanese, Korean, Chinese, Spanish and French**. The Italian translation is on the way.
 
 Also talking to them is bringing new voices to the project. I have this feeling that the book is starting to have a life of its own.
 
@@ -843,6 +854,8 @@ Note:
 So **along with writing the teaching metaphors**, I found my self **developing tools** for the book.
 
 The **embedded live coding editor is crucial**. It **decreases the distance** from reading of a concept to trying it in code.
+
+[zoom in]
 
 Also the little helpers to tweak and change variables are very helpful to **make abstract concept more tangible**. 
 
@@ -931,7 +944,7 @@ Remember Jung's flood nightmares that came from the collective unconscious?
 --
 
 <!-- .slide: data-background="#000000" -->
-"**I saw a terrible flood** that covered all the northen and low-lying lands between the North Sea and the Alps. It reached from England up to Russia, and from the coast of the North Sea right up to the Alps. I saw yellow waves, swimming rubble and the death of countless thousands... Two weeks passed then the visions returned, still more violent than before and an inner voice spoke: 
+"**I saw a terrible flood** that covered all the northern and low-lying lands between the North Sea and the Alps. It reached from England up to Russia, and from the coast of the North Sea right up to the Alps. I saw yellow waves, swimming rubble and the death of countless thousands... Two weeks passed then the visions returned, still more violent than before and an inner voice spoke: 
 
 Look at it, it is completely real, and it will come to pass. You cannot doubt this."
 
@@ -959,7 +972,7 @@ Rio de Janeiro
 
 Note:
 
-This is rio, a paradise on earth
+This is Rio, a **beautiful complicated city** that I love.
 
 --
 
@@ -975,7 +988,7 @@ It is made with our **VectorTiles** (made from OpenStreetMap data) together with
 
 **Combined it's possible to construct a terrain with world coverage** and see **what areas are affected by the sea level rising**.
 
-Althought sea-level-rise **estimates disagree**, and it's hard to find consensus on papers, this map will be useful to **help with the communication arround climate change**.
+Although sea-level-rise **estimates disagree**, and it's hard to find consensus on papers, this map will be useful to **help with the communication around climate change**.
 
 --
 
@@ -986,7 +999,7 @@ SFC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 Note:
 
-Like efecto mariposa this are images of **fragil and complex system fighting for balance**...
+Like efecto mariposa this are images of **fragile and complex system fighting for balance**...
 
 **reacting non linearly... temperamentally... unpredictably**
 
@@ -996,7 +1009,7 @@ Like efecto mariposa this are images of **fragil and complex system fighting for
 <iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
 
 Note:
-I found in the **ephimeral nature of mandalas, the harmony to accept fragility**...
+I found in the **ephemeral nature of mandalas, the harmony to accept fragility**...
 
 To be **gentle and listen the flow**...
 
@@ -1025,7 +1038,7 @@ Synchronicity invites me to new york,
 
 to be in Zach's class...
 
-that lead me to this moment
+that lead me to this moment [click]
 
 --
 
