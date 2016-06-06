@@ -1006,7 +1006,7 @@ Like efecto mariposa this are images of **fragile and complex system fighting fo
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160601142223&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
+<iframe data-src='edit.html?log=160606010503&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
 
 Note:
 I found in the **ephemeral nature of mandalas, the harmony to accept fragility**...
@@ -1031,7 +1031,7 @@ Looking back...
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160601151757' ></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160606011120' ></iframe>
 
 Note:
 Synchronicity invites me to new york, 
@@ -1051,7 +1051,7 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160601150024'></iframe>
+<iframe data-src='http://player.thebookofshaders.com/?log=160606010925'></iframe>
 
 Note:
 Also lead me to work in the open...
