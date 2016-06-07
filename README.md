@@ -94,7 +94,7 @@ Sculpture is about **letting shape emerge**...
 --
 
 <!-- .slide: data-background="#000000" -->
-![sculpture](imgs/arttherapy-04.png)
+![painting](imgs/arttherapy-04.png)
 
 Note:
 While painting is more like a **sedimental process where meaning deposits in layers**... one after another...
