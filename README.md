@@ -666,6 +666,7 @@ I have the **privilege of working with a stellar line up of some of the best pro
 
 --
 
+<!-- .slide: data-background="#FFFFFF" -->
 ![](imgs/geraldine.jpg)
 ![](imgs/geraldine-work.jpg)
 
@@ -692,9 +693,12 @@ doing experiments in the open
 
 <!-- .slide: data-background="#FFFFFF" -->
 <a href='https://mapzen.com/blog/point-clouds'>
-<img data-src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-09.png' style='max-height: 359px;'> <img data-src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
-Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)
+<img data-src='imgs/pointclouds-01a.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-09.png' style='max-height: 359px;'> 
+<p></p>
+<img data-src='imgs/pointclouds-11.gif' style='max-height: 359px;'> <img data-src='imgs/pointclouds-13.gif' style='max-height: 359px;'>
 </a>
+
+Experiment on LIDAR + SfM + OpenStreetMap (Python/C++)
 
 Note:
 
