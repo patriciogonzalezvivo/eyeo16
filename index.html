@@ -109,6 +109,8 @@
                 var video_elements = section.getElementsByClassName('video');
                 if (video_elements) {
                     for (var i = 0; i < video_elements.length; i++ ) {
+                        section.style.top = '0px';
+                        
                         var url = '';
                         if (video_elements[i].hasAttribute('data')) {
                             url = video_elements[i].getAttribute('data');
@@ -118,7 +120,7 @@
 
                         var extention = url.split('.').pop();
                         
-                        video_elements[i].innerHTML = '<video class="fit" controls autoplay muted>\n<source src="'+url+'" type="video/'+extention+'">\n</video>';
+                        video_elements[i].innerHTML = '<video autoplay muted>\n<source src="'+url+'" type="video/'+extention+'">\n</video>';
                     }
                 }
 

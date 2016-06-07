@@ -155,7 +155,7 @@ styles:
                     float offset_min = OFFSET_MIN;
                     float offset = u_offset;
                     if (u_offset == 0.) {
-                        offset = abs(sin(PI*u_time*0.01))-.05;
+                        offset = abs(sin(PI*u_time*0.01))-.12;
                     }
                     position.z += offset_pct*(offset_min+offset*offset_scale);
                 color: |

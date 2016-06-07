@@ -1087,7 +1087,7 @@ which lead me here today with you.
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='tangram.html?style=all#3/20/10'></iframe>
+<iframe data-src='tangram.html?style=all#3/20/10' ></iframe>
 
 Note:
 **Thanks to every person and every event that interweave a path, a network, a home a family**... with me
