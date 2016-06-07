@@ -289,7 +289,8 @@ For example in **GLSL Shaders, a parallel programing language designed to run in
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe>
+<!-- <iframe data-src='edit.html?log=160306213426&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true'></iframe> -->
+<iframe data-src='edit.html?menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true#shaders/160306213426.frag'></iframe>
 
 Note:
 
@@ -460,7 +461,8 @@ To make Efecto Mariposa, I had to **learn how to code in GLSL shaders**, in orde
 --
 
 <!-- .slide: data-background="#OOOOOO" -->
-<iframe data-src='edit.html?log=160603004045&multipleBuffers=false&menu=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe>
+<!-- <iframe data-src='edit.html?log=160603004045&multipleBuffers=false&menu=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true'></iframe> -->
+<iframe data-src='edit.html?multipleBuffers=false&menu=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true&canvas_resizable=true#shaders/160603004045.frag'></iframe>
 
 Note:
 I absolutely **fell in love** with shaders. 
@@ -1029,7 +1031,7 @@ Like efecto mariposa this are images of **fragile and complex system fighting fo
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='edit.html?log=160606010503&menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true' ></iframe>
+<iframe data-src='edit.html?menu=false&multipleBuffers=false&theme=tomorrow-night-eighties&canvas_size=halfscreen&canvas_snapable=true#shaders/160606010503.frag' ></iframe>
 
 Note:
 I found in the **ephemeral nature of mandalas, the harmony to accept fragility**...
@@ -1054,7 +1056,8 @@ Looking back...
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160606011120' ></iframe>
+<!-- <iframe data-src='http://player.thebookofshaders.com/?log=160606011120' ></iframe> -->
+<iframe data-src='player.html#shaders/160606011120.frag' ></iframe>
 
 Note:
 Synchronicity invites me to new york, 
@@ -1074,7 +1077,8 @@ Note:
 --
 
 <!-- .slide: data-background="#000000" -->
-<iframe data-src='http://player.thebookofshaders.com/?log=160606010925'></iframe>
+<!-- <iframe data-src='http://player.thebookofshaders.com/?log=160606010925'></iframe> -->
+<iframe data-src='player.html#shaders/160606010925.frag' ></iframe>
 
 Note:
 Also lead me to work in the open...
