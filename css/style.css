@@ -1,28 +1,4 @@
 /*********************************************
- * GLOBAL FONTS
- *********************************************/
-
-@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,200,600);
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('../../fonts/montserrat-ultralight-webfont.woff2') format('woff2'),
-         url('../../fonts/montserrat-ultralight-webfont.woff') format('woff'),
-         url('../../fonts/montserrat-ultralight-webfont.ttf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('../../fonts/montserrat-regular-webfont.woff2') format('woff2'),
-         url('../../fonts/montserrat-regular-webfont.woff') format('woff'),
-         url('../../fonts/montserrat-regular-webfont.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-/*********************************************
  * GLOBAL STYLES
  *********************************************/
 
@@ -32,7 +8,7 @@ body {
 }
 
 .reveal {
-    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 40px;
     font-weight: 200;
     color: #222; 
@@ -59,7 +35,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
     color: #222;
-    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 400;
     line-height: 1.2;
     letter-spacing: normal;
