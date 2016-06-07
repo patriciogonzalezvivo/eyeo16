@@ -844,16 +844,6 @@ This happen in the beginning of this year in Montreal
 --
 
 <!-- .slide: data-background="#FFFFFF" -->
-<iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
-
-Note:
-Like this artist, **ppl are using the book's editor everyday**. 
-
-I like to enter here every day and see new things appear.
-
---
-
-<!-- .slide: data-background="#FFFFFF" -->
 <iframe data-src='tangram.html?style=collaborators#3/20/10'></iframe>
 
 Note:
@@ -880,6 +870,16 @@ The **embedded live coding editor is crucial**. It **decreases the distance** fr
 Also the little helpers to tweak and change variables are very helpful to **make abstract concept more tangible**. 
 
 For example a **vec3 can be a color, a position or direction**. This concept are **interchangeable in the shader**. **Because shaders are basically mathematical functions and vectors have that plasticity**.
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+<iframe data-src="http://thebookofshaders.com/log/?index=0&jump=200"></iframe>
+
+Note:
+Like this artist, **ppl are using the book's editor everyday**. 
+
+I like to enter here every day and see new things appear.
 
 --
 
