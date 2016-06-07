@@ -662,7 +662,21 @@ Note:
 
 note:
 I have the **privilege of working with a stellar line up of some of the best professionals in the field**.
-There I work as a graphic engineer.
+
+
+--
+
+![](imgs/geraldine.jpg)
+![](imgs/geraldine-work.jpg)
+
+**Geraldine** Sarmiento (@sensescape)
+
+Note:
+Like Geraldine Sarmiento, which is here in Eyeo also representing mapzen...
+
+[breathe]
+
+I work as a graphic engineer.
 
 --
 
@@ -906,6 +920,11 @@ Note:
 [double press here]
 
 :)
+
+--
+
+<!-- .slide: data-background="#FFFFFF" -->
+![](imgs/20160606_220739.jpg)
 
 --
 
