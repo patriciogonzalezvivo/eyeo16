@@ -1,14 +1,14 @@
 # Patricio Gonzalez Vivo ( @patriciogv ) - 2016
 
 import:
-    - https://tangrams.github.io/blocks/global.yaml
-    - https://tangrams.github.io/blocks/functions/aastep.yaml
-    - https://tangrams.github.io/blocks/filter/grid.yaml
-    - https://tangrams.github.io/blocks/filter/height.yaml
-    - https://tangrams.github.io/blocks/terrarium/lines.yaml
-    - https://tangrams.github.io/blocks/terrarium/terrain.yaml
-    - https://tangrams.github.io/blocks/elevation/ramp.yaml
-    - https://tangrams.github.io/blocks/fx/water.yaml
+    - blocks/global.yaml
+    - blocks/functions/aastep.yaml
+    - blocks/filter/grid.yaml
+    - blocks/filter/height.yaml
+    - blocks/terrarium/lines.yaml
+    - blocks/terrarium/terrain.yaml
+    - blocks/elevation/ramp.yaml
+    - blocks/fx/water.yaml
     
 sources:
     osm: 

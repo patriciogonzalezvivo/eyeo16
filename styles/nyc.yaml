@@ -1,7 +1,7 @@
 # author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
 import:
     - default.yaml
-    - https://tangrams.github.io/blocks/points/shape.yaml
+    - blocks/points/shape.yaml
 
 sources:
     places: 

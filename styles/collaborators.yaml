@@ -4,12 +4,12 @@
 #
 
 import:
-    - https://tangrams.github.io/blocks/global.yaml
-    - https://tangrams.github.io/blocks/patterns/grid.yaml
-    - https://tangrams.github.io/blocks/lines/dash.yaml
-    - https://tangrams.github.io/blocks/points/cross.yaml
-    - https://tangrams.github.io/blocks/points/shape.yaml
-    - https://tangrams.github.io/blocks/elevation/stripes.yaml
+    - blocks/global.yaml
+    - blocks/patterns/grid.yaml
+    - blocks/lines/dash.yaml
+    - blocks/points/cross.yaml
+    - blocks/points/shape.yaml
+    - blocks/elevation/stripes.yaml
 
 sources:
     osm:

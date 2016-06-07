@@ -5,8 +5,8 @@
 
 import:
     - default.yaml
-    - https://tangrams.github.io/blocks/geometry/projections.yaml
-    - https://tangrams.github.io/blocks/points/shape.yaml
+    - blocks/geometry/projections.yaml
+    - blocks/points/shape.yaml
 
 sources:
     places: 

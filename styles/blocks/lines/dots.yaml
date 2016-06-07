@@ -1,0 +1,15 @@
+# Patricio Gonzalez Vivo - 2016
+
+styles:
+    lines-dots:
+        base: lines
+        texcoords: true
+        blend: overlay
+        shaders:
+            defines:
+                DOT_SIZE: .05
+            blocks:
+                color: |
+                    vec2 st = fract(v_texcoord.xy);
+                    st -= .5;
+                    color.a = 1.- step(DOT_SIZE, dot(st,st)*2.);

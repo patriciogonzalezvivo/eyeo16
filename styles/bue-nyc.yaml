@@ -5,9 +5,9 @@
 
 import:
     - puyehue.yaml
-    - https://tangrams.github.io/blocks/geometry/projections.yaml
-    - https://tangrams.github.io/blocks/points/shape.yaml
-    - https://tangrams.github.io/blocks/generative/random.yaml
+    - blocks/geometry/projections.yaml
+    - blocks/points/shape.yaml
+    - blocks/generative/random.yaml
 
 sources:
     places: 

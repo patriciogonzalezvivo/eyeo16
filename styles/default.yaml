@@ -1,12 +1,12 @@
 author: Patricio Gonzalez Vivo (@patriciogv) - 2016 
 
 import:
-    - https://tangrams.github.io/blocks/global.yaml
-    - https://tangrams.github.io/blocks/filter/grid.yaml
-    - https://tangrams.github.io/blocks/lines/dash.yaml
-    - https://tangrams.github.io/blocks/points/cross.yaml
-    - https://tangrams.github.io/blocks/elevation/stripes.yaml
-    - https://tangrams.github.io/blocks/elevation/ramp.yaml
+    - blocks/global.yaml
+    - blocks/filter/grid.yaml
+    - blocks/lines/dash.yaml
+    - blocks/points/cross.yaml
+    - blocks/elevation/stripes.yaml
+    - blocks/elevation/ramp.yaml
 
 sources:
     osm:

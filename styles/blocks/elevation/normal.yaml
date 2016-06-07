@@ -1,0 +1,22 @@
+# Patricio Gonzalez Vivo (@patriciogv) - 2016
+
+styles:
+    elevation-normal:
+        doc:
+            description: |
+                When a raster normalmap tiles source is load like:
+                ```
+                    normals-elevation:
+                        type: Raster
+                        url: https://s3.amazonaws.com/elevation-tiles-prod/normal/{z}/{x}/{y}.png
+                        max_zoom: 15
+                ```
+                Use it to apply the normalmap and let the lighting system do the rest
+        raster: custom
+        shaders:
+            defines:
+                NORMAL_TEXTURE_INDEX: 0
+            blocks:
+                normal: |
+                    vec4 normal_elv_raster = sampleRaster(int(NORMAL_TEXTURE_INDEX));
+                    normal = (normal_elv_raster.rgb-.5)*2.;

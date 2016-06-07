@@ -1,0 +1,13 @@
+# Patricio Gonzalez Vivo - 2016
+
+styles:
+    lines-stripes:
+        base: lines
+        texcoords: true
+        shaders:
+            defines:
+                STRIPES_WIDTH: .1
+                STRIPES_INTENSITY: .1
+            blocks:
+                color: |
+                    color.rgb += step(STRIPES_WIDTH, sin((fract(v_texcoord).x+fract(v_texcoord).y) * 6.283)) * STRIPES_INTENSITY;
